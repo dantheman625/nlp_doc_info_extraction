@@ -57,9 +57,9 @@ venv/
 # data/processed/
 # models/checkpoints/
 
-# Logs and metrics (if you prefer not to track)
-logs/
-metrics/
+# Content inside Logs and metrics (if you prefer not to track)
+# logs/*
+# metrics/*
 
 # Environment files (sensitive information)
 .env
