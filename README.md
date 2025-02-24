@@ -41,8 +41,9 @@
 ├── 3_Training.ipynb
 ├── 4_Evaluation.ipynb
 ├── 5_Demo.ipynb
-├── HELP.md
-├── README.md
+├── CLEANCODE.MD
+├── HELP.MD
+├── README.MD
 └── requirements.txt
 ```
 
