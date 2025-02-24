@@ -33,15 +33,15 @@
 ├── models/                   # Model checkpoints and exports
 │   ├── checkpoints/
 │   └── MyFirstModel.onnx
-├── notebooks/
-│   ├── 1_Preprocessing.ipynb
-│   ├── 2_Baseline.ipynb
-│   ├── 3_Training.ipynb
-│   ├── 4_Evaluation.ipynb
-│   └── 5_Demo.ipynb
 ├── utils/
 │   └── trainingMyCrazyModel.py
 ├── .gitignore
+├── 1_Preprocessing.ipynb
+├── 2_Baseline.ipynb
+├── 3_Training.ipynb
+├── 4_Evaluation.ipynb
+├── 5_Demo.ipynb
+├── HELP.md
 ├── README.md
 └── requirements.txt
 ```
