@@ -100,10 +100,8 @@ You can also run custom scripts located in the `utils/` directory.
 
 | Name              | Contributions                                  |
 |-------------------|------------------------------------------------|
-| Team Member 1     | Data preprocessing, baseline model evaluation. |
-| Team Member 2     | Model training, hyperparameter tuning.         |
-| Team Member 3     | Evaluation, visualization, documentation.      |
-| Team Member 4     | Project management, writing IMRAD paper.       |
+| Daniel Locher     | Data preprocessing, baseline model evaluation. |
+| Nina Krebs     | Model training, hyperparameter tuning.         |
 
 *[Each team member should describe their contributions clearly here.]*
 
