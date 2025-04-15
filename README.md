@@ -15,11 +15,78 @@
 
 ---
 
-## Project Description
+## Project Description: Document-level Information Extraction using NLP and LLMs
 
 [Provide a clear and concise summary of your project, outlining the problem statement, objectives, and your chosen approach using NLP and LLM techniques.]
 
----
+### Problem Statement
+
+In real-world documents, critical information is often scattered across multiple sentences and paragraphs, making it challenging to extract structured knowledge at scale. The **Document-level Information Extraction (DocIE)** challenge addresses this problem by requiring models to identify **entities**, their **mentions**, and the **relationships** between them across an entire paragraph or document, rather than at the sentence level.
+
+The challenge is divided into two key tasks:
+
+- **Task 1: Named Entity Recognition (NER)** – Identify all entity mentions and classify them into predefined entity types across the paragraph.
+- **Task 2: Relation Extraction (RE)** – Identify and classify all relationships between relevant pairs of entities, considering paragraph-level context.
+
+### Objectives
+
+Train a model which is able to:
+- Accurately identify all mentions of entities within a paragraph.
+- Classify these entities into appropriate categories (NER).
+- Detect semantic relationships between entity pairs (RE).
+- Perform well in a document-level setting, where entities and relations span multiple sentences.
+
+### Approach
+
+#### 1. **Data Preprocessing**
+- Load the training data into memory
+- Combine all files to one unified dataset
+- Clean & standardize
+    - Normalize text: special characters, lower-case, remove formatting
+    - Standardize entities (better for grouping)
+
+#### 2. **Baseline Evaluation**
+- Baseline provided by challenge
+- Done with GPT-4o and llama3-ob-all
+- Relevant: F1, Precision, Recall
+
+#### 3. **Entity and Mention Extraction (Task 1 - NER)**
+- Model Input Preparation:
+    - Find tokenizer for long contexts
+    - Span-based Annotation: Prepare training examples that mark every possible span and associate a label using a start–end classifier that directly predicts whether a span is a valid entity and its type
+    - Entity Grouping / Coreference Resolution: Use clustering based on contextual embeddings (from the transformer). Group spans that refer to the same entity so that each output entity consists of its set of mentions along with an overall entity type.
+    - Model Training: Train the span-based NER model end-to-end on the training data. Use standard loss functions (e.g., cross-entropy) over candidate spans and add additional losses if you choose to jointly train entity grouping via multi-task learning.
+    - Output for NER: For each document, output:
+        - A set of mention clusters, where each cluster has one or more spans extracted from the text.
+        - The predicted entity types for those clusters.
+
+#### 4. **Relation Extraction (Task 2 - RE)**
+- Get entity span representations from task 1
+- Form span pairs (E1, E2)
+    - For each pair of entity spans (h_i, h_j), where i ≠ j:
+    - Skip invalid or redundant pairs (e.g., same span, wrong types, overlapping spans if needed).
+- Contextualize Pairs via Attention
+    - Cross-Attention + Pairwise Aggregation (computationally less expensive)
+        <ol>
+            <li>Compute attention weights between each span and all document tokens.</li>
+            <li>Aggregate attended context for each entity span</li>
+            <li>Concatenate</li>
+        </ol>
+- Training the RE Model:
+    - Utilize the labeled relation triples (extracted from the triples field) to supervise the classification.
+    - Include a “no_relation” class in cases where an entity pair does not have a true relation.
+    - Ensure the model learns to use both the local information (the entities’ embeddings) and the global document context.
+- Output for RE: The predicted relation triples, each linking a pair of entities (typically represented by their grouped mentions) to a relation label.
+
+#### 5. **Post-Processing and Final Output Structure**
+- Entity and Relation Linking:
+    - Integrate the outputs of NER and RE to produce a final output structure per document:
+        - The complete set of entities (with groups of mentions and types).
+        - A set of relation triples linking these entities.
+- Error Analysis & Refinement:
+    - Use standard metrics (e.g., Precision, Recall, F1) for both NER and RE.
+    - Analyze common errors (e.g., false positives in relation extraction, misaligned entity boundaries) to adjust the grouping algorithm or the attention mechanism.
+    - Optionally, apply domain adaptation techniques if performance varies significantly across domains.
 
 ## Project Structure
 
