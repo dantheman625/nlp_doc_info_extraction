@@ -54,7 +54,7 @@ venv/
 
 # Dataset & model checkpoints (uncomment if you don't want to commit heavy files)
 # data/raw/
-# data/processed/
+data/processed/
 # models/checkpoints/
 
 # Content inside Logs and metrics (if you prefer not to track)
@@ -63,3 +63,5 @@ venv/
 
 # Environment files (sensitive information)
 .env
+
+
