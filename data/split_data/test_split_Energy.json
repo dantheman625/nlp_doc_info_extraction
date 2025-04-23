@@ -1,0 +1,1674 @@
+[
+  {
+    "domain": "Energy",
+    "title": "Electric_power_industry",
+    "doc": "The electric power industry covers the generation, transmission, distribution and sale of electric power to the general public and industry. The commercial distribution of electric power started in 1882 when electricity was produced for electric lighting. In the 1880s and 1890s, growing economic and safety concerns lead to the regulation of the industry. What was once an expensive novelty limited to the most densely populated areas, reliable and economical electric power has become an essential aspect for normal operation of all elements of developed economies.\nBy the middle of the 20th century, electricity was seen as a \"natural monopoly\", only efficient if a restricted number of organizations participated in the market; in some areas, vertically-integrated companies provide all stages from generation to retail, and only governmental supervision regulated the rate of return and cost structure.\nSince the 1990s, many regions have broken up the generation and distribution of electric power. While such markets can be abusively manipulated with consequent adverse price and reliability impact to consumers, generally competitive production of electrical energy leads to worthwhile improvements in efficiency. However, transmission and distribution are harder problems since returns on investment are not as easy to find.\nAlthough electricity had been known to be produced as a result of the chemical reactions that take place in an electrolytic cell since Alessandro Volta developed the voltaic pile in 1800, its production by this means was, and still is, expensive. In 1831, Michael Faraday devised a machine that generated electricity from rotary motion, but it took almost 50 years for the technology to reach a commercially viable stage. In 1878, in the United States, Thomas Edison developed and sold a commercially viable replacement for gas lighting and heating using locally generated and distributed direct current electricity.Robert Hammond, in December 1881, demonstrated the new electric light in the Sussex town of Brighton in the UK for a trial period. The ensuing success of this installation enabled Hammond to put this venture on both a commercial and legal footing, as a number of shop owners wanted to use the new electric light. Thus the Hammond Electricity Supply Co. was launched.\nIn early 1882, Edison opened the world's first steam-powered electricity generating station at Holborn Viaduct in London, where he had entered into an agreement with the City Corporation for a period of three months to provide street lighting. In time he had supplied a number of local consumers with electric light. The method of supply was direct current (DC). Whilst the Godalming and the 1882 Holborn Viaduct Scheme closed after a few years the Brighton Scheme continued on, and supply was in 1887 made available for 24 hours per day.\nIt was later on in the year in September 1882 that Edison opened the Pearl Street Power Station in New York City and again it was a DC supply. It was for this reason that the generation was close to or on the consumer's premises as Edison had no means of voltage conversion. The voltage chosen for any electrical system is a compromise. For a given amount of power transmitted, increasing the voltage reduces the current and therefore reduces the required wire thickness. Unfortunately it also increases the danger from direct contact and increases the required insulation thickness. Furthermore, some load types were difficult or impossible to make work with higher voltages. The overall effect was that Edison's system required power stations to be within a mile of the consumers. While this could work in city centres, it would be unable to economically supply suburbs with power.\nThe mid to late 1880s saw the introduction of alternating current (AC) systems in Europe and the U.S. AC power had an advantage in that transformers, installed at power stations, could be used to raise the voltage from the generators, and transformers at local substations could reduce voltage to supply loads. Increasing the voltage reduced the current in the transmission and distribution lines and hence the size of conductors and distribution losses. This made it more economical to distribute power over long distances. Generators (such as hydroelectric sites) could be located far from the loads. AC and DC competed for a while, during a period called the war of the currents. The DC system was able to claim slightly greater safety, but this difference was not great enough to overwhelm the enormous technical and economic advantages of alternating current which eventually won out.\nThe AC power system used today developed rapidly, backed by industrialists such as George Westinghouse with Mikhail Dolivo-Dobrovolsky, Galileo Ferraris, Sebastian Ziani de Ferranti, Lucien Gaulard, John Dixon Gibbs, Carl Wilhelm Siemens, William Stanley Jr., Nikola Tesla, and others contributed to this field.\nPower electronics is the application of solid-state electronics to the control and conversion of electric power. Power electronics started with the development of the mercury arc rectifier in 1902, used to convert AC into DC. From the 1920s on, research continued on applying thyratrons and grid-controlled mercury arc valves to power transmission. Grading electrodes made them suitable for high voltage direct current (HVDC) power transmission. In 1933, selenium rectifiers were invented. Transistor technology dates back to 1947, with the invention of the point-contact transistor, which was followed by the bipolar junction transistor (BJT) in 1948. By the 1950s, higher power semiconductor diodes became available and started replacing vacuum tubes. In 1956, the silicon controlled rectifier (SCR) was introduced, increasing the range of power electronic applications.\nA breakthrough in power electronics came with the invention of the MOSFET (metal-oxide-semiconductor field-effect transistor) in 1959. Generations of MOSFETs enabled power designers to achieve performance and density levels not possible with bipolar transistors. In 1969, Hitachi introduced the first vertical power MOSFET, which would later be known as the VMOS (V-groove MOSFET). The power MOSFET has since become the most common power device in the world, due to its low gate drive power, fast switching speed, easy advanced paralleling capability, wide bandwidth, ruggedness, easy drive, simple biasing, ease of application, and ease of repair.\nWhile HVDC is increasingly being used to transmit large quantities of electricity over long distances or to connect adjacent asynchronous power systems, the bulk of electricity generation, transmission, distribution and retailing takes place using alternating current.\nThe electric power industry is commonly split up into four processes. These are electricity generation such as a power station, electric power transmission, electricity distribution and electricity retailing. In many countries, electric power companies own the whole infrastructure from generating stations to transmission and distribution infrastructure. For this reason, electric power is viewed as a natural monopoly. The industry is generally heavily regulated, often with price controls and is frequently government-owned and operated. However, the modern trend has been growing deregulation in at least the latter two processes.The nature and state of market reform of the electricity market often determines whether electric companies are able to be involved in just some of these processes without having to own the entire infrastructure, or citizens choose which components of infrastructure to patronise. In countries where electricity provision is deregulated, end-users of electricity may opt for more costly green electricity.\nGeneration is the conversion of some primary energy source into electric power suitable for commercial use on an electrical grid. Most commercial electric power is produced by rotating electrical machines, \"generators\", which move conductors through a magnetic field to produce electric current.  The generator is rotated by some other prime mover machine; in typical grid-connected generators this is a steam turbine, a gas turbine, or a hydraulic turbine. Primary energy sources for these machine are often fossil fuels (coal, oil, natural gas), nuclear fission, geothermal steam, or falling water. Renewable sources such as wind and solar energy are increasingly of commercial importance.Since electrical generation must be closely matched with electrical consumption, enough generation capacity must be installed to meet peak demands.  At the same time, primary energy sources must be selected to minimize the cost of produced electrical energy. Generally the lowest-incremental-cost source of electrical energy will be the next unit connected to meet rising demand.  Electrical generators have automatic controls to regulate the power fed into the electrical transmission system, adjusting generator output moment by moment to balance with electrical demand.  For a large grid with scores or hundreds of generators connected and thousands of loads, management of stable generator supply is a problem with significant challenges, to meet economic, environmental and reliability requirements.  For example, low-incremental-cost generation sources such as nuclear power plants may be run continually to meet the average \"base load\" of the connected system, whereas more costly peaking power plants such as natural gas turbines may be run for brief times during the day to meet peak loads. Alternatively, load management strategies may encourage more even demand for electrical power and reduce costly peaks. Designated generator units for a particular electrical grid may be run at partial output only, to provide \"spinning reserve\" for sudden increases in demand or faults with other generating units.\nIn addition to electrical power production, electrical generation units may provide other ancillary services to the electrical grid, such as frequency control, reactive power, and black start of a collapsed power grid. These ancillary services may be commercially valuable when the generation, transmission, and distribution electrical companies are separate commercial entities.\nElectric power transmission is the bulk movement of electrical energy from a generating site, such as a power plant, to an electrical substation. The interconnected  lines which facilitate this movement are known as a transmission network. This is distinct from the local wiring between high-voltage substations and customers, which is typically referred to as electric power distribution. The combined transmission and distribution network is known as the \"power grid\" in North America, or just \"the grid\". In the United Kingdom, India, Malaysia and New Zealand, the network is known as the National Grid.A  wide area synchronous grid, also known as an \"interconnection\" in North America, directly connects many generators delivering AC power with the same relative frequency numerous consumers. For example, there are four major interconnections in North America (the Western Interconnection, the Eastern Interconnection, the Quebec Interconnection and the Electric Reliability Council of Texas (ERCOT) grid). In Europe one large grid connects most of continental Europe.\nHistorically, transmission and distribution lines were owned by the same company, but starting in the 1990s, many countries have liberalized the regulation of the electricity market in ways that have led to the separation of the electricity transmission business from the distribution business.\nElectric power distribution is the final stage in the delivery of electric power; it carries electricity from the transmission system to individual consumers. Distribution substations connect to the transmission system and lower the transmission voltage to medium voltage ranging between 2 kV and 35 kV with the use of transformers. Primary distribution lines carry this medium voltage power to distribution transformers located near the customer's premises. Distribution transformers again lower the voltage to the utilization voltage used by lighting, industrial equipment or household appliances. Often several customers are supplied from one transformer through secondary distribution lines. Commercial and residential customers are connected to the secondary distribution lines through service drops. Customers demanding a much larger amount of power may be connected directly to the primary distribution level or the subtransmission level.Electricity retailing is the final sale of electricity from generation to the end-use consumer.The organization of the electrical sector of a country or region varies depending on the economic system of the country.  In some places, all electric power generation, transmission and distribution is provided by a government controlled organization.  Other regions have private or investor-owned utility companies, city or municipally owned companies, cooperative companies owned by their own customers, or combinations. Generation, transmission and distribution may be offered by a single company, or different organizations may provide each of these portions of the system.Not everyone has access to grid electricity. About 840 million people (mostly in Africa) had no access in 2017, down from 1.2 billion in 2010.\nThe business model behind the electric utility has changed over the years playing a vital role in shaping the electricity industry into what it is today; from generation, transmission, distribution, to the final local retailing. This has occurred prominently since the reform of the electricity supply industry in England and Wales in 1990.In 1996 : 1999 the Federal Energy Regulatory Commission (FERC) made a series of decisions which were intended to open the U.S. wholesale power market to new players, with the hope that spurring competition would save consumers $4 to $5 billion per year and encourage technical innovation in the industry. Steps were taken to give all market participants open access to existing interstate transmission lines.   Order No. 888 ordered vertically integrated electric utilities to functionally separate their transmission, power generation and marketing businesses to prevent self-dealing.\nOrder No. 889 set up a system to provide all participants with timely access to information about available transmission capacity and prices.\nThe FERC also endorsed the concept of appointing independent system operators (ISOs) to manage the electric power grid : a function that was traditionally the responsibility of vertically integrated electric utility companies. The concept of an independent system operator evolved into that of regional transmission organizations (RTOs). FERC's intention was that all U.S. companies owning interstate electric transmission lines would place those facilities under the control of an RTO. In its Order No. 2000 (Regional Transmission Organizations), issued in 1999, FERC specified the minimum capabilities that an RTO should possess.\nThese decisions, which were intended to create a fully interconnected grid and an integrated national power market, resulted in the restructuring of the U.S. electricity industry. That process was soon dealt two setbacks: the California energy crisis of 2000, and the Enron scandal and collapse. Although industry restructuring proceeded, these events made clear that competitive markets could be manipulated and thus must be properly designed and monitored. Furthermore, the Northeast blackout of 2003 highlighted the need for a dual focus on competitive pricing and strong reliability standards.\nIn some countries, wholesale electricity markets operate, with generators and retailers trading electricity in a similar manner to shares and currency. As deregulation continues further, utilities are driven to sell their assets as the energy market follows in line with the gas market in use of the futures and spot markets and other financial arrangements. Even globalization with foreign purchases are taking place. One such purchase was when the UK's National Grid, the largest private electric utility in the world, bought several electric utilities in New England for $3.2 billion. Between 1995 and 1997, seven of the 12 Regional Electric Companies (RECs) in England and Wales were bought by U.S. energy companies. Domestically, local electric and gas firms have merged operations as they saw the advantages of joint affiliation, especially with the reduced cost of joint-metering. Technological advances will take place in the competitive wholesale electric markets, such examples already being utilized include fuel cells used in space flight; aeroderivative gas turbines used in jet aircraft; solar engineering and photovoltaic systems; off-shore wind farms; and the communication advances spawned by the digital world, particularly with microprocessing which aids in monitoring and dispatching.Electricity is expected to see growing demand in the future. The Information Revolution is highly reliant on electric power. Other growth areas include emerging new electricity-exclusive technologies, developments in space conditioning, industrial processes, and transportation (for example  hybrid vehicles, locomotives).",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "year in September 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "in 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "early 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "in September 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "1831"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "1881"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "1887"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "1878"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "In 1878"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "December 1881"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "September 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "1880s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "1890s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "In 1956"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "in 1959"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "In 1831"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "in 1887"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "in the year in September 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "mid to late 1880s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "1880s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "1880s and 1890s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "In early 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "in 2010"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "in 2017"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "in December 1881"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "in the 1990s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "In the 1880s and 1890s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "middle of the 20th century"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "20th century"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "1990s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "Alessandro Volta"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "1800"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 33,
+        "mentions": [
+          "in 1800"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 34,
+        "mentions": [
+          "Michael Faraday",
+          "Faraday"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 35,
+        "mentions": [
+          "almost 50 years"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 36,
+        "mentions": [
+          "U.S.",
+          "United States",
+          "America"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 37,
+        "mentions": [
+          "Edison",
+          "Thomas Edison"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 38,
+        "mentions": [
+          "Robert Hammond",
+          "Hammond"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 39,
+        "mentions": [
+          "Brighton",
+          "Sussex",
+          "Sussex town of Brighton"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 40,
+        "mentions": [
+          "UK",
+          "United Kingdom",
+          "England and Wales",
+          "England",
+          "Wales"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 41,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 42,
+        "mentions": [
+          "Holborn Viaduct Scheme",
+          "1882 Holborn Viaduct Scheme"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 43,
+        "mentions": [
+          "City Corporation"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 44,
+        "mentions": [
+          "three months"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 45,
+        "mentions": [
+          "Godalming"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 46,
+        "mentions": [
+          "24 hours"
+        ],
+        "type": "TIME"
+      },
+      {
+        "id": 47,
+        "mentions": [
+          "New York City"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 48,
+        "mentions": [
+          "direct current electricity",
+          "DC",
+          "direct current",
+          "direct current (DC)"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 49,
+        "mentions": [
+          "a mile"
+        ],
+        "type": "QUANTITY"
+      },
+      {
+        "id": 50,
+        "mentions": [
+          "U.S. energy companies"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 51,
+        "mentions": [
+          "today"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 52,
+        "mentions": [
+          "George Westinghouse"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 53,
+        "mentions": [
+          "Mikhail Dolivo-Dobrovolsky"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 54,
+        "mentions": [
+          "Ferranti",
+          "Galileo Ferraris",
+          "Galileo",
+          "Sebastian Ziani de Ferranti",
+          "Ferraris"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 55,
+        "mentions": [
+          "Lucien Gaulard"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 56,
+        "mentions": [
+          "John Dixon Gibbs",
+          "Gibbs"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 57,
+        "mentions": [
+          "Carl Wilhelm Siemens",
+          "Siemens"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 58,
+        "mentions": [
+          "William Stanley Jr.",
+          "Stanley Jr."
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 59,
+        "mentions": [
+          "Nikola",
+          "Tesla",
+          "Nikola Tesla"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 60,
+        "mentions": [
+          "1902"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 61,
+        "mentions": [
+          "From the 1920s on"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 62,
+        "mentions": [
+          "1920s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 63,
+        "mentions": [
+          "1933"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 64,
+        "mentions": [
+          "1948"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 65,
+        "mentions": [
+          "1947"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 66,
+        "mentions": [
+          "1956"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 67,
+        "mentions": [
+          "1959"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 68,
+        "mentions": [
+          "1950s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 69,
+        "mentions": [
+          "1920s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 70,
+        "mentions": [
+          "1990s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 71,
+        "mentions": [
+          "2010"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 72,
+        "mentions": [
+          "2003"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 73,
+        "mentions": [
+          "1996"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 74,
+        "mentions": [
+          "2017"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 75,
+        "mentions": [
+          "1999"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 76,
+        "mentions": [
+          "1969"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 77,
+        "mentions": [
+          "1996 : 1999"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 78,
+        "mentions": [
+          "1997"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 79,
+        "mentions": [
+          "Between 1995 and 1997"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 80,
+        "mentions": [
+          "1995"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 81,
+        "mentions": [
+          "BJT",
+          "bipolar transistors",
+          "bipolar junction transistor"
+        ],
+        "type": "PRODUCT"
+      },
+      {
+        "id": 82,
+        "mentions": [
+          "1950s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 83,
+        "mentions": [
+          "SCR",
+          "silicon controlled rectifier (SCR)"
+        ],
+        "type": "PRODUCT"
+      },
+      {
+        "id": 84,
+        "mentions": [
+          "metal-oxide-semiconductor field-effect transistor",
+          "MOSFET"
+        ],
+        "type": "PRODUCT"
+      },
+      {
+        "id": 85,
+        "mentions": [
+          "Hitachi"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 86,
+        "mentions": [
+          "HVDC",
+          "high voltage direct current (HVDC)",
+          "high voltage direct current"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 87,
+        "mentions": [
+          "four"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 88,
+        "mentions": [
+          "two"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 89,
+        "mentions": [
+          "hundreds"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 90,
+        "mentions": [
+          "thousands"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 91,
+        "mentions": [
+          "North America"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 92,
+        "mentions": [
+          "Western Interconnection"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 93,
+        "mentions": [
+          "Electric Reliability Council of Texas (ERCOT)",
+          "ERCOT"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 94,
+        "mentions": [
+          "35"
+        ],
+        "type": "QUANTITY"
+      },
+      {
+        "id": 95,
+        "mentions": [
+          "About 840 million"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 96,
+        "mentions": [
+          "Africa"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 97,
+        "mentions": [
+          "1.2 billion"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 98,
+        "mentions": [
+          "$3.2 billion"
+        ],
+        "type": "MONEY"
+      },
+      {
+        "id": 99,
+        "mentions": [
+          "$4 to $5 billion"
+        ],
+        "type": "MONEY"
+      },
+      {
+        "id": 100,
+        "mentions": [
+          "$4 to $5 billion per year"
+        ],
+        "type": "MONEY"
+      },
+      {
+        "id": 101,
+        "mentions": [
+          "Order No. 888",
+          "Order No. 889",
+          "Order No. 2000"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 102,
+        "mentions": [
+          "California"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 103,
+        "mentions": [
+          "Enron"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 104,
+        "mentions": [
+          "One"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 105,
+        "mentions": [
+          "New England"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 106,
+        "mentions": [
+          "seven"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 107,
+        "mentions": [
+          "12"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 108,
+        "mentions": [
+          "Information Revolution"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 109,
+        "mentions": [
+          "consumers",
+          "customers",
+          "Customers",
+          "individual consumers",
+          "end-users of electricity"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 110,
+        "mentions": [
+          "natural monopoly"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 111,
+        "mentions": [
+          "Pearl Street Power Station"
+        ],
+        "type": "FAC"
+      }
+    ],
+    "triples": [
+      {
+        "head": "electric power industry",
+        "relation": "InfluencedBy",
+        "tail": "Michael Faraday"
+      },
+      {
+        "head": "electric power",
+        "relation": "UsedBy",
+        "tail": "general public"
+      },
+      {
+        "head": "electricity",
+        "relation": "NominatedFor",
+        "tail": "natural monopoly"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "HasPart",
+        "tail": "generation"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "HasPart",
+        "tail": "distribution"
+      },
+      {
+        "head": "Edison",
+        "relation": "OwnerOf",
+        "tail": "Pearl Street Power Station"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "HasPart",
+        "tail": "transmission"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "InfluencedBy",
+        "tail": "Alessandro Volta"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "HasPart",
+        "tail": "sale"
+      },
+      {
+        "head": "electric power",
+        "relation": "UsedBy",
+        "tail": "industry"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "InfluencedBy",
+        "tail": "George Westinghouse"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "InfluencedBy",
+        "tail": "Thomas Edison"
+      },
+      {
+        "head": "electric power",
+        "relation": "SaidToBeTheSameAs",
+        "tail": "electricity"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "InfluencedBy",
+        "tail": "Nikola Tesla"
+      },
+      {
+        "head": "the U.S.",
+        "relation": "ContainsAdministrativeTerritorialEntity",
+        "tail": "California"
+      },
+      {
+        "head": "New York City",
+        "relation": "LocatedIn",
+        "tail": "North America"
+      }
+    ],
+    "label_set": [
+      "Promoted",
+      "Replaces",
+      "Partner",
+      "NominatedFor",
+      "InterestedIn",
+      "NamedAfter",
+      "HasPart",
+      "SignificantEvent",
+      "MemberOf",
+      "InfluencedBy",
+      "ContainsAdministrativeTerritorialEntity",
+      "InOppositionTo",
+      "Country",
+      "SaidToBeTheSameAs",
+      "WorkLocation",
+      "DifferentFrom",
+      "LocatedIn",
+      "HasWorksInTheCollection",
+      "PartOf",
+      "Creator",
+      "AcademicDegree",
+      "UsedBy",
+      "EducatedAt",
+      "CountryOfCitizenship",
+      "Author",
+      "DiplomaticRelation",
+      "OwnerOf",
+      "Follows",
+      "FollowedBy",
+      "OwnedBy"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Energy",
+    "title": "Thomas_W._Walde",
+    "doc": "Thomas W. Wälde (9 January 1949 : 11 October 2008), former United Nations (UN) Inter-regional Adviser on Petroleum and Mineral Legislation, was Professor & Jean-Monnet Chair at the Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP), Dundee.\nThomas Wälde died on 11 October 2008 in the south of France.Thomas Wälde grew up in Heidelberg (Germany) and went to school at the Kurfuerst-Friedrich-Gymnasium. He was from a South-West German family; his great uncle, Reinhold Maier, was the first Ministerpraesident of Baden-Wuerttemberg; another uncle, Heinz Maier-Leibnitz, a well known German professor of nuclear physics, director of German and French nuclear physics research laboratories and President of the German National Science Foundation (DFG).\nThomas Wälde lived and worked from his home/offices outside St Andrews, Scotland, Heidelberg and Bormes-Les-Mimosas. His second wife, Professor Charlotte Wälde, has served as co-director of the AHRC Centre on Intellectual Property Law at Edinburgh University. His son Max works as an attorney in Vienna, and his daughter Olivia is a student in London.\nHe studied law, in the traditional German way, at the Universities of Heidelberg, Lausanne-Geneva, Berlin and Frankfurt, with his law degree (Referendar) and doctorate (Juristische Folgenorientierung - a study on decision theory as an interpretative tool for international economic law) - in Frankfurt.He did his professional legal training in Frankfurt (including as an intern at the UN Centre on Transnational Corporations in New York) and obtained his \"Assessor\" grade there. He also worked as Associate Officer and resident consultant with the UN/CTC in New York and UNIDO in Vienna and was fellow at the Institute for International Economic Law in Frankfurt (founded by Heinrich Kronstein who was also professor at Georgetown Law School in the US and founder of the Washington-based International Law Institute).\nWälde was at Harvard Law School (1972:74) as LL.M. and subsequent visiting scholar. His Harvard LL.M. dissertation - on comparative company law - was published in 1974. Detlev Vagts was his academic mentor and teacher at Harvard Law School; he also worked as research assistant for the late Professor and ICJ Judge Richard Baxter. In 1978, he obtained the now prestigious price by the German Research Foundation (DFG) for a publication on transnational investment agreements (published in Rabelz Zeitschrift) which was, a decade later, named after Heinz Maier-Leibnitz, at one time the President of DFG.\nICJ president Roslyn Higgins had served as an academic mentor for Thomas Wälde since he moved from the United Nations in New York to the University of Dundee, Scotland in 1991.\nWälde started in 1980 as UN interregional adviser on mineral law - with the remit to provide rapid ad hoc advisory services to developing country governments throughout the world. He later became responsible for energy/petroleum and international investment policy as well. At the UN, he advised over 60 governments on legislative reform and contract negotiations with international investors mainly. He was also, from 1981 to 1983, UN investigator on occupation practices in Palestinian territories and responsible for the Secretary General's reports on \"Permanent Sovereignty over Natural resources\" and the Permanent Sovereignty in Occupied Palestinian territories reports. Wälde set up numerous investment advisory projects - combining legal, financial and technical expertise - to support investment project negotiations; organised training seminars and international UN conferences in the field of mining and oil and gas. He initiated the UN project for environmental guidelines in mining and was chair of the drafting group that produced the first version of the \"Berlin Guidelines\" in 1990.At Dundee, Wälde, as Professor and Executive Director,  developed the Centre for Petroleum and Mineral Law into the world's largest graduate school in its field - with four students in 1991 growing to well over 140 LL.M., MBA, MSC, MBA and PHD students in 2002/2003 (when he gave up the directorship). Student numbers went up, from 1991 to 2002, by a factor of about 40 and fees were raised by a factor of 4.  The centre obtained as a recognition for its spectacular growth the prestigious Queen's Award for Enterprise in 2004.\nFollowing his directorship of CEPMLP/Dundee, Wälde developed academic and professional expertise in international dispute resolution, both mediation and arbitration for large, complex, cross-border transnational disputes, primarily (but not exclusively) in the field of oil, gas, energy, infrastructure and mining (but also gaming and private equity) based on contract and investment treaties. He set up OGEMID, the mainly international electronic discussion and intelligence forum which is by now a \"must\" for anybody seriously engaged in international investment disputes, but also in complex commercial disputes in the energy and resources field. He acted as co-arbitrator in the NAFTA Chapter XI arbitration Thunderbird v Mexico; as co-arbitrator in the BIT-based arbitration of K+ v Czech Republic; and, in 2008, as co-arbitrator in a CAFTA dispute. He has also been appointed to international disputes in the field of mining and energy (electricity). He frequently acts as expert witness and (expert) co-counsel in international arbitrations relating to oil, gas, energy, mining and infrastructure, including Glamis v US, Duke v Peru, Nykomb v Latvia plus commercial, BIT, ECT and NAFTA-based arbitrations under UNCITRAL, ICSID, NAFTA and CAFTA procedural rules. He has also mediated commercial disputes between international oil companies and the SwePol dispute concerning an electricity interconnector between Poland and Sweden.\nHe was a frequent expert, but also counsel, mediator and arbitrator in international energy and investment disputes (International Centre for Settlement of Investment Disputes (ICSID), the North American Free Trade Agreement (NAFTA), Energy Charter Treaty, Bilateral Investment Treaty (BIT) and commercial contract disputes). Special member of AIPN, member of several int'l arbitral institutions, Rechtsanwalt (Frankfurt) & barrister (Lincoln's Inn - Essex Court Chambers, London). Adviser to the international institutions in the oil and gas field (the Organization of Petroleum Exporting Countries, International Energy Agency (IEA), UN, APEC, European Union, World Bank). Identified as leading international energy lawyer in a Euromoney survey, leading international lawyer in a Cambridge-sponsored Who's Who in International law and one of three international arbitrators resident in Scotland. Formerly (up to 1990) Interregional Adviser on Mineral and Petroleum law and International Investment Policy, United Nations, New York; staff and consultant for UN Centre on Transnational Corporations and United Nations Industrial Development Organization (1976:1980); Reporter for International Law Association Foreign Investment Law Committee (damages and tax-related investment disputes). Frequent speaker and author on international investment law, natural resources, mineral, energy and oil and gas law, including renegotiation, taxation, indirect expropriation, de-commissioning (abandonment) of offshore operations; state enterprise privatisation, investment treaties, environmental regulation; arbitration; Energy Charter Treaty.\nThomas Wälde was a prolific writer and speaker, and spoke at conferences around the world. He served as visiting professor at Panthéon-Assas University and American University. He is fellow of the investment programme at the British Institute of International & Comparative Law, at Columbia University's Law School and other EU-law focused institutions. He obtained a Jean-Monnet Chair in an EU-wide competition from the EU Commission in 1995 - on EU Energy and Economic Law. He was a \"Special Member\" of the Association of Int'l Petroleum Negotiators (AIPN), panel of energy/resources arbitrators of the Permanent court of Int'l Arbitration; Member of the Institut pour l'Arbitrage International; member of the IBA, LCIA, DIS; ICDR, ILA; ASIL, ITA (Academic Council). He was named in several professional guides as a leading international energy lawyers and one of three international arbitrators in Scotland. He was formerly the Chair, Energy, Petroleum and Mineral Law and Policy Trust; Director of the 2004 Hague Academy for Int'l Law Research Seminar on Int'l Investment Law. He was on the IUCN Energy Working Group and the World Energy Council's Task force on Energy Investment & Trade.\nHe could write and speak in English, German, French and Spanish, with some knowledge of Italian, Russian and Arabic.  He worked in all corners of the world.  He developed and led negotiation assistance inter alia in several investment projects related to coal (Colombia), gold (Mali), Guyana (uranium), Dominican Republic (nickel, oil), Cayman Islands (oil) : all led to completed transaction.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "Wälde",
+          "Thomas Wälde",
+          "Thomas W. Wälde"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "11 October 2008"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "9 January 1949"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "UN",
+          "United Nations",
+          "United Nations (UN)"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "CEPMLP/Dundee",
+          "Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP)",
+          "CEPMLP",
+          "Centre for Energy, Petroleum and Mineral Law and Policy",
+          "Centre for Petroleum and Mineral Law"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "Dundee",
+          "University of Dundee",
+          "University of Dundee, Scotland",
+          "Dundee, Scotland"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "German and French nuclear physics research laboratories"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "German National Science Foundation (DFG)",
+          "German National Science Foundation",
+          "DFG",
+          "German Research Foundation"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "Kurfuerst-Friedrich-Gymnasium"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "Reinhold Maier",
+          "first Ministerpraesident of Baden-Wuerttemberg"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "Bormes-Les-Mimosas"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "second"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "Charlotte Wälde"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "AHRC Centre on Intellectual Property Law"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP)"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "Edinburgh University"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "Max"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "Vienna"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "Olivia"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "Institute for International Economic Law"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "Heinrich Kronstein"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "Georgetown Law School"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "Harvard Law School"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "1978"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "1974"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "2002/2003"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "2004"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "1991"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "2008"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "1983"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "1995"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "1981"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 33,
+        "mentions": [
+          "1980"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 34,
+        "mentions": [
+          "1972:74"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 35,
+        "mentions": [
+          "2002"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 36,
+        "mentions": [
+          "1991 to 2002"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 37,
+        "mentions": [
+          "1990"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 38,
+        "mentions": [
+          "1949"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 39,
+        "mentions": [
+          "Detlev Vagts"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 40,
+        "mentions": [
+          "Richard Baxter"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 41,
+        "mentions": [
+          "Rabelz Zeitschrift"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 42,
+        "mentions": [
+          "a decade later"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 43,
+        "mentions": [
+          "one"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 44,
+        "mentions": [
+          "ICJ president Roslyn Higgins",
+          "Roslyn Higgins"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 45,
+        "mentions": [
+          "60"
+        ],
+        "type": "QUANTITY"
+      },
+      {
+        "id": 46,
+        "mentions": [
+          "Permanent Sovereignty over Natural resources"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 47,
+        "mentions": [
+          "\"Berlin Guidelines\""
+        ],
+        "type": "LAW"
+      },
+      {
+        "id": 48,
+        "mentions": [
+          "four"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 49,
+        "mentions": [
+          "140"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 50,
+        "mentions": [
+          "about 40"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 51,
+        "mentions": [
+          "Queen's Award for Enterprise",
+          "prestigious Queen's Award for Enterprise"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 52,
+        "mentions": [
+          "Thunderbird v Mexico",
+          "NAFTA Chapter XI arbitration Thunderbird v Mexico"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 53,
+        "mentions": [
+          "K+ v Czech Republic"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 54,
+        "mentions": [
+          "Glamis"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 55,
+        "mentions": [
+          "Nykomb"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 56,
+        "mentions": [
+          "Latvia"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 57,
+        "mentions": [
+          "SwePol dispute"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 58,
+        "mentions": [
+          "Poland"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 59,
+        "mentions": [
+          "Sweden"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 60,
+        "mentions": [
+          "Rechtsanwalt",
+          "Rechtsanwalt (Frankfurt)"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 61,
+        "mentions": [
+          "Lincoln's Inn"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 62,
+        "mentions": [
+          "Essex Court Chambers"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 63,
+        "mentions": [
+          "Organization of Petroleum Exporting Countries"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 64,
+        "mentions": [
+          "Euromoney"
+        ],
+        "type": "MONEY"
+      },
+      {
+        "id": 65,
+        "mentions": [
+          "three"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 66,
+        "mentions": [
+          "International Investment Policy",
+          "international investment policy"
+        ],
+        "type": "LAW"
+      },
+      {
+        "id": 67,
+        "mentions": [
+          "Panthéon-Assas University"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 68,
+        "mentions": [
+          "American University"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 69,
+        "mentions": [
+          "British Institute of International & Comparative Law"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 70,
+        "mentions": [
+          "Columbia University's Law School"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 71,
+        "mentions": [
+          "Jean-Monnet Chair"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 72,
+        "mentions": [
+          "EU Commission"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 73,
+        "mentions": [
+          "Institut pour l'Arbitrage International"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 74,
+        "mentions": [
+          "ITA (Academic Council)"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 75,
+        "mentions": [
+          "2004 Hague Academy for Int'l Law Research Seminar on Int'l Investment Law"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 76,
+        "mentions": [
+          "IUCN Energy Working Group"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 77,
+        "mentions": [
+          "World Energy Council's Task force on Energy Investment & Trade"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 78,
+        "mentions": [
+          "Italian"
+        ],
+        "type": "LANGUAGE"
+      },
+      {
+        "id": 79,
+        "mentions": [
+          "Russian"
+        ],
+        "type": "LANGUAGE"
+      },
+      {
+        "id": 80,
+        "mentions": [
+          "Arabic"
+        ],
+        "type": "LANGUAGE"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "WorkLocation",
+        "tail": "Bormes-Les-Mimosas"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "Follows",
+        "tail": "Detlev Vagts"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "WorkLocation",
+        "tail": "Institute for International Economic Law in Frankfurt"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "LocatedIn",
+        "tail": "Dundee, Scotland"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "Author",
+        "tail": "publication on transnational investment agreements"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "Follows",
+        "tail": "ICJ president Roslyn Higgins"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "LocatedIn",
+        "tail": "University of Dundee"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "WorkLocation",
+        "tail": "Bormes-Les-Mimosas"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "EducatedAt",
+        "tail": "Harvard Law School"
+      },
+      {
+        "head": "SwePol",
+        "relation": "Country",
+        "tail": "Poland"
+      },
+      {
+        "head": "SwePol",
+        "relation": "Country",
+        "tail": "Sweden"
+      },
+      {
+        "head": "Poland",
+        "relation": "DiplomaticRelation",
+        "tail": "Sweden"
+      }
+    ],
+    "label_set": [
+      "Promoted",
+      "Replaces",
+      "Partner",
+      "NominatedFor",
+      "InterestedIn",
+      "NamedAfter",
+      "HasPart",
+      "SignificantEvent",
+      "MemberOf",
+      "InfluencedBy",
+      "ContainsAdministrativeTerritorialEntity",
+      "InOppositionTo",
+      "Country",
+      "SaidToBeTheSameAs",
+      "WorkLocation",
+      "DifferentFrom",
+      "LocatedIn",
+      "HasWorksInTheCollection",
+      "PartOf",
+      "Creator",
+      "AcademicDegree",
+      "UsedBy",
+      "EducatedAt",
+      "CountryOfCitizenship",
+      "Author",
+      "DiplomaticRelation",
+      "OwnerOf",
+      "Follows",
+      "FollowedBy",
+      "OwnedBy"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  }
+]

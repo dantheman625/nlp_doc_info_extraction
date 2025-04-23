@@ -1,0 +1,1170 @@
+[
+  {
+    "domain": "Entertainment",
+    "title": "Metagame",
+    "doc": "A metagame, broadly defined as \"a game beyond the game\", typically refers to either of two concepts: a game which revolves around a core game; or the strategies and approaches to playing a game. A metagame can serve a broad range of purposes, and may be tied to the way a game relates to various aspects of life.  \nIn competitive games, the metagame can refer to the most popular strategy, often called a game's meta, or preparation for a match in general. \nIn tabletop role-playing game, metagaming has been used to describe players discussing the game, sometimes simply rules discussions and other times causing the characters they control to act in ways they normally would not within the story.\nThe word metagame is composed of the Greek-derived prefix meta: (from μετά, meta, meaning \"beyond\") and the noun game. The shorthand meta has been backronymed as \"Most Effective Tactics Available\" to tersely explain the concept. Metagame was used in the context of playing zero-sum games in a publication by the Mental Health Research Institute in 1956. It is alternately claimed that the first known use of the term was in Nigel Howard's book Paradoxes of Rationality: Theory of Metagames and Political Behavior published in 1971, where Howard used the term in his analysis of the Cold War political landscape using a variation of the Prisoner's Dilemma.,  however Howard used the term in Metagame Analysis in Political Problems published in 1966. In 1967, the word appeared in a study by Russell Lincoln Ackoff and in the Bulletin of the Operations Research Society of America.In casual gaming, the metagame generally refers to any meaningful interaction between players and elements not directly part of the game. The concept gained traction in game design in a column written in 1995 by Richard Garfield, the creator of Magic: The Gathering, for The Duelist. In a 2000 talk at the Game Developers Conference, Garfield expanded on this, defining metagame as \"how a game interfaces beyond itself\", and asserted that this can include \"what you bring to a game, what you take away from a game, what happens between games, [and] what happens during a game\".  Stephanie Boluk and Patrick Lemieux extend and refine Garfield's term to apply to potentially all forms of play and gaming, arguing that metagames are often more important than video games themselves.  They go on to describe that metagaming \"results from the entanglement of philosophical concepts, the craft of game design, and the cultures of play that surrounds videogames.\"In the world of competitive games, rule imprecisions and non-goal oriented play are not commonplace. As a result, the extent of metagaming narrows down mostly to studying strategies of top players and exploiting commonly-used strategies for an advantage. Those may evolve as updates are released or new, better, strategies are discovered by top players. The opposite metagame of playing a relatively unknown strategy for surprisal is often called off-meta.This usage is particularly common in games that have large, organized play systems or tournament circuits. Some examples of this kind of environment are tournament scenes for tabletop or computer collectible card games like Magic: The Gathering, Gwent: The Witcher Card Game or Hearthstone, tabletop war-gaming such as Warhammer 40,000 and Flames of War, or team-based multiplayer online games such as Star Conflict, Dota 2, League of Legends, and Team Fortress 2. In some games, such as Heroes of the Storm, each battleground has a different metagame.\nThe meta in these environments is often affected by new elements added by the game's developers and publishers, such as new card expansions in card games, or adjustments to character abilities in online games. The metagame may also come within player communities as reactions to win over currently-popular strategies, creating ebbs and flows of strategy types over time.\nIn competitive games, more pervasive forms of metagaming like teaming in free-for-all multiplayer games can be interpreted as cheating or as bad sportsmanship. Writer Richard Garfield's book, Lost in the Shuffle: Games Within Games, considers instead teaming as just a form of metagaming. The practice of losing individual games to dodge stronger opponents in tournaments has also been interpreted as a form of metagaming, sometimes considered as unfair.Exploiting the meta is commonplace in esports. In StarCraft, a player's previous matches with the same opponent have given them insight into that player's play style and may cause them to make certain decisions which would otherwise seem inferior. Another instance of using the meta in esports was in 2012 at The International, a Dota 2 competition, when one team was able to exploit \"predictable, economical strategies and that summer's metagame, the in-game decisions and team configurations that were fashionable\" to counter a play by the other team. In fighting games, the meta is also played through character selection. The opposing character has various strengths that can be avoided and weaknesses that can be exploited more easily depending on the character you choose provided you are aware of those strengths and weaknesses (called a \"match up\"). For a basic example, a character with a projectile attack has the advantage over a grappler who must be close to the opponent to be effective. Match up metagaming is very important in tournament settings. In recent fighting games, blind select has been implemented for online modes. This makes it so that neither player can see what character the other player chose. In tournaments, players have the option to opt for a blind select where they tell a judge in confidence the character they intend to select in the match, making their character choice mandatory. A newer trend in more recently released titles is to allow the selection of multiple characters at once which the player can then switch between on the fly, rendering match-up picking excessively hard and virtually impractical.\nIn popular trading card games, such as Magic: The Gathering, Pokémon Trading Card Game, or Yu-Gi-Oh! Trading Card Game players compete with decks they have created in advance and the meta consists of the deck types that are currently popular and expected to show up in large numbers in a tournament. The knowledge of metagame trends can give players an edge against other participants, both while they are playing by quickly recognizing what kind of deck opponents have and guessing their likely cards or moves, and during the deck building process, by selecting cards that do well against current popular deck types at the possible expense of performance against rarer ones. Another example of metagaming would be bluffing opponents into expecting cards that you do not have, or surprising the competition with novel decks that they may not be prepared for. The secondary market of cards is heavily influenced by metagame trends: cards become more valuable when they are popular, often to the point of scarcity.Competitive chess has a well-defined meta in the form of chess openings and chess schools. A particular example are hypermodern openings. They became popular after World War I as high-ranked players like Aron Nimzowitsch started to play them. A popular off-meta is to play unpopular openings for humor or for strategically denying subsequent use of opening theory.\nMore narrowly, the playing history (meta) of a player or small group of players can be used to gain an advantage. A scholar's mate is a special set of moves can allow a player to win in four moves, usually by and against beginners. An example where this meta can be exploited by the opponent is as follows: competitor A has been watching Competitor B play chess, and the past five games in a row Competitor B has attempted to use this four-move win.  When Competitor A sits down to play against Competitor B, Competitor A can play in a way to give them an advantage, assuming Competitor B repeats this line.\nIn tabletop role-playing games, metagaming can refer to aspects of play that occur outside of a given game's fictional universe. In particular, metagaming often refers to having an in-game character act on knowledge that the player has access to, but the character should not.  For example, having a character bring a mirror to defeat Medusa when they are unaware her gaze can petrify them, or being more cautious when the game is run by a merciless gamemaster.Some consider metagaming to benefit oneself bad sportsmanship. It is frowned upon in many role-playing communities, as it upsets suspension of disbelief, and affects game balance. However, some narrativist indie role-playing games deliberately support metagaming and encourage shared storytelling among players.\nThe metagame for game developers refers to the extra set of rules and logic that are independent of the core gameplay. This can involve extra progressions or an economic market appended to the core gameplay that add mid- and long-term goals for players. Some researchers argue that having a metagame for players can increase user engagement with those games.",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "two"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "metagame",
+          "Metagames",
+          "meta",
+          "Metagame",
+          "metagaming",
+          "metagames"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "μετά, meta"
+        ],
+        "type": "LANGUAGE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "Most Effective Tactics",
+          "Most Effective Tactics Available"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "zero"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "Mental Health Research Institute"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "1956"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "1995"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "2000"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "1971"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "1966"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "1967"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "2012"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "Russell Lincoln Ackoff",
+          "Howard",
+          "Nigel Howard"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "Nigel Howard's book"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "Paradoxes of Rationality: Theory of Metagames and Political Behavior",
+          "Nigel Howard's book Paradoxes of Rationality: Theory of Metagames and Political Behavior published in 1971"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "Cold War political landscape"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "Metagame Analysis in Political Problems"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "Metagame Analysis"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "Cold War political landscape"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "Operations Research Society of America"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "Garfield",
+          "Richard Garfield"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "Pokémon Trading Card Game",
+          "Dota 2",
+          "Magic: The Gathering, Pokémon Trading Card Game",
+          "Flames of War",
+          "Hearthstone",
+          "Heroes of the Storm",
+          "Team Fortress 2",
+          "Magic: The Gathering",
+          "League of Legends"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "Game Developers Conference",
+          "a 2000 talk at the Game Developers Conference"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "Stephanie Boluk"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "Gwent: The Witcher Card Game"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "Warhammer 40,000"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "Star Conflict",
+          "StarCraft"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "Lost in the Shuffle: Games Within Games"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "2"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "one"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "summer"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 33,
+        "mentions": [
+          "Yu-Gi-Oh"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 34,
+        "mentions": [
+          "hypermodern openings"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 35,
+        "mentions": [
+          "World War I"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 36,
+        "mentions": [
+          "after World War I"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 37,
+        "mentions": [
+          "Aron Nimzowitsch",
+          "high-ranked players like Aron Nimzowitsch"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 38,
+        "mentions": [
+          "four"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 39,
+        "mentions": [
+          "five"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 40,
+        "mentions": [
+          "Medusa"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 41,
+        "mentions": [
+          " Patrick Lemieux"
+        ],
+        "type": "PERSON"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Howard",
+        "relation": "Author",
+        "tail": "Metagame Analysis in Political Problems"
+      },
+      {
+        "head": "Richard Garfield",
+        "relation": "Creator",
+        "tail": "Magic: The Gathering"
+      },
+      {
+        "head": "Nigel Howard's book",
+        "relation": "Founded",
+        "tail": "1971"
+      },
+      {
+        "head": "Aron Nimzowitsch",
+        "relation": "HasEffect",
+        "tail": "hypermodern openings"
+      },
+      {
+        "head": "Garfield",
+        "relation": "SignificantEvent",
+        "tail": "1995"
+      },
+      {
+        "head": "Russell Lincoln Ackoff",
+        "relation": "SignificantEvent",
+        "tail": "1967"
+      },
+      {
+        "head": "Richard Garfield",
+        "relation": "Creator",
+        "tail": "Magic: The Gathering"
+      },
+      {
+        "head": "hypermodern",
+        "relation": "HasPart",
+        "tail": "Aron Nimzowitsch"
+      }
+    ],
+    "label_set": [
+      "InspiredBy",
+      "SaidToBeTheSameAs",
+      "SignificantEvent",
+      "LocatedIn",
+      "PracticedBy",
+      "Founded",
+      "HasWorksInTheCollection",
+      "Uses",
+      "NominatedFor",
+      "PhysicallyInteractsWith",
+      "InterestedIn",
+      "HasPart",
+      "PartOf",
+      "OwnerOf",
+      "Follows",
+      "Author",
+      "HasEffect",
+      "Creator",
+      "DifferentFrom"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Entertainment",
+    "title": "Musical_canine_freestyle",
+    "doc": "Musical canine freestyle, also known as musical freestyle, freestyle dance, and canine freestyle, is a modern dog sport that is a mixture of obedience training, tricks, and dance that allows for creative interaction between dogs and their owners. The sport has developed into competition forms in several countries around the world.\nMusical freestyle started in many places almost simultaneously around 1989, with demonstrations of the talent of heeling to music being shown in Canada, England, the United States, and the Netherlands within three years of each other. The main unifying element among the groups was an interest in more creative obedience demonstrations and dog training, a love of music, and, in many cases, inspiration from an equine sport called musical kur, which was a more creative and dynamic form of dressage.The first official musical freestyle group, Musical Canine Sports International, was founded in British Columbia, Canada, in 1991. Soon, other groups followed in the United States and England. Each region began developing its own style, with many American groups promoting more trick-based routines and costumes. English groups focused more on heel work and on the dog, and less on costumes and design. Musical freestyle has become more common in animal talent shows and specialty acts.\nTeaching a dog to be able to work on both sides of the handler's body, not just the left side as in standard obedience heeling, is the first step to doing freestyle. The trainer first breaks the routine into pieces with only two or three moves linked together, and as they progress these pieces are linked together.There are two types of musical canine freestyle, freestyle heeling (also known as heelwork to music) and musical freestyle.\nHeelwork to music focuses on a dog's ability to stay in variations of the heel position while the handler moves to music. In heel work to music, the dog and trainer remain close to each other at all times. Sending the dog away or doing distance work is not part of the routine, with the dog remaining almost invisibly tethered to the trainer. Pivots, and moving diagonally, backwards, and forwards to a suitable musical theme are important to the routine. Jumping, weaving, rolling, passing through the trainer's legs and anything else considered \"not heeling\" is not allowed.Musical freestyle demands that the dog perform a variety of tricks and other obedience talents. In musical freestyle, heel work can be combined with other moves such as leg weaving, sending the dog away, moving together at a distance, and more dramatic tricks such as jumping, spinning, bowing, rolling over. Dancing in place, and other innovative actions where the dog plays off the dance moves of the trainer are encouraged. A popular finishing trick for some routines is for the dog to jump into the trainer's arms, or over his or her back.Currently, there are several organizations regulating competitive freestyle, such as Rally Freestyle Elements, the World Canine Freestyle Organization, Canine Freestyle Federation, Dogs Can Dance and the Musical Dog Sport Association in the United States, Paws 2 Dance Canine Freestyle Organization in Canada, Canine Freestyle GB in Great Britain, and Pawfect K9 Freestyle Club in Japan. In the UK, the sport is called Heelwork to Music and is an officially recognized sport of the Kennel club.Competition rules vary from group to group, and from country to country, but most are based on a variety of technical and artistic merit points. All routines are done free of training aids or leashes, except in some beginner categories. Competition can be done as a single dog-and-handler team, as a pair of dogs and handlers, or as a full team of three or more dogs and their handlers. Generally, there is only one dog per handler for competition.\nIn either type of competition, the choice of music and the way the routine reflects the music is important. Routines not following the rhythm, no matter how well executed, do not score well.\nExhibition freestyle is a no-holds-barred routine designed to demonstrate the full extent of creativity and excitement that musical freestyle can offer. Though highly entertaining and representing what most people see on television or at events, it allows for moves, props, cues, and costumes that would not usually be allowed on the competition circuit.\nRally Freestyle Elements (Rally FrEE) combines the trick behaviors of Canine Musical Freestyle with the format of Rally-Obedience.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "around 1989"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "1989"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "1991"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "three years"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "Canada",
+          "British Columbia",
+          "British Columbia, Canada"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "Paws 2 Dance Canine Freestyle Organization in Canada"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "GB",
+          "England",
+          "UK",
+          "Great Britain"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "American groups",
+          "American"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "United States",
+          "Japan"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "Netherlands"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "Pawfect K9 Freestyle Club"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "only two"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "three"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "two"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "Heelwork to music",
+          "heel work",
+          "heel work to music",
+          "Heelwork to Music",
+          "heelwork to music"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "Pivots"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "Dogs Can Dance and the Musical Dog Sport Association"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "Kennel club"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "only one"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "Competition rules"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "Canine Musical Freestyle",
+          "musical canine freestyle",
+          "canine freestyle"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "Pawfect K9 Freestyle Club"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "Canine Freestyle Federation"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "musical freestyle group"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "World Canine Freestyle Organization"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "Canine Freestyle GB"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "Canine Freestyle GB"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "Dogs Can Dance"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "Musical Dog Sport Association"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "Paws 2 Dance Canine Freestyle Organization"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "Musical Canine Sports International"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "Musical Freestyle",
+          "Musical freestyle",
+          "musical freestyle"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 33,
+        "mentions": [
+          "freestyle dance"
+        ],
+        "type": "MISC"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Musical freestyle",
+        "relation": "OwnerOf",
+        "tail": "Musical Canine Sports International"
+      },
+      {
+        "head": "Musical Canine Sports International",
+        "relation": "Founded",
+        "tail": "1991"
+      },
+      {
+        "head": "Rally Freestyle Elements",
+        "relation": "HasPart",
+        "tail": "Rally-Obedience"
+      },
+      {
+        "head": "Musical freestyle",
+        "relation": "PartOf",
+        "tail": "animal talent shows"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "SaidToBeTheSameAs",
+        "tail": "freestyle dance"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "SaidToBeTheSameAs",
+        "tail": "canine freestyle"
+      },
+      {
+        "head": "Musical canine freestyle",
+        "relation": "HasPart",
+        "tail": "musical freestyle"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "LocatedIn",
+        "tail": "the United States"
+      },
+      {
+        "head": "Competition rules",
+        "relation": "DifferentFrom",
+        "tail": "group to group"
+      },
+      {
+        "head": "Musical Canine Sports International",
+        "relation": "Founded",
+        "tail": "British Columbia, Canada"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "LocatedIn",
+        "tail": "England"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "SaidToBeTheSameAs",
+        "tail": "musical freestyle"
+      },
+      {
+        "head": "Rally Freestyle Elements",
+        "relation": "HasPart",
+        "tail": "Canine Musical Freestyle"
+      },
+      {
+        "head": "Musical canine freestyle",
+        "relation": "HasPart",
+        "tail": "freestyle heeling"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "LocatedIn",
+        "tail": "Canada"
+      },
+      {
+        "head": "Heelwork to Music",
+        "relation": "InterestedIn",
+        "tail": "Kennel club"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "LocatedIn",
+        "tail": "the Netherlands"
+      },
+      {
+        "head": "Musical Canine Sports International",
+        "relation": "Founded",
+        "tail": "British Columbia, Canada"
+      },
+      {
+        "head": "Canada",
+        "relation": "Follows",
+        "tail": "UK"
+      },
+      {
+        "head": "Canada",
+        "relation": "DifferentFrom",
+        "tail": "UK"
+      }
+    ],
+    "label_set": [
+      "InspiredBy",
+      "SaidToBeTheSameAs",
+      "SignificantEvent",
+      "LocatedIn",
+      "PracticedBy",
+      "Founded",
+      "HasWorksInTheCollection",
+      "Uses",
+      "NominatedFor",
+      "PhysicallyInteractsWith",
+      "InterestedIn",
+      "HasPart",
+      "PartOf",
+      "OwnerOf",
+      "Follows",
+      "Author",
+      "HasEffect",
+      "Creator",
+      "DifferentFrom"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Entertainment",
+    "title": "White_label",
+    "doc": "A white label record is a vinyl record with white labels attached. There are several variations each with a different purpose.  Variations include test pressings, white label promos, and plain white labels.\nTest pressings, usually with test pressing written on the label, with catalogue number, artist and recording time or date, are the first vinyl discs made at the factory. Such discs are produced in very small quantities (usually no more than 5 or 6 copies) to evaluate the quality of the disc before mass production begins. A review of the test pressing may expose problems with the tape to disc transfer (mastering) and helps to ensure that the defective discs do not reach the public.In the United States, the term white label promo (often abbreviated as WLP) refers to a promotional pressing with a label that has mostly the same text and label logo/artwork as the commercial label, but with a white background instead of the color label or artwork found on commercial pressings. These are usually pressed in quantities of only a few thousand per title. Such copies may also contain biographies or pictures of the musical artists. Promotional copies are for distribution to journalists, music distributors or radio stations in order to assess consumer opinion.White label discs can be used to anonymously promote new artists or upcoming albums by veteran artists.  In some cases plain white labels are issued to conceal artist identities (examples of this include songs by Traci Lords and La Toya Jackson), whose record companies issued white labels so that DJs would have no pre-conceived notions about the music from the artist name. Many dance music producers press copies of white labels in order to test crowd response in dance clubs to their own musical productions.Today, white labels are usually produced in small amounts (fewer than 300) by small record companies or DJs and are most popular with club and hip-hop music DJs.  In the early 1990s, hardcore techno and house artists created tracks in home or local studios and had five-hundred or a few thousand singles pressed on 12\" white labels, which were easy to sell at dance music record stores.Steve Beckett of Warp Records recalls that \"shops would take fifty white labels off you for five pounds each, no problem.  Dance music was all imports, then people in Britain started doing it for themselves, and their tracks started to get better than the tunes in America.\"  Record labels like Warp, and Shut Up and Dance, were begun as white-label enterprises, providing cutting-edge dance music to pirate radio stations and music stores.\nSome white labels may contain unauthorized remixes or other recordings which are not licensed for release. Recordings not authorized by the artist or label are often called \"bootlegs\". White labels are referred to as \"promos\" (short for \"promotional copies\") that many top-name DJs receive and play weeks or months prior to the day of general release to the public. As artists using samples pay high fees for the privilege of such, they must be able to gauge the market potential of their tracks prior to approval. Recently, smaller promo services offer record companies a more economical means of distribution although these companies may not have the means to properly protect releases from illegal copying.The industry itself seems to be aware of this necessity and white labels are commonly accepted as a necessary evil within the industry, which has only prosecuted a small number of those artists using white labeled pressings of uncleared samples and compositions.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "no more than 5"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "6"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "United States"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "WLP",
+          "white label promo"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "only a few thousand"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "Traci Lords"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "Today"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "day"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "fewer than 300"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "very small quantities"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "a few thousand per title"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "five-hundred or a few thousand singles"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "no more than 5 or 6 copies"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "small amounts"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "early 1990s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "hardcore techno"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "five-hundred"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "a few thousand"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "12"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "Steve Beckett"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "Warp Records"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "Steve Beckett of Warp Records"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "fifty"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "five pounds"
+        ],
+        "type": "QUANTITY"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "Britain"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "weeks"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "months"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "white label",
+          "white labels",
+          "white label record",
+          "White labels",
+          "White label"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "Test pressings",
+          "test pressings",
+          "test pressing"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "musical artists",
+          "DJs"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "record companies",
+          "small record companies"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "unauthorized remixes",
+          "Recordings not authorized by the artist or label",
+          "bootlegs"
+        ],
+        "type": "MISC"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Steve Beckett",
+        "relation": "OwnerOf",
+        "tail": "Warp Records"
+      },
+      {
+        "head": "white label record",
+        "relation": "HasPart",
+        "tail": "white label promos"
+      },
+      {
+        "head": "white label record",
+        "relation": "HasPart",
+        "tail": "test pressings"
+      },
+      {
+        "head": "white labels",
+        "relation": "HasPart",
+        "tail": "unauthorized remixes"
+      },
+      {
+        "head": "white label promo",
+        "relation": "HasPart",
+        "tail": "promotional pressing"
+      },
+      {
+        "head": "white labels",
+        "relation": "HasPart",
+        "tail": "unauthorized remixes"
+      },
+      {
+        "head": "unauthorized remixes",
+        "relation": "SaidToBeTheSameAs",
+        "tail": "bootlegs"
+      },
+      {
+        "head": "test pressings",
+        "relation": "HasEffect",
+        "tail": "very small quantities"
+      },
+      {
+        "head": "white labels",
+        "relation": "HasEffect",
+        "tail": "small amounts"
+      },
+      {
+        "head": "white label promo",
+        "relation": "SaidToBeTheSameAs",
+        "tail": "promotional pressing"
+      },
+      {
+        "head": "white label promo",
+        "relation": "HasPart",
+        "tail": "label"
+      },
+      {
+        "head": "test pressings",
+        "relation": "HasEffect",
+        "tail": "very small quantities"
+      },
+      {
+        "head": "white label record",
+        "relation": "HasPart",
+        "tail": "plain white labels"
+      }
+    ],
+    "label_set": [
+      "InspiredBy",
+      "SaidToBeTheSameAs",
+      "SignificantEvent",
+      "LocatedIn",
+      "PracticedBy",
+      "Founded",
+      "HasWorksInTheCollection",
+      "Uses",
+      "NominatedFor",
+      "PhysicallyInteractsWith",
+      "InterestedIn",
+      "HasPart",
+      "PartOf",
+      "OwnerOf",
+      "Follows",
+      "Author",
+      "HasEffect",
+      "Creator",
+      "DifferentFrom"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  }
+]

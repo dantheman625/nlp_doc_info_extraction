@@ -1,0 +1,1110 @@
+[
+  {
+    "domain": "Government",
+    "title": "Treaty_of_Verdun",
+    "doc": "The Treaty of Verdun (French: Traité de Verdun,\nGerman: Vertrag von Verdun), agreed in 10 August 843, divided the Frankish Empire into three kingdoms between Lothair I, Louis II and Charles II, the surviving sons of the emperor Louis I, the son and successor of Charlemagne. The treaty was concluded following almost three years of civil war and was the culmination of negotiations lasting more than a year. It was the first in a series of partitions contributing to the dissolution of the empire created by Charlemagne and has been seen as foreshadowing the formation of many of the modern countries of western Europe.\nThe treaty was the first of the four partition treaties of the Carolingian Empire, followed by the Treaties of Prüm (855), Meerssen (870), and Ribemont (880).\nFollowing Charlemagne's death, Louis was made ruler of the Frankish Empire. Agobard, archbishop of Lyon, opposed the division of the empire, as he claimed that it would divide the church. During his reign, Louis the Pious divided the empire so that each of his sons could rule over their own kingdom under the greater rule of their father. Louis’ eldest son, Lothair I, was given the title of emperor but because of several re-divisions by his father and the resulting revolts, he became much less powerful. When Louis died in 840, Lothair I claimed overlordship over the entirety of his father's kingdom in an attempt to reclaim the power he had at the beginning of his reign as emperor. He also supported his nephew Pepin II's claim to Aquitaine, a large province in the west of the Frankish realm. Lothair's brother, Louis II, and his half-brother Charles II refused to acknowledge Lothair's suzerainty and declared war against him. After a bloody civil war, they defeated Lothair at the Battle of Fontenoy in 841 and sealed their alliance in 842 with the Oaths of Strasbourg which declared Lothair unfit for the imperial throne, after which he became willing to negotiate a settlement. The meeting happened shortly before August 10, as confirmed by a contemporary letter.Each of the three brothers was already established in one kingdom: Lothair in the Kingdom of Italy; Louis the German in the Kingdom of Bavaria; and Charles II in the Kingdom of Aquitaine. Lothair I received Francia Media (the Middle Frankish kingdom).\nIn the settlement, Lothair (who had been named co-emperor in 817) retained his title as emperor, but it conferred only nominal overlordship of his brothers' lands. His domain later became the Low Countries, the Rhineland west of the Rhine, Lorraine, Alsace, Burgundy, Provence, and the Kingdom of Italy (which covered the northern half of the Italian Peninsula). He also received the two imperial cities, Aachen and Rome.\nLouis II received Francia Orientalis (the East Frankish kingdom).\nHe was guaranteed the kingship of all lands to the east of the Rhine (although not the Netherlands to the north of the Rhine) and to the north and east of Italy, altogether called East Francia. It eventually became the High Medieval Kingdom of Germany, the largest component of the Holy Roman Empire.\nCharles II received Francia Occidentalis (the West Frankish kingdom).\nPepin II was granted the Kingdom of Aquitaine, but only under the authority of Charles. Charles received all lands west of the Rhône, called West Francia. It eventually became the Kingdom of France.\nAfter Lothair's death in 855, his eldest son, Louis II, inherited Italy and his father's claim to the Imperial throne. Upper Burgundy and Lower Burgundy (Arles and Provence) passed to Lothair's third son, Charles of Provence. The remaining territory north of the Alps, which did not previously have a name, was inherited by Lothair's second son, Lothair II, and was then named Lotharingia (present day Lorraine) after him.\nThe division reflected an adherence to the old Frankish custom of partible or divisible inheritance amongst a ruler's sons, rather than primogeniture (i.e., inheritance by the eldest son) which would soon be adopted by both Frankish kingdoms. Since Lotharingia combined lengthy and vulnerable land borders with poor internal communications as it was severed by the Alps, it was not a viable entity and soon fragmented. This made it difficult for a single ruler to reassemble Charlemagne's empire. Only Charles the Fat achieved this briefly.In 855, the northern section became fragile Lotharingia, which became disputed by the more powerful states that evolved out of Francia Occidentalis (present day France) and Francia Orientalis (present day Germany). Generations of kings of France and Germany were unable to establish a firm rule over Lothair's kingdom. While the north of Lotharingia was then composed of independent countries, the southern third of Lotharingia, Alsace-Lorraine, was traded back and forth between France and Germany from the 18th to the 20th century. In 1766, it passed to France after the death of Stanisław Leszczyński, who had acquired the region from the German Habsburgs by the Treaty of Vienna (1738) ending the War of Polish Succession (1733:1738). In 1871, Alsace-Lorraine became German, after the victory of Prussia and its German allies over the French in the Franco-Prussian War (1870:1871). In 1919, it became French again by the Treaty of Versailles (1919), following the French victory over the Germans in World War I (1914:1918). In 1940, Germany reannexed Alsace-Lorraine following Germany's conquest of France. Finally, in 1945, after World War II (1939:1945), Alsace-Lorraine was solidified as French territory, which it remains to this day, more than a thousand years after the Treaty of Verdun. The collapse of the Middle Frankish Kingdom also compounded the disunity of the Italian Peninsula, which persisted into the 19th century.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "Treaty of Verdun",
+          "Verdun",
+          "Traité de Verdun",
+          "four partition treaties of the Carolingian Empire",
+          "Treaty",
+          "Vertrag von Verdun",
+          "four partition treaties",
+          "treaty",
+          "first of the four partition treaties"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "Rhône",
+          "western Europe",
+          "Alsace",
+          "French territory",
+          "High Medieval Kingdom of Germany",
+          "World War I (1914:1918)",
+          "Franco-Prussian War (1870:1871)",
+          "Rome",
+          "Treaty of Vienna",
+          "Italian",
+          "present day Lorraine",
+          "World War II",
+          "Lothair's kingdom",
+          "Francia Media",
+          "France",
+          "Frankish",
+          "Lorraine",
+          "French",
+          "Kingdom of Bavaria",
+          "Treaty of Versailles",
+          "Imperial throne",
+          "Rhineland west of the Rhine",
+          "Frankish Empire",
+          "Alps",
+          "Charlemagne's empire",
+          "Frankish realm",
+          "French victory over the Germans in World War I",
+          "Middle Frankish",
+          "Kingdom of Germany",
+          "German Habsburgs",
+          "Rhine",
+          "Francia Occidentalis",
+          "Middle Frankish kingdom",
+          "Kingdom of Italy",
+          "Middle Frankish Kingdom",
+          "northern section",
+          "empire",
+          "Lothair's second son, Lothair II",
+          "Lothair's third son, Charles of Provence",
+          "880",
+          "Franco-Prussian War",
+          "Kingdom of Aquitaine",
+          "more powerful states that evolved out of Francia Occidentalis",
+          "West Frankish kingdom",
+          "Low Countries",
+          "Provence",
+          "Frankish custom",
+          "Rhineland",
+          "northern half of the Italian Peninsula",
+          "imperial throne",
+          "Alsace-Lorraine",
+          "Imperial",
+          "Italian Peninsula",
+          "Italy",
+          "East Frankish kingdom",
+          "empire created by Charlemagne",
+          "Burgundy",
+          "Kingdom of France",
+          "West Francia",
+          "West Frankish",
+          "Lotharingia",
+          "Carolingian Empire",
+          "Upper Burgundy",
+          "Arles",
+          "southern third of Lotharingia",
+          "Stanisław Leszczyński",
+          "Europe",
+          "Aquitaine",
+          "Holy Roman Empire",
+          "Lower Burgundy",
+          "World War I"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "German Habsburgs",
+          "Germans in World War I",
+          "East Frankish kingdom",
+          "German",
+          "Francia Orientalis",
+          "Germany's conquest of France",
+          "Prussian",
+          "Prussia",
+          "German allies",
+          "East Francia",
+          "Germany reannexed Alsace-Lorraine",
+          "East Frankish",
+          "Germany",
+          "Holy Roman Empire",
+          "Germans"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "10 August 843"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "August 10"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "10 August"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "1919"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "1940"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "1945"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "1870:1871"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "1733:1738"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "1939:1945"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "1766"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "1914:1918"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "1738"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "19th century"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "1871"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "this day"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "three"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "Lothair",
+          "Ribemont",
+          "Charles II",
+          "Louis I",
+          "Louis the German",
+          "Lothair I",
+          "Charles of Provence",
+          "Charles the Fat",
+          "Charlemagne",
+          "Louis the Pious",
+          "Louis",
+          "Louis II",
+          "Charles",
+          "Lothair II"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "more than a year"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "almost three years"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "three years"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "more than a thousand years after the Treaty of Verdun"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "lasting more than a year"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "four"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "Treaties of Prüm"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "855"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "843"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "870"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "Meerssen"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "Agobard",
+          "Lyon",
+          "archbishop of Lyon"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 33,
+        "mentions": [
+          "840"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 34,
+        "mentions": [
+          "Pepin II was granted the Kingdom of Aquitaine",
+          "Pepin II's claim",
+          "Pepin II"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 35,
+        "mentions": [
+          "half"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 36,
+        "mentions": [
+          "841"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 37,
+        "mentions": [
+          "842"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 38,
+        "mentions": [
+          "Oaths of Strasbourg"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 39,
+        "mentions": [
+          "one"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 40,
+        "mentions": [
+          "817"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 41,
+        "mentions": [
+          "two"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 42,
+        "mentions": [
+          "Aachen",
+          "two imperial cities, Aachen and Rome"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 43,
+        "mentions": [
+          "Netherlands"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 44,
+        "mentions": [
+          "third"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 45,
+        "mentions": [
+          "Alps"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 46,
+        "mentions": [
+          "second"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 47,
+        "mentions": [
+          "18th to the 20th century"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 48,
+        "mentions": [
+          "War of Polish Succession"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 49,
+        "mentions": [
+          "more than a thousand years"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 50,
+        "mentions": [
+          "19th century"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 51,
+        "mentions": [
+          "imperial throne",
+          "Imperial throne"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 52,
+        "mentions": [
+          "Treaty of Versailles (1919)",
+          "Treaty of Versailles"
+        ],
+        "type": "MISC"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Alsace-Lorraine",
+        "relation": "LocatedIn",
+        "tail": "France"
+      },
+      {
+        "head": "Alsace-Lorraine",
+        "relation": "LocatedIn",
+        "tail": "Germany"
+      },
+      {
+        "head": "Charles II",
+        "relation": "OwnerOf",
+        "tail": "Francia Occidentalis"
+      },
+      {
+        "head": "Louis the German",
+        "relation": "PartOf",
+        "tail": "Kingdom of Bavaria"
+      },
+      {
+        "head": "Louis II",
+        "relation": "AdjacentStation",
+        "tail": "East Francia"
+      },
+      {
+        "head": "Louis II",
+        "relation": "OwnerOf",
+        "tail": "Francia Orientalis"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "AdjacentStation",
+        "tail": "Alsace"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "NominatedFor",
+        "tail": "Imperial throne"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "AdjacentStation",
+        "tail": "Low Countries"
+      },
+      {
+        "head": "Charles II",
+        "relation": "AdjacentStation",
+        "tail": "West Francia"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "AdjacentStation",
+        "tail": "Kingdom of Italy"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "OwnerOf",
+        "tail": "Francia Media"
+      },
+      {
+        "head": "Treaty of Verdun",
+        "relation": "HasPart",
+        "tail": "Frankish Empire"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "AdjacentStation",
+        "tail": "Rhineland"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "PartOf",
+        "tail": "Kingdom of Italy"
+      },
+      {
+        "head": "Charles II",
+        "relation": "PartOf",
+        "tail": "Kingdom of Aquitaine"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "AdjacentStation",
+        "tail": "Lorraine"
+      },
+      {
+        "head": "Meerssen",
+        "relation": "Country",
+        "tail": "the Netherlands"
+      },
+      {
+        "head": "840",
+        "relation": "PrimeFactor",
+        "tail": "two"
+      },
+      {
+        "head": "842",
+        "relation": "PrimeFactor",
+        "tail": "two"
+      },
+      {
+        "head": "one",
+        "relation": "FollowedBy",
+        "tail": "two"
+      }
+    ],
+    "label_set": [
+      "Director",
+      "HasPart",
+      "SaidToBeTheSameAs",
+      "Follows",
+      "UsedBy",
+      "Employer",
+      "Developer",
+      "NominatedFor",
+      "OperatingSystem",
+      "AdjacentStation",
+      "Location",
+      "DiplomaticRelation",
+      "DifferentFrom",
+      "HasEffect",
+      "PublishedIn",
+      "OriginalLanguageOfFilmOrTvShow",
+      "FollowedBy",
+      "SharesBorderWith",
+      "IssuedBy",
+      "TwinnedAdministrativeBody",
+      "PlaceOfBirth",
+      "NativeLanguage",
+      "OwnerOf",
+      "InfluencedBy",
+      "LanguageUsed",
+      "PartOf",
+      "PrimeFactor",
+      "ContainsTheAdministrativeTerritorialEntity",
+      "ParentOrganization",
+      "CitesWork",
+      "LocatedIn",
+      "Country",
+      "EducatedAt",
+      "CountryOfCitizenship",
+      "Capital",
+      "LanguageOfWorkOrName",
+      "OfficialLanguage",
+      "SignificantEvent",
+      "PartyChiefRepresentative",
+      "PositionHeld"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Government",
+    "title": "Official_communications_in_imperial_China",
+    "doc": "Official communications in imperial China, the era which lasted from the 221 BC until AD 1912, required predictable forms and means. Documents flowed down from the emperor to officials, from officials to the emperor, from one part of the bureaucracy to others, and from the emperor or his officials to the people. These documents, especially memorials to the throne, were preserved in collections which became more voluminous with each passing dynasty and make the Chinese historical record extraordinarily rich.\nThis article briefly describes the major forms and types of communication going up to and down from the emperor.\nUnder Chinese law, the emperor's edicts had the force of law. By the time the Han dynasty established the basic patterns of bureaucracy, edicts or commands could be issued either by the emperor or in the emperor's name by the proper official or unit of the government. Important edicts were carved on stone tablets for public inspection. One modern scholar counted more than 175 different terms for top down commands, orders, edicts, and such.Edicts formed a recognized category of prose writing. The Qing dynasty scholar Yao Nai ranked \"Edicts and orders\" (Zhao-ling) as one of the thirteen categories of prose writing, citing prototypes which went back to the Zhou dynasty and the Book of History. Han dynasty edicts, sometimes actually written by high officials in the name of the emperor, were known for their literary quality. In later dynasties, both emperors and officials who wrote in the emperor's name published collections of edicts.\nThe history of China features a range of famous edicts and instructions. Here are examples in chronological order:\nAn edict issued in 213 BC by Qin Shi Huang of the Qin dynasty ordered the burning of books and burying of scholars.\nThe Edict on the Proclamation of the Dynastic Name (建國號詔) issued in 1271 by Emperor Shizu of the Yuan dynasty promulgated the official dynastic name of \"Great Yuan\", officially established the Yuan dynasty as a Chinese dynasty, and explicitly claimed political succession from the Three Sovereigns and Five Emperors to the Tang dynasty.\nThe Hongwu Emperor of the Ming dynasty issued a series of Great Warnings (御製大誥) which informed his people and his bureaucracy of their failings and his instructions to correct them.\nAlso issued by the Hongwu Emperor, the Instructions of the Ancestor was effectively an edict directed at his descendants.\nThe Hongwu Emperor also issued the Six Maxims (聖諭六言) which instructed his subjects:\nTreat your parents with piety; respect your elders and superiors; live at peace in your villages; instruct your children and grandchildren; make your living peacefully; commit no wrong.\nThe Kangxi Emperor of the Qing dynasty issued the Sacred Edict in 1670 to educate his subjects on Confucian principles. This was to be posted in every village and read periodically to the assembled population. The edict was later expanded upon by the Yongzheng Emperor in 1724 and distributed in Chinese, Manchu and Mongolian languages.\nThe Qianlong Emperor issued an edict to George III of the United Kingdom in 1793 instructing him that England had nothing of value to offer.\nA memorial, most commonly zouyi, was the most important form of document sent by an official to the emperor. In the early dynasties, the terms and formats of the memorial were fluid, but by the Ming dynasty, codes and statutes specified what terminology could be used by what level of official in what particular type of document dealing with what particular type of problem. Criminal codes specified punishments for mistranscriptions or using a character that was forbidden because it was used in one of the emperor's names. The emperor might reply at length, perhaps dictating a rescript in response. More often he made a notation in the margin in vermilion ink (which only the emperor could use) stating his wishes. Or he might simply write \"forward to the proper ministry,\" \"noted,\" or use his brush to make a circle, the equivalent of a checkmark, to indicate that he had read the document.In 1370, the Hongwu emperor established an office to organize the flow of memorials, which could come from both officials and commoners, and this became the Office of Transmission (Tongzheng si). The staff copied each memorial received, and forwarded the original to the emperor. The emperor once severely scolded a director of the office for failing to report several memorials: \"Stability depends on superior and inferior communicating; there is none when they do not. From ancient times, many a state has fallen because a ruler did not know the affairs of the people.\"\nBy the height of the Qing dynasty in the 18th century, memorials from bureaucrats at the central, provincial, and county level supplied the emperors (and modern historians) with personnel evaluations, crop reports, prices in local markets, weather predictions, intelligence on social affairs, and any other matter of possible interest.  Memorials were transported by government couriers and then copied and summarized by the Grand Secretariat, which itself had been perfected in the preceding Ming dynasty. They would be copied by clerks and entered into official registers.\nThis bureaucracy saved the emperor from being swamped with tedious detail but might also shield him from information which he needed to know. The Kangxi Emperor (r. 1672:1722), the Yongzheng Emperor (r. 1722:1735), and the Qianlong Emperor (r. 1735:1796) therefore developed a supplementary system of \"Palace Memorials\" (zouzhe) which they instructed local officials to send directly, without passing through bureaucratic filters. One type, the \"Folding Memorial,\" was written on a page small enough for the emperor to hold in his hand and read without being observed. The Yongzheng Emperor, who preferred the written system over audiences, increased the use of these palace memorials by more than ten times over his father. He found he could get quick responses to emergency requests instead of waiting for the formal report, or give frank instructions: Of one official he said, \"he is good-hearted, hard-working old hand. I think he's very good. But he's a bit coarse... just like Zhao Xiangkui, except that Zhao is intelligent.\" Likewise a provincial governor could frankly report that a subordinate was \"scatter brained.\" The emperor could then instruct the official to also submit a routine memorial. Most important, bypassing the regular bureaucracy made it easier for the emperor to have his own way without being restricted by the regulations of the administrative code.\nThe system of memorials and rescripts, even more than personal audiences, was the emperor's way to shape and cement relations with his officials. Memorials could be quite specific and even personal, since the emperor knew many of his officials quite well. The Kangxi Emperor, for instance, wrote one of his generals:\n\"I am fine. It is cool now outside the passes. There has been enough rain so the food now is very good... You're an old man -- are grandfather and grandmother both well?\"\nBut sometimes impatience broke through: \"Stop the incessant sending of these greetings!\" or \"I hear tell you've been drinking. If after receiving my edict you are not able to refrain, and so turn your back on my generosity, I will no longer value you or your services.\" The historian Jonathan Spence translated and joined together memorials of the Kangxi Emperor to form an autobiographical \"self-portrait\" which gives an feel for the emperor's place in the flow of government.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "emperor's edicts",
+          "Kangxi Emperor, for instance",
+          "Hongwu Emperor",
+          "Chinese dynasty",
+          "Chinese law",
+          "Kangxi Emperor",
+          "preceding Ming dynasty",
+          "Kangxi Emperor (r. 1672:1722)",
+          "Yuan dynasty",
+          "Chinese historical record",
+          "Qin dynasty",
+          "Hongwu emperor",
+          "Yongzheng Emperor",
+          "China",
+          "Qianlong Emperor",
+          "Chinese",
+          "history of China",
+          "emperor's name",
+          "Ming dynasty",
+          "Chinese, Manchu and Mongolian languages",
+          "Qing dynasty",
+          "Great Yuan",
+          "emperor"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "221"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "regular bureaucracy",
+          "ruler",
+          "George III",
+          "Official",
+          "Zhao Xiangkui",
+          "Emperor",
+          "official",
+          "Yongzheng Emperor, who preferred the written system over audiences, increased the use of these palace memorials by more than ten times over his father. He found he could get quick responses to emergency requests instead of waiting for the formal report, or give frank instructions: Of one official he said, \"he is good-hearted, hard-working old hand. I think he's very good. But he's a bit coarse... just like Zhao Xiangkui, except that Zhao is intelligent.",
+          "Zhou",
+          "Hongwu Emperor",
+          "United Kingdom",
+          "state",
+          "Kangxi Emperor",
+          "officials",
+          "Zhou dynasty",
+          "Hongwu emperor",
+          "George III of the United Kingdom",
+          "Manchu",
+          "Yongzheng Emperor",
+          "Qianlong Emperor",
+          "Qing dynasty scholar Yao Nai",
+          "Hongwu",
+          "dynasties",
+          "height of the Qing dynasty",
+          "Emperor Shizu",
+          "England",
+          "people",
+          "government",
+          "subjects",
+          "Zhao",
+          "bureaucrats",
+          "Qin",
+          "Qin Shi Huang",
+          "bureaucracy",
+          "r.",
+          "emperor",
+          "BC",
+          "government couriers"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "AD 1912"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "one"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "Han dynasty",
+          "Han",
+          "an edict to George III of the United Kingdom in 1793",
+          "Edicts and orders",
+          "Edicts",
+          "edict to George III",
+          "Han dynasty edicts"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "One"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "more than 175"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "Qing dynasty scholar Yao Nai",
+          "Qing dynasty",
+          "Qianlong Emperor (r. 1735:1796)",
+          "Kangxi Emperor of the Qing dynasty",
+          "Yongzheng Emperor (r. 1722:1735)",
+          "height of the Qing dynasty in the 18th century"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "Yao Nai"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "Zhao-ling"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "thirteen"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "Book of History"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "213"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "1271"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "213 BC"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "1370"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "1793"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "Three"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "Five"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "edicts",
+          "instructions",
+          "Instructions",
+          "Instructions of the Ancestor",
+          "edict",
+          "Edict",
+          "orders",
+          "Six Maxims",
+          "commands",
+          "Edict on the Proclamation of the Dynastic Name",
+          "Sacred Edict",
+          "Great Warnings"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "Six Maxims"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "Sacred Edict in 1670",
+          "Sacred Edict",
+          "Sacred Edict in"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "1724"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "1670"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "Confucian",
+          "Confucian principles"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "Mongolian languages",
+          "Mongolian"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "Tongzheng si",
+          "Office of Transmission"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "18th century"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "Grand Secretariat"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "Folding Memorial",
+          "Memorial",
+          "\"Folding Memorial",
+          "Palace Memorials",
+          "Memorials",
+          "memorial",
+          "memorials",
+          "memorials to the throne",
+          "palace memorials"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "more than ten"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "historian Jonathan Spence",
+          "Jonathan Spence"
+        ],
+        "type": "PERSON"
+      }
+    ],
+    "triples": [
+      {
+        "head": "memorials",
+        "relation": "UsedBy",
+        "tail": "officials"
+      },
+      {
+        "head": "Hongwu Emperor",
+        "relation": "IssuedBy",
+        "tail": "Great Warnings"
+      },
+      {
+        "head": "Han dynasty",
+        "relation": "HasPart",
+        "tail": "bureaucracy"
+      },
+      {
+        "head": "emperor",
+        "relation": "OwnerOf",
+        "tail": "memorials"
+      },
+      {
+        "head": "Qianlong Emperor",
+        "relation": "IssuedBy",
+        "tail": "edict to George III"
+      },
+      {
+        "head": "emperor",
+        "relation": "HasPart",
+        "tail": "edicts"
+      },
+      {
+        "head": "Qing dynasty",
+        "relation": "HasPart",
+        "tail": "Sacred Edict"
+      },
+      {
+        "head": "Kangxi Emperor",
+        "relation": "IssuedBy",
+        "tail": "Palace Memorials"
+      },
+      {
+        "head": "221",
+        "relation": "PrimeFactor",
+        "tail": "thirteen"
+      },
+      {
+        "head": "213",
+        "relation": "PrimeFactor",
+        "tail": "Three"
+      }
+    ],
+    "label_set": [
+      "Director",
+      "HasPart",
+      "SaidToBeTheSameAs",
+      "Follows",
+      "UsedBy",
+      "Employer",
+      "Developer",
+      "NominatedFor",
+      "OperatingSystem",
+      "AdjacentStation",
+      "Location",
+      "DiplomaticRelation",
+      "DifferentFrom",
+      "HasEffect",
+      "PublishedIn",
+      "OriginalLanguageOfFilmOrTvShow",
+      "FollowedBy",
+      "SharesBorderWith",
+      "IssuedBy",
+      "TwinnedAdministrativeBody",
+      "PlaceOfBirth",
+      "NativeLanguage",
+      "OwnerOf",
+      "InfluencedBy",
+      "LanguageUsed",
+      "PartOf",
+      "PrimeFactor",
+      "ContainsTheAdministrativeTerritorialEntity",
+      "ParentOrganization",
+      "CitesWork",
+      "LocatedIn",
+      "Country",
+      "EducatedAt",
+      "CountryOfCitizenship",
+      "Capital",
+      "LanguageOfWorkOrName",
+      "OfficialLanguage",
+      "SignificantEvent",
+      "PartyChiefRepresentative",
+      "PositionHeld"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  }
+]

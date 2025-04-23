@@ -1,0 +1,746 @@
+[
+  {
+    "domain": "Education",
+    "title": "Hospitality_management_studies",
+    "doc": "Hospitality Management and Tourism is the study of the hospitality industry. A degree in the subject may be awarded either by a university college dedicated to the studies of hospitality management or a business school with a relevant department. Degrees in hospitality management may also be referred to as hotel management, hotel and tourism management, or hotel administration. Degrees conferred in this academic field include BA, Bachelor of Business Administration, BS, BASc, B.Voc, MS, MBA, Bachelor of Hospitality Management, Master of Management, PhD and short term course. Hospitality management covers hotels, restaurants, cruise ships, amusement parks, destination marketing organizations, convention centers, country clubs and many more.\nIn the US, hospitality and tourism management curricula follow similar core subject applications to that of a business degree, but with a focus on tourism development and hospitality management. Core subject areas include accounting, administration, entrepreneurship, finance, information systems, marketing, human resource management, public relations, strategy, quantitative methods, and sectoral studies in the various areas of hospitality business. Some programs in India also include culinary training.Many schools have departments that specifically give degrees in the hospitality field.The QS World University Rankings by Subject are based upon academic reputation, employer reputation and research impact. These results are reviewed and evaluated every year by academics and industry professionals to ensure consistent quality over time.",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "hotel administration",
+          "amusement parks",
+          "hospitality",
+          "hospitality business",
+          "Hospitality Management and Tourism",
+          "convention centers",
+          "Hospitality Management",
+          "Hospitality",
+          "tourism management",
+          "country clubs",
+          "restaurants",
+          "hotel and tourism management",
+          "business school",
+          "Hospitality management",
+          "hotel management",
+          "cruise ships",
+          "destination marketing organizations",
+          "hospitality field",
+          "hotels",
+          "hospitality industry",
+          "hospitality and tourism management",
+          "business degree",
+          "hospitality management"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "MBA",
+          "MS",
+          "BA",
+          "B.Voc",
+          "Master of Management",
+          "BASc",
+          "short term course",
+          "Bachelor of Hospitality Management",
+          "PhD",
+          "BS",
+          "Bachelor of Business Administration"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "US"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "India"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "QS World University Rankings"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "Degrees in hospitality management"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "departments that specifically give degrees in the hospitality field",
+          "programs in India",
+          "hospitality and tourism management curricula"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "QS World University Rankings by Subject"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "research impact",
+          "academic reputation",
+          "employer reputation"
+        ],
+        "type": "MISC"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Hospitality Management and Tourism",
+        "relation": "Studies",
+        "tail": "hospitality industry"
+      },
+      {
+        "head": "Hospitality Management and Tourism",
+        "relation": "Studies",
+        "tail": "hospitality industry"
+      }
+    ],
+    "label_set": [
+      "RegulatedBy",
+      "BasedOn",
+      "UsedBy",
+      "LocatedIn",
+      "PresentedIn",
+      "PartOf",
+      "HasPart",
+      "Uses",
+      "InfluencedBy",
+      "Studies",
+      "DifferentFrom"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Education",
+    "title": "Validation_of_foreign_studies_and_degrees",
+    "doc": "The Validation or recognition of foreign studies and degrees is the process whereby a competent authority in one country formally recognises the value of a qualification from a foreign country. This can entail total or partial validation of foreign university and non-university studies, degrees and other qualifications. Particularly within Europe, this is covered by a number of international conventions and agreements.\nThe first generation of recognition conventions was developed under the auspices of UNESCO in the 1970s and 1980s, with conventions covering Latin America and the Caribbean (1974), the Mediterranean (1976), the Arab States (1978), Europe (1979), Africa (1981), and Asia and the Pacific (1983). These conventions are specifically concerned with recognition of qualifications rather than equivalence : there is no attempt to build frameworks with automatic equivalence of qualifications. This first generation of conventions has been built on by second generation conventions, starting with Lisbon (1997) covering Europe and now including the Asia-Pacific region (Tokyo, 2011) and Africa (Addis Ababa, 2014). A major change with the more recent conventions is a shift in favour of recognition, with the burden being to show substantial differences.\nThe Lisbon Convention  entered into force in 1999, the Tokyo Convention in 2018 and the Addis Ababa Convention in 2019. A new regional convention covering Latin America and the Caribbean was adopted in Buenos Aires in 2019 but has not, as of February 2020, entered into force. The first recognition treaty with a global scope, the Global Convention on the Recognition of Higher Education Qualifications, was adopted by the 40th session of UNESCO's General Conference in November 2019.\nMutual recognition of higher education qualifications is enshrined in the UNESCO/Council of Europe Lisbon Recognition Convention, which covers (as of February 2017) all Council of Europe members except Monaco and Greece, as well as Australia, Belarus, Holy See, Israel, Kazakhstan, Kyrghyz Republic, New Zealand and Tajikistan. The convention has also been signed, but not ratified, by Canada and the United States. Within these countries, qualifications must be recognised as equivalent unless proven otherwise, and assessments must be carried out fairly and within a reasonable time.The convention established the European Network of Information Centres (ENIC),  supplementing and expanding the National Academic Recognition Information Centre (NARIC) network established by the European Union in 1984. The ENIC-NARIC network comprises national centres for validation of degrees in member countries.\nThe European Higher Education Area consists (as of February 2017) of 48 national members (who must be signatories of the European Cultural Convention) and the European Union. It aims to promote mutual recognition of academic qualifications through alignment of national qualifications frameworks, via the Bologna Process's short cycle, first cycle (bachelor's degree), second cycle (master's degree) and third cycle (doctoral degree) framework, the European Credit Transfer and Accumulation System, and the use of Diploma Supplements.The European Qualifications Framework (EQF) is an initiative of the European Commission to provide a \"translation\" for national qualifications frameworks at all levels (not just higher education) and so support mobility of workers within the European Union. It originally covered the 28 EU states plus Lichtenstein and Norway, but has been opened to non-EU states, with Australia, New Zealand and Hong Kong currently going through referencing of their national frameworks to the EQF.Mutual recognition of professional qualifications is regulated by European Union Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications, modified by Council Directive 2006/100/EC.Procedure:\nThe competent authority of the host Member State shall acknowledge receipt of the application within one month of receipt and inform the applicant of any missing document.\nThe procedure for examining an application for authorisation to practise a regulated profession must be completed as quickly as possible and lead to a duly substantiated decision by the competent authority in the host Member State in any case within three months after the date on which the applicant's complete file was submitted. However, this deadline may be extended by one month in certain cases.\nThe decision, or failure to reach a decision within the deadline, shall be subject to appeal under national law.\nThe Norwegian governmental authority for accreditation of foreign education of Norwegian citizens and foreigners, NOKUT, has sole power in these matters.The total validation of foreign university studies and degrees in the Spanish system consists of a complete recognition of said studies and degrees in that system. The Spanish Ministry of Education and Science is in charge of the procedure.The academic degrees, diplomas or certificates on pharmaceutical or medical specialities which were obtained in a foreign country and which qualify the applicant in order to carry out the relevant professions in those countries can be validated as their official equivalents in the Spanish system.\nThe Ministry of Education and Science is only responsible for the total validation of a foreign university degree for its Spanish equivalent. Any other applications for the partial validation of studies carried out in a foreign country in order to pursue a university study course in Spain must be submitted to the Spanish university itself.\nThe US government does not have a specified agency for recognition and validation of foreign qualifications. Instead, responsibility falls on universities and colleges to determine the equivalence for students they admit, on employers for people they employ and on state licensing board for entry into regulated professions. These bodies may carry out assessment themselves, or contract a private credential evaluation service.Credential evaluation is also important for those seeking an H-1B visa, which requires a bachelor's degree or equivalent, and for some categories of permanent resident. For H-1Bs, but not permanent resident applications, experience can be counted towards equivalence at the rate of three years of experience equals one year of education.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "recognition treaty",
+          "Credential evaluation",
+          "Mutual recognition of higher education qualifications",
+          "recognition conventions",
+          "recognition and validation of foreign qualifications",
+          "validation of foreign university and non-university studies",
+          "validation of foreign university studies",
+          "credential evaluation",
+          "partial validation of studies",
+          "total or partial validation",
+          "complete recognition",
+          "total validation of foreign university studies and degrees",
+          "recognition of qualifications",
+          "recognition of professional qualifications",
+          "recognition of foreign studies and degrees",
+          "validation of degrees"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "one"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "EQF",
+          "European Higher Education Area",
+          "Council of Europe members",
+          "European Qualifications Framework (EQF)",
+          "ENIC-NARIC network",
+          "European Qualifications Framework",
+          "European Cultural Convention",
+          "Spanish system",
+          "Member State"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "EU",
+          "Europe"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "European Union",
+          "US government",
+          "European Commission",
+          "Spanish",
+          "Norwegian governmental authority",
+          "European Parliament"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "Spanish Ministry of Education and Science",
+          "European Commission",
+          "European Higher Education Area",
+          "European Network of Information Centres",
+          "Ministry of Education and Science",
+          "European Cultural Convention",
+          "Spanish university"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "Spain",
+          "US"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "European Network of Information Centres (ENIC)",
+          "UNESCO's General Conference",
+          "UNESCO",
+          "National Academic Recognition Information Centre (NARIC)"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "Lisbon Convention",
+          "Global Convention on the Recognition of Higher Education Qualifications",
+          "Council",
+          "European Union Directive 2005/36/EC",
+          "40th session of UNESCO's General Conference",
+          "NARIC network",
+          "European Qualifications Framework (EQF)",
+          "General Conference",
+          "Lisbon Recognition Convention",
+          "UNESCO/Council of Europe Lisbon Recognition Convention",
+          "mutual recognition of academic qualifications"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "Lisbon"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "Council of Europe"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "1983"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "1970s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "1981"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "1976"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "1974"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "1978"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "1979"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "2017"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "2005"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "2011"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "2019"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "1997"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "1980s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "1970s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "2018"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "1999"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "2014"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "February 2017"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "7 September 2005"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "February 2020"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "1984"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 33,
+        "mentions": [
+          "2020"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 34,
+        "mentions": [
+          "November 2019"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 35,
+        "mentions": [
+          "Asia",
+          "Asia-Pacific region",
+          "Asia and the Pacific",
+          "Latin America and the Caribbean",
+          "Mediterranean",
+          "Pacific",
+          "Africa",
+          "Caribbean",
+          "Latin America"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 36,
+        "mentions": [
+          "Arab States"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 37,
+        "mentions": [
+          "Mediterranean"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 38,
+        "mentions": [
+          "second"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 39,
+        "mentions": [
+          "Tokyo"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 40,
+        "mentions": [
+          "Tokyo Convention in 2018"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 41,
+        "mentions": [
+          "Addis Ababa Convention"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 42,
+        "mentions": [
+          "Addis Ababa"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 43,
+        "mentions": [
+          "Tokyo Convention"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 44,
+        "mentions": [
+          "Buenos Aires"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 45,
+        "mentions": [
+          "Global Convention on the Recognition of Higher Education Qualifications"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 46,
+        "mentions": [
+          "40th"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 47,
+        "mentions": [
+          "Kazakhstan",
+          "US",
+          "Belarus",
+          "Israel",
+          "Holy See",
+          "Kyrghyz Republic",
+          "Australia",
+          "Tajikistan",
+          "Canada",
+          "New Zealand",
+          "Monaco",
+          "United States",
+          "Greece"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 48,
+        "mentions": [
+          "European Network of Information Centres",
+          "ENIC"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 49,
+        "mentions": [
+          "National Academic Recognition Information Centre",
+          "European Network of Information Centres (ENIC)",
+          "NARIC"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 50,
+        "mentions": [
+          "48"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 51,
+        "mentions": [
+          "Bologna Process"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 52,
+        "mentions": [
+          "third"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 53,
+        "mentions": [
+          "European Credit Transfer and Accumulation System"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 54,
+        "mentions": [
+          "Diploma Supplements"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 55,
+        "mentions": [
+          "28"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 56,
+        "mentions": [
+          "Lichtenstein"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 57,
+        "mentions": [
+          "Norwegian",
+          "Norwegian citizens"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 58,
+        "mentions": [
+          "Norway"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 59,
+        "mentions": [
+          "non-EU states",
+          "non-EU"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 60,
+        "mentions": [
+          "Hong Kong"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 61,
+        "mentions": [
+          "Council of Europe Lisbon Recognition Convention",
+          "Council of 7 September 2005"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 62,
+        "mentions": [
+          "NOKUT"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 63,
+        "mentions": [
+          "Spanish Ministry of Education and Science",
+          "Ministry of Education and Science"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 64,
+        "mentions": [
+          "H-1B visa"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 65,
+        "mentions": [
+          "specified agency",
+          "credential evaluation service"
+        ],
+        "type": "MISC"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Mutual recognition of higher education qualifications",
+        "relation": "RegulatedBy",
+        "tail": "UNESCO/Council of Europe Lisbon Recognition Convention"
+      },
+      {
+        "head": "Credential evaluation",
+        "relation": "UsedBy",
+        "tail": "those seeking an H-1B visa"
+      }
+    ],
+    "label_set": [
+      "RegulatedBy",
+      "BasedOn",
+      "UsedBy",
+      "LocatedIn",
+      "PresentedIn",
+      "PartOf",
+      "HasPart",
+      "Uses",
+      "InfluencedBy",
+      "Studies",
+      "DifferentFrom"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  }
+]

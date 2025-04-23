@@ -1,0 +1,5011 @@
+[
+  {
+    "domain": "Education",
+    "title": "Hospitality_management_studies",
+    "doc": "Hospitality Management and Tourism is the study of the hospitality industry. A degree in the subject may be awarded either by a university college dedicated to the studies of hospitality management or a business school with a relevant department. Degrees in hospitality management may also be referred to as hotel management, hotel and tourism management, or hotel administration. Degrees conferred in this academic field include BA, Bachelor of Business Administration, BS, BASc, B.Voc, MS, MBA, Bachelor of Hospitality Management, Master of Management, PhD and short term course. Hospitality management covers hotels, restaurants, cruise ships, amusement parks, destination marketing organizations, convention centers, country clubs and many more.\nIn the US, hospitality and tourism management curricula follow similar core subject applications to that of a business degree, but with a focus on tourism development and hospitality management. Core subject areas include accounting, administration, entrepreneurship, finance, information systems, marketing, human resource management, public relations, strategy, quantitative methods, and sectoral studies in the various areas of hospitality business. Some programs in India also include culinary training.Many schools have departments that specifically give degrees in the hospitality field.The QS World University Rankings by Subject are based upon academic reputation, employer reputation and research impact. These results are reviewed and evaluated every year by academics and industry professionals to ensure consistent quality over time.",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "hotel administration",
+          "amusement parks",
+          "hospitality",
+          "hospitality business",
+          "Hospitality Management and Tourism",
+          "convention centers",
+          "Hospitality Management",
+          "Hospitality",
+          "tourism management",
+          "country clubs",
+          "restaurants",
+          "hotel and tourism management",
+          "business school",
+          "Hospitality management",
+          "hotel management",
+          "cruise ships",
+          "destination marketing organizations",
+          "hospitality field",
+          "hotels",
+          "hospitality industry",
+          "hospitality and tourism management",
+          "business degree",
+          "hospitality management"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "MBA",
+          "MS",
+          "BA",
+          "B.Voc",
+          "Master of Management",
+          "BASc",
+          "short term course",
+          "Bachelor of Hospitality Management",
+          "PhD",
+          "BS",
+          "Bachelor of Business Administration"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "US"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "India"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "QS World University Rankings"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "Degrees in hospitality management"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "departments that specifically give degrees in the hospitality field",
+          "programs in India",
+          "hospitality and tourism management curricula"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "QS World University Rankings by Subject"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "research impact",
+          "academic reputation",
+          "employer reputation"
+        ],
+        "type": "MISC"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Hospitality Management and Tourism",
+        "relation": "Studies",
+        "tail": "hospitality industry"
+      },
+      {
+        "head": "Hospitality Management and Tourism",
+        "relation": "Studies",
+        "tail": "hospitality industry"
+      }
+    ],
+    "label_set": [
+      "RegulatedBy",
+      "BasedOn",
+      "UsedBy",
+      "LocatedIn",
+      "PresentedIn",
+      "PartOf",
+      "HasPart",
+      "Uses",
+      "InfluencedBy",
+      "Studies",
+      "DifferentFrom"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Education",
+    "title": "Validation_of_foreign_studies_and_degrees",
+    "doc": "The Validation or recognition of foreign studies and degrees is the process whereby a competent authority in one country formally recognises the value of a qualification from a foreign country. This can entail total or partial validation of foreign university and non-university studies, degrees and other qualifications. Particularly within Europe, this is covered by a number of international conventions and agreements.\nThe first generation of recognition conventions was developed under the auspices of UNESCO in the 1970s and 1980s, with conventions covering Latin America and the Caribbean (1974), the Mediterranean (1976), the Arab States (1978), Europe (1979), Africa (1981), and Asia and the Pacific (1983). These conventions are specifically concerned with recognition of qualifications rather than equivalence : there is no attempt to build frameworks with automatic equivalence of qualifications. This first generation of conventions has been built on by second generation conventions, starting with Lisbon (1997) covering Europe and now including the Asia-Pacific region (Tokyo, 2011) and Africa (Addis Ababa, 2014). A major change with the more recent conventions is a shift in favour of recognition, with the burden being to show substantial differences.\nThe Lisbon Convention  entered into force in 1999, the Tokyo Convention in 2018 and the Addis Ababa Convention in 2019. A new regional convention covering Latin America and the Caribbean was adopted in Buenos Aires in 2019 but has not, as of February 2020, entered into force. The first recognition treaty with a global scope, the Global Convention on the Recognition of Higher Education Qualifications, was adopted by the 40th session of UNESCO's General Conference in November 2019.\nMutual recognition of higher education qualifications is enshrined in the UNESCO/Council of Europe Lisbon Recognition Convention, which covers (as of February 2017) all Council of Europe members except Monaco and Greece, as well as Australia, Belarus, Holy See, Israel, Kazakhstan, Kyrghyz Republic, New Zealand and Tajikistan. The convention has also been signed, but not ratified, by Canada and the United States. Within these countries, qualifications must be recognised as equivalent unless proven otherwise, and assessments must be carried out fairly and within a reasonable time.The convention established the European Network of Information Centres (ENIC),  supplementing and expanding the National Academic Recognition Information Centre (NARIC) network established by the European Union in 1984. The ENIC-NARIC network comprises national centres for validation of degrees in member countries.\nThe European Higher Education Area consists (as of February 2017) of 48 national members (who must be signatories of the European Cultural Convention) and the European Union. It aims to promote mutual recognition of academic qualifications through alignment of national qualifications frameworks, via the Bologna Process's short cycle, first cycle (bachelor's degree), second cycle (master's degree) and third cycle (doctoral degree) framework, the European Credit Transfer and Accumulation System, and the use of Diploma Supplements.The European Qualifications Framework (EQF) is an initiative of the European Commission to provide a \"translation\" for national qualifications frameworks at all levels (not just higher education) and so support mobility of workers within the European Union. It originally covered the 28 EU states plus Lichtenstein and Norway, but has been opened to non-EU states, with Australia, New Zealand and Hong Kong currently going through referencing of their national frameworks to the EQF.Mutual recognition of professional qualifications is regulated by European Union Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications, modified by Council Directive 2006/100/EC.Procedure:\nThe competent authority of the host Member State shall acknowledge receipt of the application within one month of receipt and inform the applicant of any missing document.\nThe procedure for examining an application for authorisation to practise a regulated profession must be completed as quickly as possible and lead to a duly substantiated decision by the competent authority in the host Member State in any case within three months after the date on which the applicant's complete file was submitted. However, this deadline may be extended by one month in certain cases.\nThe decision, or failure to reach a decision within the deadline, shall be subject to appeal under national law.\nThe Norwegian governmental authority for accreditation of foreign education of Norwegian citizens and foreigners, NOKUT, has sole power in these matters.The total validation of foreign university studies and degrees in the Spanish system consists of a complete recognition of said studies and degrees in that system. The Spanish Ministry of Education and Science is in charge of the procedure.The academic degrees, diplomas or certificates on pharmaceutical or medical specialities which were obtained in a foreign country and which qualify the applicant in order to carry out the relevant professions in those countries can be validated as their official equivalents in the Spanish system.\nThe Ministry of Education and Science is only responsible for the total validation of a foreign university degree for its Spanish equivalent. Any other applications for the partial validation of studies carried out in a foreign country in order to pursue a university study course in Spain must be submitted to the Spanish university itself.\nThe US government does not have a specified agency for recognition and validation of foreign qualifications. Instead, responsibility falls on universities and colleges to determine the equivalence for students they admit, on employers for people they employ and on state licensing board for entry into regulated professions. These bodies may carry out assessment themselves, or contract a private credential evaluation service.Credential evaluation is also important for those seeking an H-1B visa, which requires a bachelor's degree or equivalent, and for some categories of permanent resident. For H-1Bs, but not permanent resident applications, experience can be counted towards equivalence at the rate of three years of experience equals one year of education.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "recognition treaty",
+          "Credential evaluation",
+          "Mutual recognition of higher education qualifications",
+          "recognition conventions",
+          "recognition and validation of foreign qualifications",
+          "validation of foreign university and non-university studies",
+          "validation of foreign university studies",
+          "credential evaluation",
+          "partial validation of studies",
+          "total or partial validation",
+          "complete recognition",
+          "total validation of foreign university studies and degrees",
+          "recognition of qualifications",
+          "recognition of professional qualifications",
+          "recognition of foreign studies and degrees",
+          "validation of degrees"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "one"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "EQF",
+          "European Higher Education Area",
+          "Council of Europe members",
+          "European Qualifications Framework (EQF)",
+          "ENIC-NARIC network",
+          "European Qualifications Framework",
+          "European Cultural Convention",
+          "Spanish system",
+          "Member State"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "EU",
+          "Europe"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "European Union",
+          "US government",
+          "European Commission",
+          "Spanish",
+          "Norwegian governmental authority",
+          "European Parliament"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "Spanish Ministry of Education and Science",
+          "European Commission",
+          "European Higher Education Area",
+          "European Network of Information Centres",
+          "Ministry of Education and Science",
+          "European Cultural Convention",
+          "Spanish university"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "Spain",
+          "US"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "European Network of Information Centres (ENIC)",
+          "UNESCO's General Conference",
+          "UNESCO",
+          "National Academic Recognition Information Centre (NARIC)"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "Lisbon Convention",
+          "Global Convention on the Recognition of Higher Education Qualifications",
+          "Council",
+          "European Union Directive 2005/36/EC",
+          "40th session of UNESCO's General Conference",
+          "NARIC network",
+          "European Qualifications Framework (EQF)",
+          "General Conference",
+          "Lisbon Recognition Convention",
+          "UNESCO/Council of Europe Lisbon Recognition Convention",
+          "mutual recognition of academic qualifications"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "Lisbon"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "Council of Europe"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "1983"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "1970s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "1981"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "1976"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "1974"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "1978"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "1979"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "2017"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "2005"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "2011"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "2019"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "1997"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "1980s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "1970s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "2018"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "1999"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "2014"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "February 2017"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "7 September 2005"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "February 2020"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "1984"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 33,
+        "mentions": [
+          "2020"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 34,
+        "mentions": [
+          "November 2019"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 35,
+        "mentions": [
+          "Asia",
+          "Asia-Pacific region",
+          "Asia and the Pacific",
+          "Latin America and the Caribbean",
+          "Mediterranean",
+          "Pacific",
+          "Africa",
+          "Caribbean",
+          "Latin America"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 36,
+        "mentions": [
+          "Arab States"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 37,
+        "mentions": [
+          "Mediterranean"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 38,
+        "mentions": [
+          "second"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 39,
+        "mentions": [
+          "Tokyo"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 40,
+        "mentions": [
+          "Tokyo Convention in 2018"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 41,
+        "mentions": [
+          "Addis Ababa Convention"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 42,
+        "mentions": [
+          "Addis Ababa"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 43,
+        "mentions": [
+          "Tokyo Convention"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 44,
+        "mentions": [
+          "Buenos Aires"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 45,
+        "mentions": [
+          "Global Convention on the Recognition of Higher Education Qualifications"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 46,
+        "mentions": [
+          "40th"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 47,
+        "mentions": [
+          "Kazakhstan",
+          "US",
+          "Belarus",
+          "Israel",
+          "Holy See",
+          "Kyrghyz Republic",
+          "Australia",
+          "Tajikistan",
+          "Canada",
+          "New Zealand",
+          "Monaco",
+          "United States",
+          "Greece"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 48,
+        "mentions": [
+          "European Network of Information Centres",
+          "ENIC"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 49,
+        "mentions": [
+          "National Academic Recognition Information Centre",
+          "European Network of Information Centres (ENIC)",
+          "NARIC"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 50,
+        "mentions": [
+          "48"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 51,
+        "mentions": [
+          "Bologna Process"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 52,
+        "mentions": [
+          "third"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 53,
+        "mentions": [
+          "European Credit Transfer and Accumulation System"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 54,
+        "mentions": [
+          "Diploma Supplements"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 55,
+        "mentions": [
+          "28"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 56,
+        "mentions": [
+          "Lichtenstein"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 57,
+        "mentions": [
+          "Norwegian",
+          "Norwegian citizens"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 58,
+        "mentions": [
+          "Norway"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 59,
+        "mentions": [
+          "non-EU states",
+          "non-EU"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 60,
+        "mentions": [
+          "Hong Kong"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 61,
+        "mentions": [
+          "Council of Europe Lisbon Recognition Convention",
+          "Council of 7 September 2005"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 62,
+        "mentions": [
+          "NOKUT"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 63,
+        "mentions": [
+          "Spanish Ministry of Education and Science",
+          "Ministry of Education and Science"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 64,
+        "mentions": [
+          "H-1B visa"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 65,
+        "mentions": [
+          "specified agency",
+          "credential evaluation service"
+        ],
+        "type": "MISC"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Mutual recognition of higher education qualifications",
+        "relation": "RegulatedBy",
+        "tail": "UNESCO/Council of Europe Lisbon Recognition Convention"
+      },
+      {
+        "head": "Credential evaluation",
+        "relation": "UsedBy",
+        "tail": "those seeking an H-1B visa"
+      }
+    ],
+    "label_set": [
+      "RegulatedBy",
+      "BasedOn",
+      "UsedBy",
+      "LocatedIn",
+      "PresentedIn",
+      "PartOf",
+      "HasPart",
+      "Uses",
+      "InfluencedBy",
+      "Studies",
+      "DifferentFrom"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Government",
+    "title": "Treaty_of_Verdun",
+    "doc": "The Treaty of Verdun (French: Traité de Verdun,\nGerman: Vertrag von Verdun), agreed in 10 August 843, divided the Frankish Empire into three kingdoms between Lothair I, Louis II and Charles II, the surviving sons of the emperor Louis I, the son and successor of Charlemagne. The treaty was concluded following almost three years of civil war and was the culmination of negotiations lasting more than a year. It was the first in a series of partitions contributing to the dissolution of the empire created by Charlemagne and has been seen as foreshadowing the formation of many of the modern countries of western Europe.\nThe treaty was the first of the four partition treaties of the Carolingian Empire, followed by the Treaties of Prüm (855), Meerssen (870), and Ribemont (880).\nFollowing Charlemagne's death, Louis was made ruler of the Frankish Empire. Agobard, archbishop of Lyon, opposed the division of the empire, as he claimed that it would divide the church. During his reign, Louis the Pious divided the empire so that each of his sons could rule over their own kingdom under the greater rule of their father. Louis’ eldest son, Lothair I, was given the title of emperor but because of several re-divisions by his father and the resulting revolts, he became much less powerful. When Louis died in 840, Lothair I claimed overlordship over the entirety of his father's kingdom in an attempt to reclaim the power he had at the beginning of his reign as emperor. He also supported his nephew Pepin II's claim to Aquitaine, a large province in the west of the Frankish realm. Lothair's brother, Louis II, and his half-brother Charles II refused to acknowledge Lothair's suzerainty and declared war against him. After a bloody civil war, they defeated Lothair at the Battle of Fontenoy in 841 and sealed their alliance in 842 with the Oaths of Strasbourg which declared Lothair unfit for the imperial throne, after which he became willing to negotiate a settlement. The meeting happened shortly before August 10, as confirmed by a contemporary letter.Each of the three brothers was already established in one kingdom: Lothair in the Kingdom of Italy; Louis the German in the Kingdom of Bavaria; and Charles II in the Kingdom of Aquitaine. Lothair I received Francia Media (the Middle Frankish kingdom).\nIn the settlement, Lothair (who had been named co-emperor in 817) retained his title as emperor, but it conferred only nominal overlordship of his brothers' lands. His domain later became the Low Countries, the Rhineland west of the Rhine, Lorraine, Alsace, Burgundy, Provence, and the Kingdom of Italy (which covered the northern half of the Italian Peninsula). He also received the two imperial cities, Aachen and Rome.\nLouis II received Francia Orientalis (the East Frankish kingdom).\nHe was guaranteed the kingship of all lands to the east of the Rhine (although not the Netherlands to the north of the Rhine) and to the north and east of Italy, altogether called East Francia. It eventually became the High Medieval Kingdom of Germany, the largest component of the Holy Roman Empire.\nCharles II received Francia Occidentalis (the West Frankish kingdom).\nPepin II was granted the Kingdom of Aquitaine, but only under the authority of Charles. Charles received all lands west of the Rhône, called West Francia. It eventually became the Kingdom of France.\nAfter Lothair's death in 855, his eldest son, Louis II, inherited Italy and his father's claim to the Imperial throne. Upper Burgundy and Lower Burgundy (Arles and Provence) passed to Lothair's third son, Charles of Provence. The remaining territory north of the Alps, which did not previously have a name, was inherited by Lothair's second son, Lothair II, and was then named Lotharingia (present day Lorraine) after him.\nThe division reflected an adherence to the old Frankish custom of partible or divisible inheritance amongst a ruler's sons, rather than primogeniture (i.e., inheritance by the eldest son) which would soon be adopted by both Frankish kingdoms. Since Lotharingia combined lengthy and vulnerable land borders with poor internal communications as it was severed by the Alps, it was not a viable entity and soon fragmented. This made it difficult for a single ruler to reassemble Charlemagne's empire. Only Charles the Fat achieved this briefly.In 855, the northern section became fragile Lotharingia, which became disputed by the more powerful states that evolved out of Francia Occidentalis (present day France) and Francia Orientalis (present day Germany). Generations of kings of France and Germany were unable to establish a firm rule over Lothair's kingdom. While the north of Lotharingia was then composed of independent countries, the southern third of Lotharingia, Alsace-Lorraine, was traded back and forth between France and Germany from the 18th to the 20th century. In 1766, it passed to France after the death of Stanisław Leszczyński, who had acquired the region from the German Habsburgs by the Treaty of Vienna (1738) ending the War of Polish Succession (1733:1738). In 1871, Alsace-Lorraine became German, after the victory of Prussia and its German allies over the French in the Franco-Prussian War (1870:1871). In 1919, it became French again by the Treaty of Versailles (1919), following the French victory over the Germans in World War I (1914:1918). In 1940, Germany reannexed Alsace-Lorraine following Germany's conquest of France. Finally, in 1945, after World War II (1939:1945), Alsace-Lorraine was solidified as French territory, which it remains to this day, more than a thousand years after the Treaty of Verdun. The collapse of the Middle Frankish Kingdom also compounded the disunity of the Italian Peninsula, which persisted into the 19th century.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "Treaty of Verdun",
+          "Verdun",
+          "Traité de Verdun",
+          "four partition treaties of the Carolingian Empire",
+          "Treaty",
+          "Vertrag von Verdun",
+          "four partition treaties",
+          "treaty",
+          "first of the four partition treaties"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "Rhône",
+          "western Europe",
+          "Alsace",
+          "French territory",
+          "High Medieval Kingdom of Germany",
+          "World War I (1914:1918)",
+          "Franco-Prussian War (1870:1871)",
+          "Rome",
+          "Treaty of Vienna",
+          "Italian",
+          "present day Lorraine",
+          "World War II",
+          "Lothair's kingdom",
+          "Francia Media",
+          "France",
+          "Frankish",
+          "Lorraine",
+          "French",
+          "Kingdom of Bavaria",
+          "Treaty of Versailles",
+          "Imperial throne",
+          "Rhineland west of the Rhine",
+          "Frankish Empire",
+          "Alps",
+          "Charlemagne's empire",
+          "Frankish realm",
+          "French victory over the Germans in World War I",
+          "Middle Frankish",
+          "Kingdom of Germany",
+          "German Habsburgs",
+          "Rhine",
+          "Francia Occidentalis",
+          "Middle Frankish kingdom",
+          "Kingdom of Italy",
+          "Middle Frankish Kingdom",
+          "northern section",
+          "empire",
+          "Lothair's second son, Lothair II",
+          "Lothair's third son, Charles of Provence",
+          "880",
+          "Franco-Prussian War",
+          "Kingdom of Aquitaine",
+          "more powerful states that evolved out of Francia Occidentalis",
+          "West Frankish kingdom",
+          "Low Countries",
+          "Provence",
+          "Frankish custom",
+          "Rhineland",
+          "northern half of the Italian Peninsula",
+          "imperial throne",
+          "Alsace-Lorraine",
+          "Imperial",
+          "Italian Peninsula",
+          "Italy",
+          "East Frankish kingdom",
+          "empire created by Charlemagne",
+          "Burgundy",
+          "Kingdom of France",
+          "West Francia",
+          "West Frankish",
+          "Lotharingia",
+          "Carolingian Empire",
+          "Upper Burgundy",
+          "Arles",
+          "southern third of Lotharingia",
+          "Stanisław Leszczyński",
+          "Europe",
+          "Aquitaine",
+          "Holy Roman Empire",
+          "Lower Burgundy",
+          "World War I"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "German Habsburgs",
+          "Germans in World War I",
+          "East Frankish kingdom",
+          "German",
+          "Francia Orientalis",
+          "Germany's conquest of France",
+          "Prussian",
+          "Prussia",
+          "German allies",
+          "East Francia",
+          "Germany reannexed Alsace-Lorraine",
+          "East Frankish",
+          "Germany",
+          "Holy Roman Empire",
+          "Germans"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "10 August 843"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "August 10"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "10 August"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "1919"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "1940"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "1945"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "1870:1871"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "1733:1738"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "1939:1945"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "1766"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "1914:1918"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "1738"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "19th century"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "1871"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "this day"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "three"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "Lothair",
+          "Ribemont",
+          "Charles II",
+          "Louis I",
+          "Louis the German",
+          "Lothair I",
+          "Charles of Provence",
+          "Charles the Fat",
+          "Charlemagne",
+          "Louis the Pious",
+          "Louis",
+          "Louis II",
+          "Charles",
+          "Lothair II"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "more than a year"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "almost three years"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "three years"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "more than a thousand years after the Treaty of Verdun"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "lasting more than a year"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "four"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "Treaties of Prüm"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "855"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "843"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "870"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "Meerssen"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "Agobard",
+          "Lyon",
+          "archbishop of Lyon"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 33,
+        "mentions": [
+          "840"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 34,
+        "mentions": [
+          "Pepin II was granted the Kingdom of Aquitaine",
+          "Pepin II's claim",
+          "Pepin II"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 35,
+        "mentions": [
+          "half"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 36,
+        "mentions": [
+          "841"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 37,
+        "mentions": [
+          "842"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 38,
+        "mentions": [
+          "Oaths of Strasbourg"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 39,
+        "mentions": [
+          "one"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 40,
+        "mentions": [
+          "817"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 41,
+        "mentions": [
+          "two"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 42,
+        "mentions": [
+          "Aachen",
+          "two imperial cities, Aachen and Rome"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 43,
+        "mentions": [
+          "Netherlands"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 44,
+        "mentions": [
+          "third"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 45,
+        "mentions": [
+          "Alps"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 46,
+        "mentions": [
+          "second"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 47,
+        "mentions": [
+          "18th to the 20th century"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 48,
+        "mentions": [
+          "War of Polish Succession"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 49,
+        "mentions": [
+          "more than a thousand years"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 50,
+        "mentions": [
+          "19th century"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 51,
+        "mentions": [
+          "imperial throne",
+          "Imperial throne"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 52,
+        "mentions": [
+          "Treaty of Versailles (1919)",
+          "Treaty of Versailles"
+        ],
+        "type": "MISC"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Alsace-Lorraine",
+        "relation": "LocatedIn",
+        "tail": "France"
+      },
+      {
+        "head": "Alsace-Lorraine",
+        "relation": "LocatedIn",
+        "tail": "Germany"
+      },
+      {
+        "head": "Charles II",
+        "relation": "OwnerOf",
+        "tail": "Francia Occidentalis"
+      },
+      {
+        "head": "Louis the German",
+        "relation": "PartOf",
+        "tail": "Kingdom of Bavaria"
+      },
+      {
+        "head": "Louis II",
+        "relation": "AdjacentStation",
+        "tail": "East Francia"
+      },
+      {
+        "head": "Louis II",
+        "relation": "OwnerOf",
+        "tail": "Francia Orientalis"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "AdjacentStation",
+        "tail": "Alsace"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "NominatedFor",
+        "tail": "Imperial throne"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "AdjacentStation",
+        "tail": "Low Countries"
+      },
+      {
+        "head": "Charles II",
+        "relation": "AdjacentStation",
+        "tail": "West Francia"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "AdjacentStation",
+        "tail": "Kingdom of Italy"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "OwnerOf",
+        "tail": "Francia Media"
+      },
+      {
+        "head": "Treaty of Verdun",
+        "relation": "HasPart",
+        "tail": "Frankish Empire"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "AdjacentStation",
+        "tail": "Rhineland"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "PartOf",
+        "tail": "Kingdom of Italy"
+      },
+      {
+        "head": "Charles II",
+        "relation": "PartOf",
+        "tail": "Kingdom of Aquitaine"
+      },
+      {
+        "head": "Lothair I",
+        "relation": "AdjacentStation",
+        "tail": "Lorraine"
+      },
+      {
+        "head": "Meerssen",
+        "relation": "Country",
+        "tail": "the Netherlands"
+      },
+      {
+        "head": "840",
+        "relation": "PrimeFactor",
+        "tail": "two"
+      },
+      {
+        "head": "842",
+        "relation": "PrimeFactor",
+        "tail": "two"
+      },
+      {
+        "head": "one",
+        "relation": "FollowedBy",
+        "tail": "two"
+      }
+    ],
+    "label_set": [
+      "Director",
+      "HasPart",
+      "SaidToBeTheSameAs",
+      "Follows",
+      "UsedBy",
+      "Employer",
+      "Developer",
+      "NominatedFor",
+      "OperatingSystem",
+      "AdjacentStation",
+      "Location",
+      "DiplomaticRelation",
+      "DifferentFrom",
+      "HasEffect",
+      "PublishedIn",
+      "OriginalLanguageOfFilmOrTvShow",
+      "FollowedBy",
+      "SharesBorderWith",
+      "IssuedBy",
+      "TwinnedAdministrativeBody",
+      "PlaceOfBirth",
+      "NativeLanguage",
+      "OwnerOf",
+      "InfluencedBy",
+      "LanguageUsed",
+      "PartOf",
+      "PrimeFactor",
+      "ContainsTheAdministrativeTerritorialEntity",
+      "ParentOrganization",
+      "CitesWork",
+      "LocatedIn",
+      "Country",
+      "EducatedAt",
+      "CountryOfCitizenship",
+      "Capital",
+      "LanguageOfWorkOrName",
+      "OfficialLanguage",
+      "SignificantEvent",
+      "PartyChiefRepresentative",
+      "PositionHeld"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Government",
+    "title": "Official_communications_in_imperial_China",
+    "doc": "Official communications in imperial China, the era which lasted from the 221 BC until AD 1912, required predictable forms and means. Documents flowed down from the emperor to officials, from officials to the emperor, from one part of the bureaucracy to others, and from the emperor or his officials to the people. These documents, especially memorials to the throne, were preserved in collections which became more voluminous with each passing dynasty and make the Chinese historical record extraordinarily rich.\nThis article briefly describes the major forms and types of communication going up to and down from the emperor.\nUnder Chinese law, the emperor's edicts had the force of law. By the time the Han dynasty established the basic patterns of bureaucracy, edicts or commands could be issued either by the emperor or in the emperor's name by the proper official or unit of the government. Important edicts were carved on stone tablets for public inspection. One modern scholar counted more than 175 different terms for top down commands, orders, edicts, and such.Edicts formed a recognized category of prose writing. The Qing dynasty scholar Yao Nai ranked \"Edicts and orders\" (Zhao-ling) as one of the thirteen categories of prose writing, citing prototypes which went back to the Zhou dynasty and the Book of History. Han dynasty edicts, sometimes actually written by high officials in the name of the emperor, were known for their literary quality. In later dynasties, both emperors and officials who wrote in the emperor's name published collections of edicts.\nThe history of China features a range of famous edicts and instructions. Here are examples in chronological order:\nAn edict issued in 213 BC by Qin Shi Huang of the Qin dynasty ordered the burning of books and burying of scholars.\nThe Edict on the Proclamation of the Dynastic Name (建國號詔) issued in 1271 by Emperor Shizu of the Yuan dynasty promulgated the official dynastic name of \"Great Yuan\", officially established the Yuan dynasty as a Chinese dynasty, and explicitly claimed political succession from the Three Sovereigns and Five Emperors to the Tang dynasty.\nThe Hongwu Emperor of the Ming dynasty issued a series of Great Warnings (御製大誥) which informed his people and his bureaucracy of their failings and his instructions to correct them.\nAlso issued by the Hongwu Emperor, the Instructions of the Ancestor was effectively an edict directed at his descendants.\nThe Hongwu Emperor also issued the Six Maxims (聖諭六言) which instructed his subjects:\nTreat your parents with piety; respect your elders and superiors; live at peace in your villages; instruct your children and grandchildren; make your living peacefully; commit no wrong.\nThe Kangxi Emperor of the Qing dynasty issued the Sacred Edict in 1670 to educate his subjects on Confucian principles. This was to be posted in every village and read periodically to the assembled population. The edict was later expanded upon by the Yongzheng Emperor in 1724 and distributed in Chinese, Manchu and Mongolian languages.\nThe Qianlong Emperor issued an edict to George III of the United Kingdom in 1793 instructing him that England had nothing of value to offer.\nA memorial, most commonly zouyi, was the most important form of document sent by an official to the emperor. In the early dynasties, the terms and formats of the memorial were fluid, but by the Ming dynasty, codes and statutes specified what terminology could be used by what level of official in what particular type of document dealing with what particular type of problem. Criminal codes specified punishments for mistranscriptions or using a character that was forbidden because it was used in one of the emperor's names. The emperor might reply at length, perhaps dictating a rescript in response. More often he made a notation in the margin in vermilion ink (which only the emperor could use) stating his wishes. Or he might simply write \"forward to the proper ministry,\" \"noted,\" or use his brush to make a circle, the equivalent of a checkmark, to indicate that he had read the document.In 1370, the Hongwu emperor established an office to organize the flow of memorials, which could come from both officials and commoners, and this became the Office of Transmission (Tongzheng si). The staff copied each memorial received, and forwarded the original to the emperor. The emperor once severely scolded a director of the office for failing to report several memorials: \"Stability depends on superior and inferior communicating; there is none when they do not. From ancient times, many a state has fallen because a ruler did not know the affairs of the people.\"\nBy the height of the Qing dynasty in the 18th century, memorials from bureaucrats at the central, provincial, and county level supplied the emperors (and modern historians) with personnel evaluations, crop reports, prices in local markets, weather predictions, intelligence on social affairs, and any other matter of possible interest.  Memorials were transported by government couriers and then copied and summarized by the Grand Secretariat, which itself had been perfected in the preceding Ming dynasty. They would be copied by clerks and entered into official registers.\nThis bureaucracy saved the emperor from being swamped with tedious detail but might also shield him from information which he needed to know. The Kangxi Emperor (r. 1672:1722), the Yongzheng Emperor (r. 1722:1735), and the Qianlong Emperor (r. 1735:1796) therefore developed a supplementary system of \"Palace Memorials\" (zouzhe) which they instructed local officials to send directly, without passing through bureaucratic filters. One type, the \"Folding Memorial,\" was written on a page small enough for the emperor to hold in his hand and read without being observed. The Yongzheng Emperor, who preferred the written system over audiences, increased the use of these palace memorials by more than ten times over his father. He found he could get quick responses to emergency requests instead of waiting for the formal report, or give frank instructions: Of one official he said, \"he is good-hearted, hard-working old hand. I think he's very good. But he's a bit coarse... just like Zhao Xiangkui, except that Zhao is intelligent.\" Likewise a provincial governor could frankly report that a subordinate was \"scatter brained.\" The emperor could then instruct the official to also submit a routine memorial. Most important, bypassing the regular bureaucracy made it easier for the emperor to have his own way without being restricted by the regulations of the administrative code.\nThe system of memorials and rescripts, even more than personal audiences, was the emperor's way to shape and cement relations with his officials. Memorials could be quite specific and even personal, since the emperor knew many of his officials quite well. The Kangxi Emperor, for instance, wrote one of his generals:\n\"I am fine. It is cool now outside the passes. There has been enough rain so the food now is very good... You're an old man -- are grandfather and grandmother both well?\"\nBut sometimes impatience broke through: \"Stop the incessant sending of these greetings!\" or \"I hear tell you've been drinking. If after receiving my edict you are not able to refrain, and so turn your back on my generosity, I will no longer value you or your services.\" The historian Jonathan Spence translated and joined together memorials of the Kangxi Emperor to form an autobiographical \"self-portrait\" which gives an feel for the emperor's place in the flow of government.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "emperor's edicts",
+          "Kangxi Emperor, for instance",
+          "Hongwu Emperor",
+          "Chinese dynasty",
+          "Chinese law",
+          "Kangxi Emperor",
+          "preceding Ming dynasty",
+          "Kangxi Emperor (r. 1672:1722)",
+          "Yuan dynasty",
+          "Chinese historical record",
+          "Qin dynasty",
+          "Hongwu emperor",
+          "Yongzheng Emperor",
+          "China",
+          "Qianlong Emperor",
+          "Chinese",
+          "history of China",
+          "emperor's name",
+          "Ming dynasty",
+          "Chinese, Manchu and Mongolian languages",
+          "Qing dynasty",
+          "Great Yuan",
+          "emperor"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "221"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "regular bureaucracy",
+          "ruler",
+          "George III",
+          "Official",
+          "Zhao Xiangkui",
+          "Emperor",
+          "official",
+          "Yongzheng Emperor, who preferred the written system over audiences, increased the use of these palace memorials by more than ten times over his father. He found he could get quick responses to emergency requests instead of waiting for the formal report, or give frank instructions: Of one official he said, \"he is good-hearted, hard-working old hand. I think he's very good. But he's a bit coarse... just like Zhao Xiangkui, except that Zhao is intelligent.",
+          "Zhou",
+          "Hongwu Emperor",
+          "United Kingdom",
+          "state",
+          "Kangxi Emperor",
+          "officials",
+          "Zhou dynasty",
+          "Hongwu emperor",
+          "George III of the United Kingdom",
+          "Manchu",
+          "Yongzheng Emperor",
+          "Qianlong Emperor",
+          "Qing dynasty scholar Yao Nai",
+          "Hongwu",
+          "dynasties",
+          "height of the Qing dynasty",
+          "Emperor Shizu",
+          "England",
+          "people",
+          "government",
+          "subjects",
+          "Zhao",
+          "bureaucrats",
+          "Qin",
+          "Qin Shi Huang",
+          "bureaucracy",
+          "r.",
+          "emperor",
+          "BC",
+          "government couriers"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "AD 1912"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "one"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "Han dynasty",
+          "Han",
+          "an edict to George III of the United Kingdom in 1793",
+          "Edicts and orders",
+          "Edicts",
+          "edict to George III",
+          "Han dynasty edicts"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "One"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "more than 175"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "Qing dynasty scholar Yao Nai",
+          "Qing dynasty",
+          "Qianlong Emperor (r. 1735:1796)",
+          "Kangxi Emperor of the Qing dynasty",
+          "Yongzheng Emperor (r. 1722:1735)",
+          "height of the Qing dynasty in the 18th century"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "Yao Nai"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "Zhao-ling"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "thirteen"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "Book of History"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "213"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "1271"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "213 BC"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "1370"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "1793"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "Three"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "Five"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "edicts",
+          "instructions",
+          "Instructions",
+          "Instructions of the Ancestor",
+          "edict",
+          "Edict",
+          "orders",
+          "Six Maxims",
+          "commands",
+          "Edict on the Proclamation of the Dynastic Name",
+          "Sacred Edict",
+          "Great Warnings"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "Six Maxims"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "Sacred Edict in 1670",
+          "Sacred Edict",
+          "Sacred Edict in"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "1724"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "1670"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "Confucian",
+          "Confucian principles"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "Mongolian languages",
+          "Mongolian"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "Tongzheng si",
+          "Office of Transmission"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "18th century"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "Grand Secretariat"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "Folding Memorial",
+          "Memorial",
+          "\"Folding Memorial",
+          "Palace Memorials",
+          "Memorials",
+          "memorial",
+          "memorials",
+          "memorials to the throne",
+          "palace memorials"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "more than ten"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "historian Jonathan Spence",
+          "Jonathan Spence"
+        ],
+        "type": "PERSON"
+      }
+    ],
+    "triples": [
+      {
+        "head": "memorials",
+        "relation": "UsedBy",
+        "tail": "officials"
+      },
+      {
+        "head": "Hongwu Emperor",
+        "relation": "IssuedBy",
+        "tail": "Great Warnings"
+      },
+      {
+        "head": "Han dynasty",
+        "relation": "HasPart",
+        "tail": "bureaucracy"
+      },
+      {
+        "head": "emperor",
+        "relation": "OwnerOf",
+        "tail": "memorials"
+      },
+      {
+        "head": "Qianlong Emperor",
+        "relation": "IssuedBy",
+        "tail": "edict to George III"
+      },
+      {
+        "head": "emperor",
+        "relation": "HasPart",
+        "tail": "edicts"
+      },
+      {
+        "head": "Qing dynasty",
+        "relation": "HasPart",
+        "tail": "Sacred Edict"
+      },
+      {
+        "head": "Kangxi Emperor",
+        "relation": "IssuedBy",
+        "tail": "Palace Memorials"
+      },
+      {
+        "head": "221",
+        "relation": "PrimeFactor",
+        "tail": "thirteen"
+      },
+      {
+        "head": "213",
+        "relation": "PrimeFactor",
+        "tail": "Three"
+      }
+    ],
+    "label_set": [
+      "Director",
+      "HasPart",
+      "SaidToBeTheSameAs",
+      "Follows",
+      "UsedBy",
+      "Employer",
+      "Developer",
+      "NominatedFor",
+      "OperatingSystem",
+      "AdjacentStation",
+      "Location",
+      "DiplomaticRelation",
+      "DifferentFrom",
+      "HasEffect",
+      "PublishedIn",
+      "OriginalLanguageOfFilmOrTvShow",
+      "FollowedBy",
+      "SharesBorderWith",
+      "IssuedBy",
+      "TwinnedAdministrativeBody",
+      "PlaceOfBirth",
+      "NativeLanguage",
+      "OwnerOf",
+      "InfluencedBy",
+      "LanguageUsed",
+      "PartOf",
+      "PrimeFactor",
+      "ContainsTheAdministrativeTerritorialEntity",
+      "ParentOrganization",
+      "CitesWork",
+      "LocatedIn",
+      "Country",
+      "EducatedAt",
+      "CountryOfCitizenship",
+      "Capital",
+      "LanguageOfWorkOrName",
+      "OfficialLanguage",
+      "SignificantEvent",
+      "PartyChiefRepresentative",
+      "PositionHeld"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Energy",
+    "title": "Electric_power_industry",
+    "doc": "The electric power industry covers the generation, transmission, distribution and sale of electric power to the general public and industry. The commercial distribution of electric power started in 1882 when electricity was produced for electric lighting. In the 1880s and 1890s, growing economic and safety concerns lead to the regulation of the industry. What was once an expensive novelty limited to the most densely populated areas, reliable and economical electric power has become an essential aspect for normal operation of all elements of developed economies.\nBy the middle of the 20th century, electricity was seen as a \"natural monopoly\", only efficient if a restricted number of organizations participated in the market; in some areas, vertically-integrated companies provide all stages from generation to retail, and only governmental supervision regulated the rate of return and cost structure.\nSince the 1990s, many regions have broken up the generation and distribution of electric power. While such markets can be abusively manipulated with consequent adverse price and reliability impact to consumers, generally competitive production of electrical energy leads to worthwhile improvements in efficiency. However, transmission and distribution are harder problems since returns on investment are not as easy to find.\nAlthough electricity had been known to be produced as a result of the chemical reactions that take place in an electrolytic cell since Alessandro Volta developed the voltaic pile in 1800, its production by this means was, and still is, expensive. In 1831, Michael Faraday devised a machine that generated electricity from rotary motion, but it took almost 50 years for the technology to reach a commercially viable stage. In 1878, in the United States, Thomas Edison developed and sold a commercially viable replacement for gas lighting and heating using locally generated and distributed direct current electricity.Robert Hammond, in December 1881, demonstrated the new electric light in the Sussex town of Brighton in the UK for a trial period. The ensuing success of this installation enabled Hammond to put this venture on both a commercial and legal footing, as a number of shop owners wanted to use the new electric light. Thus the Hammond Electricity Supply Co. was launched.\nIn early 1882, Edison opened the world's first steam-powered electricity generating station at Holborn Viaduct in London, where he had entered into an agreement with the City Corporation for a period of three months to provide street lighting. In time he had supplied a number of local consumers with electric light. The method of supply was direct current (DC). Whilst the Godalming and the 1882 Holborn Viaduct Scheme closed after a few years the Brighton Scheme continued on, and supply was in 1887 made available for 24 hours per day.\nIt was later on in the year in September 1882 that Edison opened the Pearl Street Power Station in New York City and again it was a DC supply. It was for this reason that the generation was close to or on the consumer's premises as Edison had no means of voltage conversion. The voltage chosen for any electrical system is a compromise. For a given amount of power transmitted, increasing the voltage reduces the current and therefore reduces the required wire thickness. Unfortunately it also increases the danger from direct contact and increases the required insulation thickness. Furthermore, some load types were difficult or impossible to make work with higher voltages. The overall effect was that Edison's system required power stations to be within a mile of the consumers. While this could work in city centres, it would be unable to economically supply suburbs with power.\nThe mid to late 1880s saw the introduction of alternating current (AC) systems in Europe and the U.S. AC power had an advantage in that transformers, installed at power stations, could be used to raise the voltage from the generators, and transformers at local substations could reduce voltage to supply loads. Increasing the voltage reduced the current in the transmission and distribution lines and hence the size of conductors and distribution losses. This made it more economical to distribute power over long distances. Generators (such as hydroelectric sites) could be located far from the loads. AC and DC competed for a while, during a period called the war of the currents. The DC system was able to claim slightly greater safety, but this difference was not great enough to overwhelm the enormous technical and economic advantages of alternating current which eventually won out.\nThe AC power system used today developed rapidly, backed by industrialists such as George Westinghouse with Mikhail Dolivo-Dobrovolsky, Galileo Ferraris, Sebastian Ziani de Ferranti, Lucien Gaulard, John Dixon Gibbs, Carl Wilhelm Siemens, William Stanley Jr., Nikola Tesla, and others contributed to this field.\nPower electronics is the application of solid-state electronics to the control and conversion of electric power. Power electronics started with the development of the mercury arc rectifier in 1902, used to convert AC into DC. From the 1920s on, research continued on applying thyratrons and grid-controlled mercury arc valves to power transmission. Grading electrodes made them suitable for high voltage direct current (HVDC) power transmission. In 1933, selenium rectifiers were invented. Transistor technology dates back to 1947, with the invention of the point-contact transistor, which was followed by the bipolar junction transistor (BJT) in 1948. By the 1950s, higher power semiconductor diodes became available and started replacing vacuum tubes. In 1956, the silicon controlled rectifier (SCR) was introduced, increasing the range of power electronic applications.\nA breakthrough in power electronics came with the invention of the MOSFET (metal-oxide-semiconductor field-effect transistor) in 1959. Generations of MOSFETs enabled power designers to achieve performance and density levels not possible with bipolar transistors. In 1969, Hitachi introduced the first vertical power MOSFET, which would later be known as the VMOS (V-groove MOSFET). The power MOSFET has since become the most common power device in the world, due to its low gate drive power, fast switching speed, easy advanced paralleling capability, wide bandwidth, ruggedness, easy drive, simple biasing, ease of application, and ease of repair.\nWhile HVDC is increasingly being used to transmit large quantities of electricity over long distances or to connect adjacent asynchronous power systems, the bulk of electricity generation, transmission, distribution and retailing takes place using alternating current.\nThe electric power industry is commonly split up into four processes. These are electricity generation such as a power station, electric power transmission, electricity distribution and electricity retailing. In many countries, electric power companies own the whole infrastructure from generating stations to transmission and distribution infrastructure. For this reason, electric power is viewed as a natural monopoly. The industry is generally heavily regulated, often with price controls and is frequently government-owned and operated. However, the modern trend has been growing deregulation in at least the latter two processes.The nature and state of market reform of the electricity market often determines whether electric companies are able to be involved in just some of these processes without having to own the entire infrastructure, or citizens choose which components of infrastructure to patronise. In countries where electricity provision is deregulated, end-users of electricity may opt for more costly green electricity.\nGeneration is the conversion of some primary energy source into electric power suitable for commercial use on an electrical grid. Most commercial electric power is produced by rotating electrical machines, \"generators\", which move conductors through a magnetic field to produce electric current.  The generator is rotated by some other prime mover machine; in typical grid-connected generators this is a steam turbine, a gas turbine, or a hydraulic turbine. Primary energy sources for these machine are often fossil fuels (coal, oil, natural gas), nuclear fission, geothermal steam, or falling water. Renewable sources such as wind and solar energy are increasingly of commercial importance.Since electrical generation must be closely matched with electrical consumption, enough generation capacity must be installed to meet peak demands.  At the same time, primary energy sources must be selected to minimize the cost of produced electrical energy. Generally the lowest-incremental-cost source of electrical energy will be the next unit connected to meet rising demand.  Electrical generators have automatic controls to regulate the power fed into the electrical transmission system, adjusting generator output moment by moment to balance with electrical demand.  For a large grid with scores or hundreds of generators connected and thousands of loads, management of stable generator supply is a problem with significant challenges, to meet economic, environmental and reliability requirements.  For example, low-incremental-cost generation sources such as nuclear power plants may be run continually to meet the average \"base load\" of the connected system, whereas more costly peaking power plants such as natural gas turbines may be run for brief times during the day to meet peak loads. Alternatively, load management strategies may encourage more even demand for electrical power and reduce costly peaks. Designated generator units for a particular electrical grid may be run at partial output only, to provide \"spinning reserve\" for sudden increases in demand or faults with other generating units.\nIn addition to electrical power production, electrical generation units may provide other ancillary services to the electrical grid, such as frequency control, reactive power, and black start of a collapsed power grid. These ancillary services may be commercially valuable when the generation, transmission, and distribution electrical companies are separate commercial entities.\nElectric power transmission is the bulk movement of electrical energy from a generating site, such as a power plant, to an electrical substation. The interconnected  lines which facilitate this movement are known as a transmission network. This is distinct from the local wiring between high-voltage substations and customers, which is typically referred to as electric power distribution. The combined transmission and distribution network is known as the \"power grid\" in North America, or just \"the grid\". In the United Kingdom, India, Malaysia and New Zealand, the network is known as the National Grid.A  wide area synchronous grid, also known as an \"interconnection\" in North America, directly connects many generators delivering AC power with the same relative frequency numerous consumers. For example, there are four major interconnections in North America (the Western Interconnection, the Eastern Interconnection, the Quebec Interconnection and the Electric Reliability Council of Texas (ERCOT) grid). In Europe one large grid connects most of continental Europe.\nHistorically, transmission and distribution lines were owned by the same company, but starting in the 1990s, many countries have liberalized the regulation of the electricity market in ways that have led to the separation of the electricity transmission business from the distribution business.\nElectric power distribution is the final stage in the delivery of electric power; it carries electricity from the transmission system to individual consumers. Distribution substations connect to the transmission system and lower the transmission voltage to medium voltage ranging between 2 kV and 35 kV with the use of transformers. Primary distribution lines carry this medium voltage power to distribution transformers located near the customer's premises. Distribution transformers again lower the voltage to the utilization voltage used by lighting, industrial equipment or household appliances. Often several customers are supplied from one transformer through secondary distribution lines. Commercial and residential customers are connected to the secondary distribution lines through service drops. Customers demanding a much larger amount of power may be connected directly to the primary distribution level or the subtransmission level.Electricity retailing is the final sale of electricity from generation to the end-use consumer.The organization of the electrical sector of a country or region varies depending on the economic system of the country.  In some places, all electric power generation, transmission and distribution is provided by a government controlled organization.  Other regions have private or investor-owned utility companies, city or municipally owned companies, cooperative companies owned by their own customers, or combinations. Generation, transmission and distribution may be offered by a single company, or different organizations may provide each of these portions of the system.Not everyone has access to grid electricity. About 840 million people (mostly in Africa) had no access in 2017, down from 1.2 billion in 2010.\nThe business model behind the electric utility has changed over the years playing a vital role in shaping the electricity industry into what it is today; from generation, transmission, distribution, to the final local retailing. This has occurred prominently since the reform of the electricity supply industry in England and Wales in 1990.In 1996 : 1999 the Federal Energy Regulatory Commission (FERC) made a series of decisions which were intended to open the U.S. wholesale power market to new players, with the hope that spurring competition would save consumers $4 to $5 billion per year and encourage technical innovation in the industry. Steps were taken to give all market participants open access to existing interstate transmission lines.   Order No. 888 ordered vertically integrated electric utilities to functionally separate their transmission, power generation and marketing businesses to prevent self-dealing.\nOrder No. 889 set up a system to provide all participants with timely access to information about available transmission capacity and prices.\nThe FERC also endorsed the concept of appointing independent system operators (ISOs) to manage the electric power grid : a function that was traditionally the responsibility of vertically integrated electric utility companies. The concept of an independent system operator evolved into that of regional transmission organizations (RTOs). FERC's intention was that all U.S. companies owning interstate electric transmission lines would place those facilities under the control of an RTO. In its Order No. 2000 (Regional Transmission Organizations), issued in 1999, FERC specified the minimum capabilities that an RTO should possess.\nThese decisions, which were intended to create a fully interconnected grid and an integrated national power market, resulted in the restructuring of the U.S. electricity industry. That process was soon dealt two setbacks: the California energy crisis of 2000, and the Enron scandal and collapse. Although industry restructuring proceeded, these events made clear that competitive markets could be manipulated and thus must be properly designed and monitored. Furthermore, the Northeast blackout of 2003 highlighted the need for a dual focus on competitive pricing and strong reliability standards.\nIn some countries, wholesale electricity markets operate, with generators and retailers trading electricity in a similar manner to shares and currency. As deregulation continues further, utilities are driven to sell their assets as the energy market follows in line with the gas market in use of the futures and spot markets and other financial arrangements. Even globalization with foreign purchases are taking place. One such purchase was when the UK's National Grid, the largest private electric utility in the world, bought several electric utilities in New England for $3.2 billion. Between 1995 and 1997, seven of the 12 Regional Electric Companies (RECs) in England and Wales were bought by U.S. energy companies. Domestically, local electric and gas firms have merged operations as they saw the advantages of joint affiliation, especially with the reduced cost of joint-metering. Technological advances will take place in the competitive wholesale electric markets, such examples already being utilized include fuel cells used in space flight; aeroderivative gas turbines used in jet aircraft; solar engineering and photovoltaic systems; off-shore wind farms; and the communication advances spawned by the digital world, particularly with microprocessing which aids in monitoring and dispatching.Electricity is expected to see growing demand in the future. The Information Revolution is highly reliant on electric power. Other growth areas include emerging new electricity-exclusive technologies, developments in space conditioning, industrial processes, and transportation (for example  hybrid vehicles, locomotives).",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "year in September 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "in 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "early 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "in September 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "1831"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "1881"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "1887"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "1878"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "In 1878"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "December 1881"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "September 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "1880s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "1890s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "In 1956"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "in 1959"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "In 1831"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "in 1887"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "in the year in September 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "mid to late 1880s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "1880s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "1880s and 1890s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "In early 1882"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "in 2010"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "in 2017"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "in December 1881"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "in the 1990s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "In the 1880s and 1890s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "middle of the 20th century"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "20th century"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "1990s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "Alessandro Volta"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "1800"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 33,
+        "mentions": [
+          "in 1800"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 34,
+        "mentions": [
+          "Michael Faraday",
+          "Faraday"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 35,
+        "mentions": [
+          "almost 50 years"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 36,
+        "mentions": [
+          "U.S.",
+          "United States",
+          "America"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 37,
+        "mentions": [
+          "Edison",
+          "Thomas Edison"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 38,
+        "mentions": [
+          "Robert Hammond",
+          "Hammond"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 39,
+        "mentions": [
+          "Brighton",
+          "Sussex",
+          "Sussex town of Brighton"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 40,
+        "mentions": [
+          "UK",
+          "United Kingdom",
+          "England and Wales",
+          "England",
+          "Wales"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 41,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 42,
+        "mentions": [
+          "Holborn Viaduct Scheme",
+          "1882 Holborn Viaduct Scheme"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 43,
+        "mentions": [
+          "City Corporation"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 44,
+        "mentions": [
+          "three months"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 45,
+        "mentions": [
+          "Godalming"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 46,
+        "mentions": [
+          "24 hours"
+        ],
+        "type": "TIME"
+      },
+      {
+        "id": 47,
+        "mentions": [
+          "New York City"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 48,
+        "mentions": [
+          "direct current electricity",
+          "DC",
+          "direct current",
+          "direct current (DC)"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 49,
+        "mentions": [
+          "a mile"
+        ],
+        "type": "QUANTITY"
+      },
+      {
+        "id": 50,
+        "mentions": [
+          "U.S. energy companies"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 51,
+        "mentions": [
+          "today"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 52,
+        "mentions": [
+          "George Westinghouse"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 53,
+        "mentions": [
+          "Mikhail Dolivo-Dobrovolsky"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 54,
+        "mentions": [
+          "Ferranti",
+          "Galileo Ferraris",
+          "Galileo",
+          "Sebastian Ziani de Ferranti",
+          "Ferraris"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 55,
+        "mentions": [
+          "Lucien Gaulard"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 56,
+        "mentions": [
+          "John Dixon Gibbs",
+          "Gibbs"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 57,
+        "mentions": [
+          "Carl Wilhelm Siemens",
+          "Siemens"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 58,
+        "mentions": [
+          "William Stanley Jr.",
+          "Stanley Jr."
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 59,
+        "mentions": [
+          "Nikola",
+          "Tesla",
+          "Nikola Tesla"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 60,
+        "mentions": [
+          "1902"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 61,
+        "mentions": [
+          "From the 1920s on"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 62,
+        "mentions": [
+          "1920s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 63,
+        "mentions": [
+          "1933"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 64,
+        "mentions": [
+          "1948"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 65,
+        "mentions": [
+          "1947"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 66,
+        "mentions": [
+          "1956"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 67,
+        "mentions": [
+          "1959"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 68,
+        "mentions": [
+          "1950s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 69,
+        "mentions": [
+          "1920s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 70,
+        "mentions": [
+          "1990s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 71,
+        "mentions": [
+          "2010"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 72,
+        "mentions": [
+          "2003"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 73,
+        "mentions": [
+          "1996"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 74,
+        "mentions": [
+          "2017"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 75,
+        "mentions": [
+          "1999"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 76,
+        "mentions": [
+          "1969"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 77,
+        "mentions": [
+          "1996 : 1999"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 78,
+        "mentions": [
+          "1997"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 79,
+        "mentions": [
+          "Between 1995 and 1997"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 80,
+        "mentions": [
+          "1995"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 81,
+        "mentions": [
+          "BJT",
+          "bipolar transistors",
+          "bipolar junction transistor"
+        ],
+        "type": "PRODUCT"
+      },
+      {
+        "id": 82,
+        "mentions": [
+          "1950s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 83,
+        "mentions": [
+          "SCR",
+          "silicon controlled rectifier (SCR)"
+        ],
+        "type": "PRODUCT"
+      },
+      {
+        "id": 84,
+        "mentions": [
+          "metal-oxide-semiconductor field-effect transistor",
+          "MOSFET"
+        ],
+        "type": "PRODUCT"
+      },
+      {
+        "id": 85,
+        "mentions": [
+          "Hitachi"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 86,
+        "mentions": [
+          "HVDC",
+          "high voltage direct current (HVDC)",
+          "high voltage direct current"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 87,
+        "mentions": [
+          "four"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 88,
+        "mentions": [
+          "two"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 89,
+        "mentions": [
+          "hundreds"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 90,
+        "mentions": [
+          "thousands"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 91,
+        "mentions": [
+          "North America"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 92,
+        "mentions": [
+          "Western Interconnection"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 93,
+        "mentions": [
+          "Electric Reliability Council of Texas (ERCOT)",
+          "ERCOT"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 94,
+        "mentions": [
+          "35"
+        ],
+        "type": "QUANTITY"
+      },
+      {
+        "id": 95,
+        "mentions": [
+          "About 840 million"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 96,
+        "mentions": [
+          "Africa"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 97,
+        "mentions": [
+          "1.2 billion"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 98,
+        "mentions": [
+          "$3.2 billion"
+        ],
+        "type": "MONEY"
+      },
+      {
+        "id": 99,
+        "mentions": [
+          "$4 to $5 billion"
+        ],
+        "type": "MONEY"
+      },
+      {
+        "id": 100,
+        "mentions": [
+          "$4 to $5 billion per year"
+        ],
+        "type": "MONEY"
+      },
+      {
+        "id": 101,
+        "mentions": [
+          "Order No. 888",
+          "Order No. 889",
+          "Order No. 2000"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 102,
+        "mentions": [
+          "California"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 103,
+        "mentions": [
+          "Enron"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 104,
+        "mentions": [
+          "One"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 105,
+        "mentions": [
+          "New England"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 106,
+        "mentions": [
+          "seven"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 107,
+        "mentions": [
+          "12"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 108,
+        "mentions": [
+          "Information Revolution"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 109,
+        "mentions": [
+          "consumers",
+          "customers",
+          "Customers",
+          "individual consumers",
+          "end-users of electricity"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 110,
+        "mentions": [
+          "natural monopoly"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 111,
+        "mentions": [
+          "Pearl Street Power Station"
+        ],
+        "type": "FAC"
+      }
+    ],
+    "triples": [
+      {
+        "head": "electric power industry",
+        "relation": "InfluencedBy",
+        "tail": "Michael Faraday"
+      },
+      {
+        "head": "electric power",
+        "relation": "UsedBy",
+        "tail": "general public"
+      },
+      {
+        "head": "electricity",
+        "relation": "NominatedFor",
+        "tail": "natural monopoly"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "HasPart",
+        "tail": "generation"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "HasPart",
+        "tail": "distribution"
+      },
+      {
+        "head": "Edison",
+        "relation": "OwnerOf",
+        "tail": "Pearl Street Power Station"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "HasPart",
+        "tail": "transmission"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "InfluencedBy",
+        "tail": "Alessandro Volta"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "HasPart",
+        "tail": "sale"
+      },
+      {
+        "head": "electric power",
+        "relation": "UsedBy",
+        "tail": "industry"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "InfluencedBy",
+        "tail": "George Westinghouse"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "InfluencedBy",
+        "tail": "Thomas Edison"
+      },
+      {
+        "head": "electric power",
+        "relation": "SaidToBeTheSameAs",
+        "tail": "electricity"
+      },
+      {
+        "head": "electric power industry",
+        "relation": "InfluencedBy",
+        "tail": "Nikola Tesla"
+      },
+      {
+        "head": "the U.S.",
+        "relation": "ContainsAdministrativeTerritorialEntity",
+        "tail": "California"
+      },
+      {
+        "head": "New York City",
+        "relation": "LocatedIn",
+        "tail": "North America"
+      }
+    ],
+    "label_set": [
+      "Promoted",
+      "Replaces",
+      "Partner",
+      "NominatedFor",
+      "InterestedIn",
+      "NamedAfter",
+      "HasPart",
+      "SignificantEvent",
+      "MemberOf",
+      "InfluencedBy",
+      "ContainsAdministrativeTerritorialEntity",
+      "InOppositionTo",
+      "Country",
+      "SaidToBeTheSameAs",
+      "WorkLocation",
+      "DifferentFrom",
+      "LocatedIn",
+      "HasWorksInTheCollection",
+      "PartOf",
+      "Creator",
+      "AcademicDegree",
+      "UsedBy",
+      "EducatedAt",
+      "CountryOfCitizenship",
+      "Author",
+      "DiplomaticRelation",
+      "OwnerOf",
+      "Follows",
+      "FollowedBy",
+      "OwnedBy"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Energy",
+    "title": "Thomas_W._Walde",
+    "doc": "Thomas W. Wälde (9 January 1949 : 11 October 2008), former United Nations (UN) Inter-regional Adviser on Petroleum and Mineral Legislation, was Professor & Jean-Monnet Chair at the Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP), Dundee.\nThomas Wälde died on 11 October 2008 in the south of France.Thomas Wälde grew up in Heidelberg (Germany) and went to school at the Kurfuerst-Friedrich-Gymnasium. He was from a South-West German family; his great uncle, Reinhold Maier, was the first Ministerpraesident of Baden-Wuerttemberg; another uncle, Heinz Maier-Leibnitz, a well known German professor of nuclear physics, director of German and French nuclear physics research laboratories and President of the German National Science Foundation (DFG).\nThomas Wälde lived and worked from his home/offices outside St Andrews, Scotland, Heidelberg and Bormes-Les-Mimosas. His second wife, Professor Charlotte Wälde, has served as co-director of the AHRC Centre on Intellectual Property Law at Edinburgh University. His son Max works as an attorney in Vienna, and his daughter Olivia is a student in London.\nHe studied law, in the traditional German way, at the Universities of Heidelberg, Lausanne-Geneva, Berlin and Frankfurt, with his law degree (Referendar) and doctorate (Juristische Folgenorientierung - a study on decision theory as an interpretative tool for international economic law) - in Frankfurt.He did his professional legal training in Frankfurt (including as an intern at the UN Centre on Transnational Corporations in New York) and obtained his \"Assessor\" grade there. He also worked as Associate Officer and resident consultant with the UN/CTC in New York and UNIDO in Vienna and was fellow at the Institute for International Economic Law in Frankfurt (founded by Heinrich Kronstein who was also professor at Georgetown Law School in the US and founder of the Washington-based International Law Institute).\nWälde was at Harvard Law School (1972:74) as LL.M. and subsequent visiting scholar. His Harvard LL.M. dissertation - on comparative company law - was published in 1974. Detlev Vagts was his academic mentor and teacher at Harvard Law School; he also worked as research assistant for the late Professor and ICJ Judge Richard Baxter. In 1978, he obtained the now prestigious price by the German Research Foundation (DFG) for a publication on transnational investment agreements (published in Rabelz Zeitschrift) which was, a decade later, named after Heinz Maier-Leibnitz, at one time the President of DFG.\nICJ president Roslyn Higgins had served as an academic mentor for Thomas Wälde since he moved from the United Nations in New York to the University of Dundee, Scotland in 1991.\nWälde started in 1980 as UN interregional adviser on mineral law - with the remit to provide rapid ad hoc advisory services to developing country governments throughout the world. He later became responsible for energy/petroleum and international investment policy as well. At the UN, he advised over 60 governments on legislative reform and contract negotiations with international investors mainly. He was also, from 1981 to 1983, UN investigator on occupation practices in Palestinian territories and responsible for the Secretary General's reports on \"Permanent Sovereignty over Natural resources\" and the Permanent Sovereignty in Occupied Palestinian territories reports. Wälde set up numerous investment advisory projects - combining legal, financial and technical expertise - to support investment project negotiations; organised training seminars and international UN conferences in the field of mining and oil and gas. He initiated the UN project for environmental guidelines in mining and was chair of the drafting group that produced the first version of the \"Berlin Guidelines\" in 1990.At Dundee, Wälde, as Professor and Executive Director,  developed the Centre for Petroleum and Mineral Law into the world's largest graduate school in its field - with four students in 1991 growing to well over 140 LL.M., MBA, MSC, MBA and PHD students in 2002/2003 (when he gave up the directorship). Student numbers went up, from 1991 to 2002, by a factor of about 40 and fees were raised by a factor of 4.  The centre obtained as a recognition for its spectacular growth the prestigious Queen's Award for Enterprise in 2004.\nFollowing his directorship of CEPMLP/Dundee, Wälde developed academic and professional expertise in international dispute resolution, both mediation and arbitration for large, complex, cross-border transnational disputes, primarily (but not exclusively) in the field of oil, gas, energy, infrastructure and mining (but also gaming and private equity) based on contract and investment treaties. He set up OGEMID, the mainly international electronic discussion and intelligence forum which is by now a \"must\" for anybody seriously engaged in international investment disputes, but also in complex commercial disputes in the energy and resources field. He acted as co-arbitrator in the NAFTA Chapter XI arbitration Thunderbird v Mexico; as co-arbitrator in the BIT-based arbitration of K+ v Czech Republic; and, in 2008, as co-arbitrator in a CAFTA dispute. He has also been appointed to international disputes in the field of mining and energy (electricity). He frequently acts as expert witness and (expert) co-counsel in international arbitrations relating to oil, gas, energy, mining and infrastructure, including Glamis v US, Duke v Peru, Nykomb v Latvia plus commercial, BIT, ECT and NAFTA-based arbitrations under UNCITRAL, ICSID, NAFTA and CAFTA procedural rules. He has also mediated commercial disputes between international oil companies and the SwePol dispute concerning an electricity interconnector between Poland and Sweden.\nHe was a frequent expert, but also counsel, mediator and arbitrator in international energy and investment disputes (International Centre for Settlement of Investment Disputes (ICSID), the North American Free Trade Agreement (NAFTA), Energy Charter Treaty, Bilateral Investment Treaty (BIT) and commercial contract disputes). Special member of AIPN, member of several int'l arbitral institutions, Rechtsanwalt (Frankfurt) & barrister (Lincoln's Inn - Essex Court Chambers, London). Adviser to the international institutions in the oil and gas field (the Organization of Petroleum Exporting Countries, International Energy Agency (IEA), UN, APEC, European Union, World Bank). Identified as leading international energy lawyer in a Euromoney survey, leading international lawyer in a Cambridge-sponsored Who's Who in International law and one of three international arbitrators resident in Scotland. Formerly (up to 1990) Interregional Adviser on Mineral and Petroleum law and International Investment Policy, United Nations, New York; staff and consultant for UN Centre on Transnational Corporations and United Nations Industrial Development Organization (1976:1980); Reporter for International Law Association Foreign Investment Law Committee (damages and tax-related investment disputes). Frequent speaker and author on international investment law, natural resources, mineral, energy and oil and gas law, including renegotiation, taxation, indirect expropriation, de-commissioning (abandonment) of offshore operations; state enterprise privatisation, investment treaties, environmental regulation; arbitration; Energy Charter Treaty.\nThomas Wälde was a prolific writer and speaker, and spoke at conferences around the world. He served as visiting professor at Panthéon-Assas University and American University. He is fellow of the investment programme at the British Institute of International & Comparative Law, at Columbia University's Law School and other EU-law focused institutions. He obtained a Jean-Monnet Chair in an EU-wide competition from the EU Commission in 1995 - on EU Energy and Economic Law. He was a \"Special Member\" of the Association of Int'l Petroleum Negotiators (AIPN), panel of energy/resources arbitrators of the Permanent court of Int'l Arbitration; Member of the Institut pour l'Arbitrage International; member of the IBA, LCIA, DIS; ICDR, ILA; ASIL, ITA (Academic Council). He was named in several professional guides as a leading international energy lawyers and one of three international arbitrators in Scotland. He was formerly the Chair, Energy, Petroleum and Mineral Law and Policy Trust; Director of the 2004 Hague Academy for Int'l Law Research Seminar on Int'l Investment Law. He was on the IUCN Energy Working Group and the World Energy Council's Task force on Energy Investment & Trade.\nHe could write and speak in English, German, French and Spanish, with some knowledge of Italian, Russian and Arabic.  He worked in all corners of the world.  He developed and led negotiation assistance inter alia in several investment projects related to coal (Colombia), gold (Mali), Guyana (uranium), Dominican Republic (nickel, oil), Cayman Islands (oil) : all led to completed transaction.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "Wälde",
+          "Thomas Wälde",
+          "Thomas W. Wälde"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "11 October 2008"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "9 January 1949"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "UN",
+          "United Nations",
+          "United Nations (UN)"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "CEPMLP/Dundee",
+          "Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP)",
+          "CEPMLP",
+          "Centre for Energy, Petroleum and Mineral Law and Policy",
+          "Centre for Petroleum and Mineral Law"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "Dundee",
+          "University of Dundee",
+          "University of Dundee, Scotland",
+          "Dundee, Scotland"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "German and French nuclear physics research laboratories"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "German National Science Foundation (DFG)",
+          "German National Science Foundation",
+          "DFG",
+          "German Research Foundation"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "Kurfuerst-Friedrich-Gymnasium"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "Reinhold Maier",
+          "first Ministerpraesident of Baden-Wuerttemberg"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "Bormes-Les-Mimosas"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "second"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "Charlotte Wälde"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "AHRC Centre on Intellectual Property Law"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP)"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "Edinburgh University"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "Max"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "Vienna"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "Olivia"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "Institute for International Economic Law"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "Heinrich Kronstein"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "Georgetown Law School"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "Harvard Law School"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "1978"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "1974"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "2002/2003"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "2004"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "1991"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "2008"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "1983"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "1995"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "1981"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 33,
+        "mentions": [
+          "1980"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 34,
+        "mentions": [
+          "1972:74"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 35,
+        "mentions": [
+          "2002"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 36,
+        "mentions": [
+          "1991 to 2002"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 37,
+        "mentions": [
+          "1990"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 38,
+        "mentions": [
+          "1949"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 39,
+        "mentions": [
+          "Detlev Vagts"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 40,
+        "mentions": [
+          "Richard Baxter"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 41,
+        "mentions": [
+          "Rabelz Zeitschrift"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 42,
+        "mentions": [
+          "a decade later"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 43,
+        "mentions": [
+          "one"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 44,
+        "mentions": [
+          "ICJ president Roslyn Higgins",
+          "Roslyn Higgins"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 45,
+        "mentions": [
+          "60"
+        ],
+        "type": "QUANTITY"
+      },
+      {
+        "id": 46,
+        "mentions": [
+          "Permanent Sovereignty over Natural resources"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 47,
+        "mentions": [
+          "\"Berlin Guidelines\""
+        ],
+        "type": "LAW"
+      },
+      {
+        "id": 48,
+        "mentions": [
+          "four"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 49,
+        "mentions": [
+          "140"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 50,
+        "mentions": [
+          "about 40"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 51,
+        "mentions": [
+          "Queen's Award for Enterprise",
+          "prestigious Queen's Award for Enterprise"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 52,
+        "mentions": [
+          "Thunderbird v Mexico",
+          "NAFTA Chapter XI arbitration Thunderbird v Mexico"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 53,
+        "mentions": [
+          "K+ v Czech Republic"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 54,
+        "mentions": [
+          "Glamis"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 55,
+        "mentions": [
+          "Nykomb"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 56,
+        "mentions": [
+          "Latvia"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 57,
+        "mentions": [
+          "SwePol dispute"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 58,
+        "mentions": [
+          "Poland"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 59,
+        "mentions": [
+          "Sweden"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 60,
+        "mentions": [
+          "Rechtsanwalt",
+          "Rechtsanwalt (Frankfurt)"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 61,
+        "mentions": [
+          "Lincoln's Inn"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 62,
+        "mentions": [
+          "Essex Court Chambers"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 63,
+        "mentions": [
+          "Organization of Petroleum Exporting Countries"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 64,
+        "mentions": [
+          "Euromoney"
+        ],
+        "type": "MONEY"
+      },
+      {
+        "id": 65,
+        "mentions": [
+          "three"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 66,
+        "mentions": [
+          "International Investment Policy",
+          "international investment policy"
+        ],
+        "type": "LAW"
+      },
+      {
+        "id": 67,
+        "mentions": [
+          "Panthéon-Assas University"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 68,
+        "mentions": [
+          "American University"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 69,
+        "mentions": [
+          "British Institute of International & Comparative Law"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 70,
+        "mentions": [
+          "Columbia University's Law School"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 71,
+        "mentions": [
+          "Jean-Monnet Chair"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 72,
+        "mentions": [
+          "EU Commission"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 73,
+        "mentions": [
+          "Institut pour l'Arbitrage International"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 74,
+        "mentions": [
+          "ITA (Academic Council)"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 75,
+        "mentions": [
+          "2004 Hague Academy for Int'l Law Research Seminar on Int'l Investment Law"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 76,
+        "mentions": [
+          "IUCN Energy Working Group"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 77,
+        "mentions": [
+          "World Energy Council's Task force on Energy Investment & Trade"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 78,
+        "mentions": [
+          "Italian"
+        ],
+        "type": "LANGUAGE"
+      },
+      {
+        "id": 79,
+        "mentions": [
+          "Russian"
+        ],
+        "type": "LANGUAGE"
+      },
+      {
+        "id": 80,
+        "mentions": [
+          "Arabic"
+        ],
+        "type": "LANGUAGE"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "WorkLocation",
+        "tail": "Bormes-Les-Mimosas"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "Follows",
+        "tail": "Detlev Vagts"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "WorkLocation",
+        "tail": "Institute for International Economic Law in Frankfurt"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "LocatedIn",
+        "tail": "Dundee, Scotland"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "Author",
+        "tail": "publication on transnational investment agreements"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "Follows",
+        "tail": "ICJ president Roslyn Higgins"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "LocatedIn",
+        "tail": "University of Dundee"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "WorkLocation",
+        "tail": "Bormes-Les-Mimosas"
+      },
+      {
+        "head": "Thomas W. Wälde",
+        "relation": "EducatedAt",
+        "tail": "Harvard Law School"
+      },
+      {
+        "head": "SwePol",
+        "relation": "Country",
+        "tail": "Poland"
+      },
+      {
+        "head": "SwePol",
+        "relation": "Country",
+        "tail": "Sweden"
+      },
+      {
+        "head": "Poland",
+        "relation": "DiplomaticRelation",
+        "tail": "Sweden"
+      }
+    ],
+    "label_set": [
+      "Promoted",
+      "Replaces",
+      "Partner",
+      "NominatedFor",
+      "InterestedIn",
+      "NamedAfter",
+      "HasPart",
+      "SignificantEvent",
+      "MemberOf",
+      "InfluencedBy",
+      "ContainsAdministrativeTerritorialEntity",
+      "InOppositionTo",
+      "Country",
+      "SaidToBeTheSameAs",
+      "WorkLocation",
+      "DifferentFrom",
+      "LocatedIn",
+      "HasWorksInTheCollection",
+      "PartOf",
+      "Creator",
+      "AcademicDegree",
+      "UsedBy",
+      "EducatedAt",
+      "CountryOfCitizenship",
+      "Author",
+      "DiplomaticRelation",
+      "OwnerOf",
+      "Follows",
+      "FollowedBy",
+      "OwnedBy"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Communication",
+    "title": "Automatic_curb_sender",
+    "doc": "The  automatic curb sender was a kind of telegraph key, invented by William Thomson, 1st Baron Kelvin for sending messages on a submarine communications cable, as the well-known Wheatstone transmitter sends them on a land line.\nIn both instruments, the signals are sent by means of a perforated ribbon of paper but the cable sender was the more complicated, because the cable signals are formed by both positive and negative currents, and not merely by a single current, whether positive or negative.  Moreover, to curb the prolongation of the signals due to electromagnetic induction, each signal was made by two opposite currents in succession: a positive followed by a negative, or a negative followed by a positive. The aftercurrent had the effect of \"curbing\" its precursor.\nFor some time, it was the only instrument delicate enough to receive the signals transmitted through a long cable.\nThis self-acting cable key was brought out in 1876, and tried on the lines of the Eastern Telegraph Company.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "William Thomson, 1st Baron Kelvin",
+          "William Thomson",
+          "1st Baron Kelvin",
+          "Kelvin",
+          "Baron Kelvin"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "1st"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "cable signals",
+          "Wheatstone transmitter",
+          "land line",
+          "long cable",
+          "cable"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "1876"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "Eastern Telegraph Company"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "self-acting cable key",
+          "telegraph key",
+          "cable sender",
+          "automatic curb sender"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "Eastern Telegraph Company"
+        ],
+        "type": "ORG"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Wheatstone transmitter",
+        "relation": "LocatedIn",
+        "tail": "land line"
+      },
+      {
+        "head": "automatic curb sender",
+        "relation": "PartOf",
+        "tail": "telegraph key"
+      },
+      {
+        "head": "automatic curb sender",
+        "relation": "UsedBy",
+        "tail": "Eastern Telegraph Company"
+      },
+      {
+        "head": "automatic curb sender",
+        "relation": "UsedBy",
+        "tail": "Eastern Telegraph Company"
+      },
+      {
+        "head": "William Thomson",
+        "relation": "Creator",
+        "tail": "automatic curb sender"
+      },
+      {
+        "head": "automatic curb sender",
+        "relation": "LocatedIn",
+        "tail": "submarine communications cable"
+      },
+      {
+        "head": "cable signals",
+        "relation": "InfluencedBy",
+        "tail": "currents"
+      },
+      {
+        "head": "prolongation of the signals",
+        "relation": "InfluencedBy",
+        "tail": "electromagnetic induction"
+      }
+    ],
+    "label_set": [
+      "HasQuality",
+      "InfluencedBy",
+      "Continent",
+      "NominatedFor",
+      "AppliesToPeople",
+      "LocatedIn",
+      "Founded",
+      "Uses",
+      "OfficialLanguage",
+      "MemberOf",
+      "UsedBy",
+      "PartOf",
+      "Studies",
+      "HasWorksInTheCollection",
+      "Affiliation",
+      "HasEffect",
+      "OwnerOf",
+      "Country",
+      "Creator",
+      "DiplomaticRelation",
+      "ApprovedBy",
+      "HasPart"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Communication",
+    "title": "Biocommunication_(science)",
+    "doc": "In the study of the biological sciences,  biocommunication is any specific type of communication within (intraspecific) or between (interspecific) species of plants, animals, fungi, protozoa and microorganisms. Communication means sign-mediated interactions following three levels of rules (syntactic, pragmatic and semantic). Signs in most cases are chemical molecules (semiochemicals), but also tactile, or as in animals also visual and auditive. Biocommunication of animals may include vocalizations (as between competing bird species), or pheromone production (as between various species of insects), chemical signals between plants and animals (as in tannin production used by vascular plants to warn away insects), and chemically mediated communication between plants and within plants.\nBiocommunication of fungi demonstrates that mycelia communication integrates interspecific sign-mediated interactions between fungal organisms, soil bacteria and plant root cells without which plant nutrition could not be organized. Biocommunication of Ciliates identifies the various levels and motifs of communication in these unicellular eukaryotes. Biocommunication of Archaea represents key levels of sign-mediated interactions in the evolutionarily oldest akaryotes. Biocommunication of phages demonstrates that the most abundant living agents on this planet coordinate and organize by sign-mediated interactions. Biocommunication is the essential tool to coordinate behavior of various cell types of immune systems.\nBiocommunication theory may be considered to be a branch of biosemiotics. Whereas biosemiotics studies the production and interpretation of signs and codes, biocommunication theory investigates concrete interactions mediated by signs. Accordingly, syntactic, semantic, and pragmatic aspects of biocommunication processes are distinguished. Biocommunication specific to animals (animal communication) is considered a branch of zoosemiotics. The semiotic study of molecular genetics, can be considered a study of biocommunication at its most basic level.Interpreting stimuli from the environment is an essential part of life for any organism. Abiotic things that an organism must interpret include climate (weather, temperature, rainfall), geology (rocks, soil type), and geography (location of vegetation communities, exposure to elements, location of food and water sources relative to shelter sites).Birds, for example, migrate using cues such as the approaching weather or seasonal day length cues. Birds also migrate from areas of low or decreasing resources to areas of high or increasing resources, most commonly food or nesting locations. Birds that nest in the Northern Hemisphere tend to migrate north in the spring due to the increase in insect population, budding plants and the abundance of nesting locations. During the winter birds will migrate south to not only escape the cold, but find a sustainable food source.\nSome plants will bloom and attempt to reproduce when they sense days getting shorter. If they cannot fertilize before the seasons change and they die then they do not pass on their genes. Their ability to recognize a change in abiotic factors allow them to ensure reproduction.\nTrans-organismic communication is when organisms of different species interact. In biology the relationships formed between different species is known as symbiosis. These relationships come in two main forms - mutualistic and parasitic. Mutualistic relationships are when both species benefit from their interactions. For example, pilot fish gather around sharks, rays, and sea turtles to eat various parasites from the surface of the larger organism. The fish obtain food from following the sharks, and the sharks receive a cleaning in return.Parasitic relationships are where one organism benefits off of the other organism at a cost. For example, in order for mistletoe to grow it must leach water and nutrients from a tree or shrub.  \nCommunication between species is not limited to securing sustenance. Many flowers rely on bees to spread their pollen and facilitate floral reproduction. To allow this, many flowers evolved bright, attractive petals and sweet nectar to attract bees. In a 2010 study, researchers at the University of Buenos Aires examined a possible relationship between fluorescence and attraction. The study concluded that reflected light was much more important in pollinator attraction than fluorescence. \nCommunicating with other species allows organisms to form relationships that are advantageous in survival, and all of these relationships are all based on some form of trans-organismic communication.\nInter-organismic communication is communication between organisms of the same species (conspecifics). Inter-organismic communication includes human speech, which is key to maintaining social structures.Dolphins communicate with one another in a number of ways by creating sounds, making physical contact with one another and through the use of body language. Dolphins communicate vocally through clicking sounds and pitches of whistling specific to only one individual. The whistling helps communicate the individual's location to other dolphins. For example, if a mother loses sight of her offspring, or when two familiar individuals cannot find each other, their individual pitches help navigate back into a group.  Body language can be used to indicate numerous things such as a nearby predator, to indicate to others that food has been found, and to demonstrate their level of attractiveness in order to find a mating partner, and even more.\nHowever, mammals such as dolphins and humans are not alone communicating within their own species. Peacocks can fan their feathers in order to communicate a territorial warning. Bees can tell other bees when they have found nectar by performing a dance when they return to the hive. Deer may flick their tails to warn others in their trail that danger is approaching.\nIntra-organismic communication is not solely the passage of information within an organism, but also concrete interaction between and within cells of an organism, mediated by signs. This could be on a cellular and molecular level. An organism's ability to interpret its own biotic information is extremely important. If the organism is injured, falls ill, or must respond to danger, it needs to be able to process that physiological information and adjust its behavior.For example, when the human body starts to overheat, specialized glands release sweat, which absorbs the heat and then evaporates.\nThis communication is imperative to survival in many species including plant life. Plants lack a central nervous system so they rely on a decentralized system of chemical messengers. This allows them to grow in response to factors such as wind, light and plant architecture. Using these chemical messengers, they can react to the environment and assess the best growth pattern.  Essentially, plants grow to optimize their metabolic efficiency.\nHumans also rely on chemical messengers for survival. Epinephrine, also known as adrenaline, is a hormone that is secreted during times of great stress. It binds to receptors on the surface of cells and activates a pathway that alters the structure of glucose. This causes a rapid increase in blood sugar. Adrenaline also activates the central nervous system increasing heart rate and breathing rate. This prepares the muscles for the body's natural fight-or-flight response.  \nOrganisms rely on many different means of intra-organismic communication. Whether it is through neural connections, chemical messengers, or hormones, these all evolved to respond to threats, maintain homeostasis and ensure self preservation.\nGiven the complexity and range of biological organisms and the further complexity within the neural organization of any particular animal organism, a variety of biocommunication languages exists.A hierarchy of biocommunication languages in animals has been proposed by Subhash Kak: these languages, in order of increasing generality, are associative, re-organizational, and quantum. The three types of formal languages of the Chomsky hierarchy map into the associative language class, although context-free languages as proposed by Chomsky do not exist in real life interactions.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "Biocommunication of animals",
+          "Biocommunication of Ciliates",
+          "Biocommunication of Archaea",
+          "Biocommunication of phages",
+          "Biocommunication of fungi"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "Archaea"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "seasonal day"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "Northern Hemisphere"
+        ],
+        "type": "LOC"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "winter"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "2010"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "a 2010 study"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "University of Buenos Aires"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "Subhash Kak"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "Chomsky"
+        ],
+        "type": "PERSON"
+      }
+    ],
+    "triples": [
+      {
+        "head": "communication",
+        "relation": "HasPart",
+        "tail": "biocommunication"
+      },
+      {
+        "head": "Signs",
+        "relation": "HasPart",
+        "tail": "chemical molecules"
+      },
+      {
+        "head": "Biocommunication",
+        "relation": "HasPart",
+        "tail": "Biocommunication of animals"
+      },
+      {
+        "head": "Biocommunication",
+        "relation": "HasPart",
+        "tail": "Biocommunication of fungi"
+      },
+      {
+        "head": "Biocommunication",
+        "relation": "HasPart",
+        "tail": "Biocommunication of Ciliates"
+      },
+      {
+        "head": "Biocommunication",
+        "relation": "HasPart",
+        "tail": "Biocommunication of Archaea"
+      },
+      {
+        "head": "Biocommunication",
+        "relation": "HasPart",
+        "tail": "Biocommunication of phages"
+      }
+    ],
+    "label_set": [
+      "HasQuality",
+      "InfluencedBy",
+      "Continent",
+      "NominatedFor",
+      "AppliesToPeople",
+      "LocatedIn",
+      "Founded",
+      "Uses",
+      "OfficialLanguage",
+      "MemberOf",
+      "UsedBy",
+      "PartOf",
+      "Studies",
+      "HasWorksInTheCollection",
+      "Affiliation",
+      "HasEffect",
+      "OwnerOf",
+      "Country",
+      "Creator",
+      "DiplomaticRelation",
+      "ApprovedBy",
+      "HasPart"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Entertainment",
+    "title": "Metagame",
+    "doc": "A metagame, broadly defined as \"a game beyond the game\", typically refers to either of two concepts: a game which revolves around a core game; or the strategies and approaches to playing a game. A metagame can serve a broad range of purposes, and may be tied to the way a game relates to various aspects of life.  \nIn competitive games, the metagame can refer to the most popular strategy, often called a game's meta, or preparation for a match in general. \nIn tabletop role-playing game, metagaming has been used to describe players discussing the game, sometimes simply rules discussions and other times causing the characters they control to act in ways they normally would not within the story.\nThe word metagame is composed of the Greek-derived prefix meta: (from μετά, meta, meaning \"beyond\") and the noun game. The shorthand meta has been backronymed as \"Most Effective Tactics Available\" to tersely explain the concept. Metagame was used in the context of playing zero-sum games in a publication by the Mental Health Research Institute in 1956. It is alternately claimed that the first known use of the term was in Nigel Howard's book Paradoxes of Rationality: Theory of Metagames and Political Behavior published in 1971, where Howard used the term in his analysis of the Cold War political landscape using a variation of the Prisoner's Dilemma.,  however Howard used the term in Metagame Analysis in Political Problems published in 1966. In 1967, the word appeared in a study by Russell Lincoln Ackoff and in the Bulletin of the Operations Research Society of America.In casual gaming, the metagame generally refers to any meaningful interaction between players and elements not directly part of the game. The concept gained traction in game design in a column written in 1995 by Richard Garfield, the creator of Magic: The Gathering, for The Duelist. In a 2000 talk at the Game Developers Conference, Garfield expanded on this, defining metagame as \"how a game interfaces beyond itself\", and asserted that this can include \"what you bring to a game, what you take away from a game, what happens between games, [and] what happens during a game\".  Stephanie Boluk and Patrick Lemieux extend and refine Garfield's term to apply to potentially all forms of play and gaming, arguing that metagames are often more important than video games themselves.  They go on to describe that metagaming \"results from the entanglement of philosophical concepts, the craft of game design, and the cultures of play that surrounds videogames.\"In the world of competitive games, rule imprecisions and non-goal oriented play are not commonplace. As a result, the extent of metagaming narrows down mostly to studying strategies of top players and exploiting commonly-used strategies for an advantage. Those may evolve as updates are released or new, better, strategies are discovered by top players. The opposite metagame of playing a relatively unknown strategy for surprisal is often called off-meta.This usage is particularly common in games that have large, organized play systems or tournament circuits. Some examples of this kind of environment are tournament scenes for tabletop or computer collectible card games like Magic: The Gathering, Gwent: The Witcher Card Game or Hearthstone, tabletop war-gaming such as Warhammer 40,000 and Flames of War, or team-based multiplayer online games such as Star Conflict, Dota 2, League of Legends, and Team Fortress 2. In some games, such as Heroes of the Storm, each battleground has a different metagame.\nThe meta in these environments is often affected by new elements added by the game's developers and publishers, such as new card expansions in card games, or adjustments to character abilities in online games. The metagame may also come within player communities as reactions to win over currently-popular strategies, creating ebbs and flows of strategy types over time.\nIn competitive games, more pervasive forms of metagaming like teaming in free-for-all multiplayer games can be interpreted as cheating or as bad sportsmanship. Writer Richard Garfield's book, Lost in the Shuffle: Games Within Games, considers instead teaming as just a form of metagaming. The practice of losing individual games to dodge stronger opponents in tournaments has also been interpreted as a form of metagaming, sometimes considered as unfair.Exploiting the meta is commonplace in esports. In StarCraft, a player's previous matches with the same opponent have given them insight into that player's play style and may cause them to make certain decisions which would otherwise seem inferior. Another instance of using the meta in esports was in 2012 at The International, a Dota 2 competition, when one team was able to exploit \"predictable, economical strategies and that summer's metagame, the in-game decisions and team configurations that were fashionable\" to counter a play by the other team. In fighting games, the meta is also played through character selection. The opposing character has various strengths that can be avoided and weaknesses that can be exploited more easily depending on the character you choose provided you are aware of those strengths and weaknesses (called a \"match up\"). For a basic example, a character with a projectile attack has the advantage over a grappler who must be close to the opponent to be effective. Match up metagaming is very important in tournament settings. In recent fighting games, blind select has been implemented for online modes. This makes it so that neither player can see what character the other player chose. In tournaments, players have the option to opt for a blind select where they tell a judge in confidence the character they intend to select in the match, making their character choice mandatory. A newer trend in more recently released titles is to allow the selection of multiple characters at once which the player can then switch between on the fly, rendering match-up picking excessively hard and virtually impractical.\nIn popular trading card games, such as Magic: The Gathering, Pokémon Trading Card Game, or Yu-Gi-Oh! Trading Card Game players compete with decks they have created in advance and the meta consists of the deck types that are currently popular and expected to show up in large numbers in a tournament. The knowledge of metagame trends can give players an edge against other participants, both while they are playing by quickly recognizing what kind of deck opponents have and guessing their likely cards or moves, and during the deck building process, by selecting cards that do well against current popular deck types at the possible expense of performance against rarer ones. Another example of metagaming would be bluffing opponents into expecting cards that you do not have, or surprising the competition with novel decks that they may not be prepared for. The secondary market of cards is heavily influenced by metagame trends: cards become more valuable when they are popular, often to the point of scarcity.Competitive chess has a well-defined meta in the form of chess openings and chess schools. A particular example are hypermodern openings. They became popular after World War I as high-ranked players like Aron Nimzowitsch started to play them. A popular off-meta is to play unpopular openings for humor or for strategically denying subsequent use of opening theory.\nMore narrowly, the playing history (meta) of a player or small group of players can be used to gain an advantage. A scholar's mate is a special set of moves can allow a player to win in four moves, usually by and against beginners. An example where this meta can be exploited by the opponent is as follows: competitor A has been watching Competitor B play chess, and the past five games in a row Competitor B has attempted to use this four-move win.  When Competitor A sits down to play against Competitor B, Competitor A can play in a way to give them an advantage, assuming Competitor B repeats this line.\nIn tabletop role-playing games, metagaming can refer to aspects of play that occur outside of a given game's fictional universe. In particular, metagaming often refers to having an in-game character act on knowledge that the player has access to, but the character should not.  For example, having a character bring a mirror to defeat Medusa when they are unaware her gaze can petrify them, or being more cautious when the game is run by a merciless gamemaster.Some consider metagaming to benefit oneself bad sportsmanship. It is frowned upon in many role-playing communities, as it upsets suspension of disbelief, and affects game balance. However, some narrativist indie role-playing games deliberately support metagaming and encourage shared storytelling among players.\nThe metagame for game developers refers to the extra set of rules and logic that are independent of the core gameplay. This can involve extra progressions or an economic market appended to the core gameplay that add mid- and long-term goals for players. Some researchers argue that having a metagame for players can increase user engagement with those games.",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "two"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "metagame",
+          "Metagames",
+          "meta",
+          "Metagame",
+          "metagaming",
+          "metagames"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "μετά, meta"
+        ],
+        "type": "LANGUAGE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "Most Effective Tactics",
+          "Most Effective Tactics Available"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "zero"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "Mental Health Research Institute"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "1956"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "1995"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "2000"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "1971"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "1966"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "1967"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "2012"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "Russell Lincoln Ackoff",
+          "Howard",
+          "Nigel Howard"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "Nigel Howard's book"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "Paradoxes of Rationality: Theory of Metagames and Political Behavior",
+          "Nigel Howard's book Paradoxes of Rationality: Theory of Metagames and Political Behavior published in 1971"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "Cold War political landscape"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "Metagame Analysis in Political Problems"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "Metagame Analysis"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "Cold War political landscape"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "Operations Research Society of America"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "Garfield",
+          "Richard Garfield"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "Pokémon Trading Card Game",
+          "Dota 2",
+          "Magic: The Gathering, Pokémon Trading Card Game",
+          "Flames of War",
+          "Hearthstone",
+          "Heroes of the Storm",
+          "Team Fortress 2",
+          "Magic: The Gathering",
+          "League of Legends"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "Game Developers Conference",
+          "a 2000 talk at the Game Developers Conference"
+        ],
+        "type": "EVENT"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "Stephanie Boluk"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "Gwent: The Witcher Card Game"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "Warhammer 40,000"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "Star Conflict",
+          "StarCraft"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "Lost in the Shuffle: Games Within Games"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "2"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "one"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "summer"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 33,
+        "mentions": [
+          "Yu-Gi-Oh"
+        ],
+        "type": "WORK_OF_ART"
+      },
+      {
+        "id": 34,
+        "mentions": [
+          "hypermodern openings"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 35,
+        "mentions": [
+          "World War I"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 36,
+        "mentions": [
+          "after World War I"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 37,
+        "mentions": [
+          "Aron Nimzowitsch",
+          "high-ranked players like Aron Nimzowitsch"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 38,
+        "mentions": [
+          "four"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 39,
+        "mentions": [
+          "five"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 40,
+        "mentions": [
+          "Medusa"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 41,
+        "mentions": [
+          " Patrick Lemieux"
+        ],
+        "type": "PERSON"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Howard",
+        "relation": "Author",
+        "tail": "Metagame Analysis in Political Problems"
+      },
+      {
+        "head": "Richard Garfield",
+        "relation": "Creator",
+        "tail": "Magic: The Gathering"
+      },
+      {
+        "head": "Nigel Howard's book",
+        "relation": "Founded",
+        "tail": "1971"
+      },
+      {
+        "head": "Aron Nimzowitsch",
+        "relation": "HasEffect",
+        "tail": "hypermodern openings"
+      },
+      {
+        "head": "Garfield",
+        "relation": "SignificantEvent",
+        "tail": "1995"
+      },
+      {
+        "head": "Russell Lincoln Ackoff",
+        "relation": "SignificantEvent",
+        "tail": "1967"
+      },
+      {
+        "head": "Richard Garfield",
+        "relation": "Creator",
+        "tail": "Magic: The Gathering"
+      },
+      {
+        "head": "hypermodern",
+        "relation": "HasPart",
+        "tail": "Aron Nimzowitsch"
+      }
+    ],
+    "label_set": [
+      "InspiredBy",
+      "SaidToBeTheSameAs",
+      "SignificantEvent",
+      "LocatedIn",
+      "PracticedBy",
+      "Founded",
+      "HasWorksInTheCollection",
+      "Uses",
+      "NominatedFor",
+      "PhysicallyInteractsWith",
+      "InterestedIn",
+      "HasPart",
+      "PartOf",
+      "OwnerOf",
+      "Follows",
+      "Author",
+      "HasEffect",
+      "Creator",
+      "DifferentFrom"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Entertainment",
+    "title": "Musical_canine_freestyle",
+    "doc": "Musical canine freestyle, also known as musical freestyle, freestyle dance, and canine freestyle, is a modern dog sport that is a mixture of obedience training, tricks, and dance that allows for creative interaction between dogs and their owners. The sport has developed into competition forms in several countries around the world.\nMusical freestyle started in many places almost simultaneously around 1989, with demonstrations of the talent of heeling to music being shown in Canada, England, the United States, and the Netherlands within three years of each other. The main unifying element among the groups was an interest in more creative obedience demonstrations and dog training, a love of music, and, in many cases, inspiration from an equine sport called musical kur, which was a more creative and dynamic form of dressage.The first official musical freestyle group, Musical Canine Sports International, was founded in British Columbia, Canada, in 1991. Soon, other groups followed in the United States and England. Each region began developing its own style, with many American groups promoting more trick-based routines and costumes. English groups focused more on heel work and on the dog, and less on costumes and design. Musical freestyle has become more common in animal talent shows and specialty acts.\nTeaching a dog to be able to work on both sides of the handler's body, not just the left side as in standard obedience heeling, is the first step to doing freestyle. The trainer first breaks the routine into pieces with only two or three moves linked together, and as they progress these pieces are linked together.There are two types of musical canine freestyle, freestyle heeling (also known as heelwork to music) and musical freestyle.\nHeelwork to music focuses on a dog's ability to stay in variations of the heel position while the handler moves to music. In heel work to music, the dog and trainer remain close to each other at all times. Sending the dog away or doing distance work is not part of the routine, with the dog remaining almost invisibly tethered to the trainer. Pivots, and moving diagonally, backwards, and forwards to a suitable musical theme are important to the routine. Jumping, weaving, rolling, passing through the trainer's legs and anything else considered \"not heeling\" is not allowed.Musical freestyle demands that the dog perform a variety of tricks and other obedience talents. In musical freestyle, heel work can be combined with other moves such as leg weaving, sending the dog away, moving together at a distance, and more dramatic tricks such as jumping, spinning, bowing, rolling over. Dancing in place, and other innovative actions where the dog plays off the dance moves of the trainer are encouraged. A popular finishing trick for some routines is for the dog to jump into the trainer's arms, or over his or her back.Currently, there are several organizations regulating competitive freestyle, such as Rally Freestyle Elements, the World Canine Freestyle Organization, Canine Freestyle Federation, Dogs Can Dance and the Musical Dog Sport Association in the United States, Paws 2 Dance Canine Freestyle Organization in Canada, Canine Freestyle GB in Great Britain, and Pawfect K9 Freestyle Club in Japan. In the UK, the sport is called Heelwork to Music and is an officially recognized sport of the Kennel club.Competition rules vary from group to group, and from country to country, but most are based on a variety of technical and artistic merit points. All routines are done free of training aids or leashes, except in some beginner categories. Competition can be done as a single dog-and-handler team, as a pair of dogs and handlers, or as a full team of three or more dogs and their handlers. Generally, there is only one dog per handler for competition.\nIn either type of competition, the choice of music and the way the routine reflects the music is important. Routines not following the rhythm, no matter how well executed, do not score well.\nExhibition freestyle is a no-holds-barred routine designed to demonstrate the full extent of creativity and excitement that musical freestyle can offer. Though highly entertaining and representing what most people see on television or at events, it allows for moves, props, cues, and costumes that would not usually be allowed on the competition circuit.\nRally Freestyle Elements (Rally FrEE) combines the trick behaviors of Canine Musical Freestyle with the format of Rally-Obedience.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "around 1989"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "1989"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "1991"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "three years"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "Canada",
+          "British Columbia",
+          "British Columbia, Canada"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "Paws 2 Dance Canine Freestyle Organization in Canada"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "GB",
+          "England",
+          "UK",
+          "Great Britain"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "American groups",
+          "American"
+        ],
+        "type": "NORP"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "United States",
+          "Japan"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "Netherlands"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "Pawfect K9 Freestyle Club"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "only two"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "three"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "two"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "Heelwork to music",
+          "heel work",
+          "heel work to music",
+          "Heelwork to Music",
+          "heelwork to music"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "Pivots"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "Dogs Can Dance and the Musical Dog Sport Association"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "Kennel club"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "only one"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "Competition rules"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "Canine Musical Freestyle",
+          "musical canine freestyle",
+          "canine freestyle"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "Pawfect K9 Freestyle Club"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "Canine Freestyle Federation"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "musical freestyle group"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "World Canine Freestyle Organization"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "Canine Freestyle GB"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "Canine Freestyle GB"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "Dogs Can Dance"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "Musical Dog Sport Association"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "Paws 2 Dance Canine Freestyle Organization"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "Musical Canine Sports International"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "Musical Freestyle",
+          "Musical freestyle",
+          "musical freestyle"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 33,
+        "mentions": [
+          "freestyle dance"
+        ],
+        "type": "MISC"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Musical freestyle",
+        "relation": "OwnerOf",
+        "tail": "Musical Canine Sports International"
+      },
+      {
+        "head": "Musical Canine Sports International",
+        "relation": "Founded",
+        "tail": "1991"
+      },
+      {
+        "head": "Rally Freestyle Elements",
+        "relation": "HasPart",
+        "tail": "Rally-Obedience"
+      },
+      {
+        "head": "Musical freestyle",
+        "relation": "PartOf",
+        "tail": "animal talent shows"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "SaidToBeTheSameAs",
+        "tail": "freestyle dance"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "SaidToBeTheSameAs",
+        "tail": "canine freestyle"
+      },
+      {
+        "head": "Musical canine freestyle",
+        "relation": "HasPart",
+        "tail": "musical freestyle"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "LocatedIn",
+        "tail": "the United States"
+      },
+      {
+        "head": "Competition rules",
+        "relation": "DifferentFrom",
+        "tail": "group to group"
+      },
+      {
+        "head": "Musical Canine Sports International",
+        "relation": "Founded",
+        "tail": "British Columbia, Canada"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "LocatedIn",
+        "tail": "England"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "SaidToBeTheSameAs",
+        "tail": "musical freestyle"
+      },
+      {
+        "head": "Rally Freestyle Elements",
+        "relation": "HasPart",
+        "tail": "Canine Musical Freestyle"
+      },
+      {
+        "head": "Musical canine freestyle",
+        "relation": "HasPart",
+        "tail": "freestyle heeling"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "LocatedIn",
+        "tail": "Canada"
+      },
+      {
+        "head": "Heelwork to Music",
+        "relation": "InterestedIn",
+        "tail": "Kennel club"
+      },
+      {
+        "head": "musical freestyle",
+        "relation": "LocatedIn",
+        "tail": "the Netherlands"
+      },
+      {
+        "head": "Musical Canine Sports International",
+        "relation": "Founded",
+        "tail": "British Columbia, Canada"
+      },
+      {
+        "head": "Canada",
+        "relation": "Follows",
+        "tail": "UK"
+      },
+      {
+        "head": "Canada",
+        "relation": "DifferentFrom",
+        "tail": "UK"
+      }
+    ],
+    "label_set": [
+      "InspiredBy",
+      "SaidToBeTheSameAs",
+      "SignificantEvent",
+      "LocatedIn",
+      "PracticedBy",
+      "Founded",
+      "HasWorksInTheCollection",
+      "Uses",
+      "NominatedFor",
+      "PhysicallyInteractsWith",
+      "InterestedIn",
+      "HasPart",
+      "PartOf",
+      "OwnerOf",
+      "Follows",
+      "Author",
+      "HasEffect",
+      "Creator",
+      "DifferentFrom"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  },
+  {
+    "domain": "Entertainment",
+    "title": "White_label",
+    "doc": "A white label record is a vinyl record with white labels attached. There are several variations each with a different purpose.  Variations include test pressings, white label promos, and plain white labels.\nTest pressings, usually with test pressing written on the label, with catalogue number, artist and recording time or date, are the first vinyl discs made at the factory. Such discs are produced in very small quantities (usually no more than 5 or 6 copies) to evaluate the quality of the disc before mass production begins. A review of the test pressing may expose problems with the tape to disc transfer (mastering) and helps to ensure that the defective discs do not reach the public.In the United States, the term white label promo (often abbreviated as WLP) refers to a promotional pressing with a label that has mostly the same text and label logo/artwork as the commercial label, but with a white background instead of the color label or artwork found on commercial pressings. These are usually pressed in quantities of only a few thousand per title. Such copies may also contain biographies or pictures of the musical artists. Promotional copies are for distribution to journalists, music distributors or radio stations in order to assess consumer opinion.White label discs can be used to anonymously promote new artists or upcoming albums by veteran artists.  In some cases plain white labels are issued to conceal artist identities (examples of this include songs by Traci Lords and La Toya Jackson), whose record companies issued white labels so that DJs would have no pre-conceived notions about the music from the artist name. Many dance music producers press copies of white labels in order to test crowd response in dance clubs to their own musical productions.Today, white labels are usually produced in small amounts (fewer than 300) by small record companies or DJs and are most popular with club and hip-hop music DJs.  In the early 1990s, hardcore techno and house artists created tracks in home or local studios and had five-hundred or a few thousand singles pressed on 12\" white labels, which were easy to sell at dance music record stores.Steve Beckett of Warp Records recalls that \"shops would take fifty white labels off you for five pounds each, no problem.  Dance music was all imports, then people in Britain started doing it for themselves, and their tracks started to get better than the tunes in America.\"  Record labels like Warp, and Shut Up and Dance, were begun as white-label enterprises, providing cutting-edge dance music to pirate radio stations and music stores.\nSome white labels may contain unauthorized remixes or other recordings which are not licensed for release. Recordings not authorized by the artist or label are often called \"bootlegs\". White labels are referred to as \"promos\" (short for \"promotional copies\") that many top-name DJs receive and play weeks or months prior to the day of general release to the public. As artists using samples pay high fees for the privilege of such, they must be able to gauge the market potential of their tracks prior to approval. Recently, smaller promo services offer record companies a more economical means of distribution although these companies may not have the means to properly protect releases from illegal copying.The industry itself seems to be aware of this necessity and white labels are commonly accepted as a necessary evil within the industry, which has only prosecuted a small number of those artists using white labeled pressings of uncleared samples and compositions.\n",
+    "entities": [
+      {
+        "id": 0,
+        "mentions": [
+          "first"
+        ],
+        "type": "ORDINAL"
+      },
+      {
+        "id": 1,
+        "mentions": [
+          "no more than 5"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 2,
+        "mentions": [
+          "6"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 3,
+        "mentions": [
+          "United States"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 4,
+        "mentions": [
+          "WLP",
+          "white label promo"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 5,
+        "mentions": [
+          "only a few thousand"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 6,
+        "mentions": [
+          "Traci Lords"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 7,
+        "mentions": [
+          "Today"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 8,
+        "mentions": [
+          "day"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 9,
+        "mentions": [
+          "fewer than 300"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 10,
+        "mentions": [
+          "very small quantities"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 11,
+        "mentions": [
+          "a few thousand per title"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 12,
+        "mentions": [
+          "five-hundred or a few thousand singles"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 13,
+        "mentions": [
+          "no more than 5 or 6 copies"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 14,
+        "mentions": [
+          "small amounts"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 15,
+        "mentions": [
+          "early 1990s"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 16,
+        "mentions": [
+          "hardcore techno"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 17,
+        "mentions": [
+          "five-hundred"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 18,
+        "mentions": [
+          "a few thousand"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 19,
+        "mentions": [
+          "12"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 20,
+        "mentions": [
+          "Steve Beckett"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 21,
+        "mentions": [
+          "Warp Records"
+        ],
+        "type": "ORG"
+      },
+      {
+        "id": 22,
+        "mentions": [
+          "Steve Beckett of Warp Records"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 23,
+        "mentions": [
+          "fifty"
+        ],
+        "type": "CARDINAL"
+      },
+      {
+        "id": 24,
+        "mentions": [
+          "five pounds"
+        ],
+        "type": "QUANTITY"
+      },
+      {
+        "id": 25,
+        "mentions": [
+          "Britain"
+        ],
+        "type": "GPE"
+      },
+      {
+        "id": 26,
+        "mentions": [
+          "weeks"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 27,
+        "mentions": [
+          "months"
+        ],
+        "type": "DATE"
+      },
+      {
+        "id": 28,
+        "mentions": [
+          "white label",
+          "white labels",
+          "white label record",
+          "White labels",
+          "White label"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 29,
+        "mentions": [
+          "Test pressings",
+          "test pressings",
+          "test pressing"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 30,
+        "mentions": [
+          "musical artists",
+          "DJs"
+        ],
+        "type": "PERSON"
+      },
+      {
+        "id": 31,
+        "mentions": [
+          "record companies",
+          "small record companies"
+        ],
+        "type": "MISC"
+      },
+      {
+        "id": 32,
+        "mentions": [
+          "unauthorized remixes",
+          "Recordings not authorized by the artist or label",
+          "bootlegs"
+        ],
+        "type": "MISC"
+      }
+    ],
+    "triples": [
+      {
+        "head": "Steve Beckett",
+        "relation": "OwnerOf",
+        "tail": "Warp Records"
+      },
+      {
+        "head": "white label record",
+        "relation": "HasPart",
+        "tail": "white label promos"
+      },
+      {
+        "head": "white label record",
+        "relation": "HasPart",
+        "tail": "test pressings"
+      },
+      {
+        "head": "white labels",
+        "relation": "HasPart",
+        "tail": "unauthorized remixes"
+      },
+      {
+        "head": "white label promo",
+        "relation": "HasPart",
+        "tail": "promotional pressing"
+      },
+      {
+        "head": "white labels",
+        "relation": "HasPart",
+        "tail": "unauthorized remixes"
+      },
+      {
+        "head": "unauthorized remixes",
+        "relation": "SaidToBeTheSameAs",
+        "tail": "bootlegs"
+      },
+      {
+        "head": "test pressings",
+        "relation": "HasEffect",
+        "tail": "very small quantities"
+      },
+      {
+        "head": "white labels",
+        "relation": "HasEffect",
+        "tail": "small amounts"
+      },
+      {
+        "head": "white label promo",
+        "relation": "SaidToBeTheSameAs",
+        "tail": "promotional pressing"
+      },
+      {
+        "head": "white label promo",
+        "relation": "HasPart",
+        "tail": "label"
+      },
+      {
+        "head": "test pressings",
+        "relation": "HasEffect",
+        "tail": "very small quantities"
+      },
+      {
+        "head": "white label record",
+        "relation": "HasPart",
+        "tail": "plain white labels"
+      }
+    ],
+    "label_set": [
+      "InspiredBy",
+      "SaidToBeTheSameAs",
+      "SignificantEvent",
+      "LocatedIn",
+      "PracticedBy",
+      "Founded",
+      "HasWorksInTheCollection",
+      "Uses",
+      "NominatedFor",
+      "PhysicallyInteractsWith",
+      "InterestedIn",
+      "HasPart",
+      "PartOf",
+      "OwnerOf",
+      "Follows",
+      "Author",
+      "HasEffect",
+      "Creator",
+      "DifferentFrom"
+    ],
+    "entity_label_set": [
+      "CARDINAL",
+      "DATE",
+      "EVENT",
+      "FAC",
+      "GPE",
+      "LANGUAGE",
+      "LAW",
+      "LOC",
+      "MONEY",
+      "NORP",
+      "ORDINAL",
+      "ORG",
+      "PERCENT",
+      "PERSON",
+      "PRODUCT",
+      "QUANTITY",
+      "TIME",
+      "WORK_OF_ART",
+      "MISC"
+    ]
+  }
+]
