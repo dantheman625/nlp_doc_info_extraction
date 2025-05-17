@@ -58,8 +58,8 @@ data/processed/
 models/checkpoints/
 
 # Content inside Logs and metrics (if you prefer not to track)
-# logs/*
-# metrics/*
+logs/*
+metrics/*
 
 # Environment files (sensitive information)
 .env
