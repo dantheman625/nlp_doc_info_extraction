@@ -59,7 +59,7 @@ models/checkpoints/
 
 # Content inside Logs and metrics (if you prefer not to track)
 # logs/*
-# metrics/*
+metrics/*
 
 # Environment files (sensitive information)
 .env
