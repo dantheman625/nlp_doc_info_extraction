@@ -1,6 +1,6 @@
-# [Project Title]
+# Universal Document-level Information Extraction
 
-[Briefly describe the goal and scope of your project.]
+This project was developed as part of the Document-level Information Extraction (DocIE) challenge. The objective is to extract entities, and relationships from long, unstructured documents. Our approach focuses on building a pipeline that combines Named Entity Recognition (NER) and Relation Extraction (RE) to produce structured outputs from raw text.
 
 ## Table of Contents
 
@@ -8,16 +8,14 @@
 2. [Project Structure](#project-structure)
 3. [Setup Instructions](#setup-instructions)
 4. [Running the Project](#running-the-project)
-5. [Reproducibility](#reproducibility)
 6. [Team Contributions](#team-contributions)
 7. [Results & Evaluation](#results--evaluation)
-8. [References](#references)
 
 ---
 
-## Project Description: Document-level Information Extraction using NLP and LLMs
+## Project Description
 
-In this project we present a pipeline which utilizes two trained models which separately extract entities from a given text, and then finds the relations between those entities. In our solution the models have been separately trained and are then combined as one seemlessly integrated pipeline.
+In this project we present a pipeline which utilizes two trained models, each specialized for either of the two tasks (NER, RE). They then sequentially extract entities from a given text, and then find the relations between those entities. In our solution the models have been separately trained and are then combined as one seemlessly integrated pipeline.
 
 ### Problem Statement
 
@@ -30,12 +28,7 @@ The challenge is divided into two key tasks:
 
 ## Project Structure
 
-### 1. **Baseline Evaluation**
-- Baseline provided by challenge
-- Done with GPT-4o and llama3-8b-all
-- Reproduced baseline with llama3-8b-instruct
-
-### 2. **Data Preprocessing**
+### 1. **Data Preprocessing**
 The notebook `1a_NER_Preprocessing.ipynb` prepares and combines data for Named Entity Recognition (NER) model training. Since the DocIE challenge dataset is very limited (1,794 documents total, with only 74 containing entity annotations), we augment it using the OntoNotes 5.0 dataset, which employs the same entity label set. The combined data is then saved in a unified JSON format suitable for model training.
 
 **Key Steps**
@@ -54,7 +47,7 @@ After refactoring OntoNotes examples, the script concatenates the filtered DocIE
 ```json
 {
   "title": "Title of the document",
-  "doc": "Full document text here …",
+  "doc": "Full document text here ...",
   "entities": [
     {
       "id": 0,
@@ -66,6 +59,22 @@ After refactoring OntoNotes examples, the script concatenates the filtered DocIE
   ]
 }
 ```
+
+### 2. **NER Baseline Evaluation**
+As a baseline for the NER task, we used the `meta-llama/Meta-Llama-3-8B-Instruct` model via the Hugging Face `transformers` pipeline. We followed a zero-shot prompting approach, however, the model received instructions that defined the desired entity schema explicitly. The inference was done using natural language prompts containing both system and user roles, guiding the model to output entities grouped by predefined categories. Below is the prompt which was used for establishing the baseline:
+```json
+{
+  "role": "system", 
+  "content": f"You are an expert in Named Entity Recognition. Please extract entities that match the schema definition from the input. Return an empty list if the entity type does not exist. Please respond in the format of a JSON string.\", \"schema\": {labels}"
+},
+{
+  "role": "user", 
+  "content": "Full document text here ..."
+},
+```
+
+The script loads raw data, constructs prompts with a system message instructing the model to perform NER, and includes the list of entity labels as a schema. Each document is passed to the model, and the output is parsed to extract the JSON-encoded entity results. A helper function attempts to clean and extract valid JSON from the model's generated text and optionally saves the output to disk.
+
 ### 3. **Named Entity Extraction (Task 1 - NER)**
 The notebook `3a_NER_Training.ipynb` handles the construction of training and validation datasets for NER, configures a Longformer-based model, and orchestrates both baseline and final evaluations. It begins by loading and merging JSON files from the DocIE challenge and OntoNotes datasets, then creates label mappings and splits data into training and validation sets. After tokenization and annotation with BIO tagging, a Longformer model is initialized—chosen for its efficiency on long documents—and a baseline evaluation is performed on the validation split. Following that, the Hugging Face Trainer is configured to train the model, and finally, a full evaluation on the validation set is run using the trained weights.
 
@@ -150,33 +159,6 @@ Next, the notebook ingests each document as a raw text string (and optionally a 
   "end": 36
 }
 ```
-## Project Structure
-
-```
-.
-├── data/
-│   ├── raw/                  # Raw dataset
-│   └── processed/            # Processed dataset
-├── logs/                     # Logs of training and evaluation runs
-├── metrics/                  # Evaluation metrics and results
-├── models/                   # Model checkpoints and exports
-│   ├── checkpoints/
-│   └── MyFirstModel.onnx
-├── utils/
-│   └── trainingMyCrazyModel.py
-├── .gitignore
-├── 1_Preprocessing.ipynb
-├── 2_Baseline.ipynb
-├── 3_Training.ipynb
-├── 4_Evaluation.ipynb
-├── 5_Demo.ipynb
-├── CLEANCODE.MD
-├── HELP.MD
-├── README.MD
-└── requirements.txt
-```
-
----
 
 ## Setup Instructions
 
@@ -196,7 +178,7 @@ In advance of every notebook the needed packages are installed and imported. No 
 
 The project_files folder contains all relevant data to run `5_Complepte_Pipeline.ipynb`. However, to reproduce our preprocessing and training steps the notebooks can be run in the following order:
 1. `1a_NER_Preprocessing.ipynb` - Data preprocessing
-2. `2_Baseline.ipynb` - Establishing a baseline model
+2. `2_Baseline.ipynb` - Establishing a baseline wiht Llama-3-8b model
 3. `3a_NER_Training.ipynb` - NER Model training
 4. `3b_RE_Training.ipynb` - RE Model training
 5. `5_Complete_Pipeline.ipynb` - Demonstration of the final pipeline
@@ -213,16 +195,20 @@ The project_files folder contains all relevant data to run `5_Complepte_Pipeline
 | Daniel Locher                 | NER model training                             |
 | Daniel Locher                 | NER training data analysis and visualization   |
 | Nina Krebs                    | RE training data preprocessing                 |
+| Nina Krebs                    | RE baseline evaluation                         |
 | Nina Krebs                    | RE model training                              |
+| Nina Krebs                    | RE training data analysis and visualization    |
 | Nina Krebs & Daniel Locher    | Complete pipeline development                  |
 
 ---
 
-## Results
+## Results & Evaluation
 
 ### NER Results
 
-Initial training was conducted on a small subset of 1,000 documents using only the default parameters of Hugging Face Trainer API. Only the learning rate was adjusted. A value of `1e-5` yielded the most stable training and evaluation curves and resulted in an F1 score of 0.6. Below the comparison of the F1 and the evaluation loss is visible between different learning rates.
+To evaluate the performance of the LLaMA-3-8B-Instruct baseline for named entity recognition, we tested it on two domains collections: *Internet* and *Human Behavior*. We used a zero-shot prompting approach. On the *Internet* dataset, the model achieved an average precision of 0.42, recall of 0.25, and an F1 score of 0.24. On the *Human Behavior* dataset, although the precision was slightly higher at 0.50, the recall dropped significantly to 0.10, resulting in a lower F1 score of 0.16. Overall, while useful as a zero-shot baseline, the LLaMA model falls short of the performance achieved by task-specific, fine-tuned models.
+
+Building up on this insight, we started with the fine-tuning of the Longerformer model. Initial training was conducted on a small subset of 1,000 documents using only the default parameters of Hugging Face Trainer API. Only the learning rate was adjusted. A value of `1e-5` yielded the most stable training and evaluation curves and resulted in an F1 score of 0.6. Below the comparison of the F1 and the evaluation loss is visible between different learning rates.
 
 ![NER F1 score on small dataset](media/small_f1.png)
 ![Evaluation loss on small dataset](media/small_eval.png)
@@ -249,7 +235,14 @@ In conclusion, we are confident to say that we have evidence that the NER traini
 
 ### RE Results
 
-The Relation Extraction (RE) task could not be successfully completed. Both baseline and fine-tuned RE models consistently returned zero values for Precision, Recall, and F1 score across all evaluation settings, indicating that the models failed to learn meaningful relations from the data.
+We experimented with finetuning the SpanBERT model for the Relationship Extraction task, starting with the annotated subset of the challenge dataset. Although training loss decreased steadily, the F1 score plateaued around 0.3, prompting us to develop and switch to a larger custom dataset.
+
+On the custom dataset, we conducted a series of hyperparameter tuning experiments. For learning rate, 2e-5 consistently delivered the best results across 50 epochs, achieving an F1 score of 0.84 and accuracy of 0.86. We validated this configuration in a long-run training of 200 epochs, which confirmed model stability and showed that performance peaked early, around 20 epochs.
+
+We also tested different batch sizes (8, 16, 24) and found that while batch size 8 yielded slightly better F1, batch size 16 was nearly as effective and offered more efficient training. Based on these findings, we selected the final configuration: learning rate 2e-5, batch size 16, and 20 training epochs.
+
+With this setup, the final RE model achieved a precision of 0.83, recall of 0.87, F1 score of 0.85, and accuracy of 0.87 on the validation set. This model was saved and used for all evaluations of the finetuned RE model throughout the project.
+
 
 ### Combined NER + RE Pipeline
 
@@ -259,13 +252,3 @@ When applying the full pipeline, NER followed by RE to new documents, the NER mo
 - [Briefly summarize your evaluation metrics, improvements from baseline, and insights drawn from experiments.]
 - All detailed results are documented in `metrics/firstResults.json`.
 
----
-
-## References
-
-[List here any relevant papers, sources, libraries, or resources used in your project.]
-
-- Doe, J. (2024). *Great NLP Paper*. Conference Name.
-- [Library Used](https://example-library.com)
-
----
