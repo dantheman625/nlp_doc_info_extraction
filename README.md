@@ -76,7 +76,7 @@ As a baseline for the NER task, we used the `meta-llama/Meta-Llama-3-8B-Instruct
 The script loads raw data, constructs prompts with a system message instructing the model to perform NER, and includes the list of entity labels as a schema. Each document is passed to the model, and the output is parsed to extract the JSON-encoded entity results. A helper function attempts to clean and extract valid JSON from the model's generated text and optionally saves the output to disk.
 
 ### 3. **Named Entity Extraction (Task 1 - NER)**
-The notebook `3a_NER_Training.ipynb` handles the construction of training and validation datasets for NER, configures a Longformer-based model, and orchestrates both baseline and final evaluations. It begins by loading and merging JSON files from the DocIE challenge and OntoNotes datasets, then creates label mappings and splits data into training and validation sets. After tokenization and annotation with BIO tagging, a Longformer model is initialized—chosen for its efficiency on long documents—and a baseline evaluation is performed on the validation split. Following that, the Hugging Face Trainer is configured to train the model, and finally, a full evaluation on the validation set is run using the trained weights.
+The notebook `3a_NER_Training.ipynb` handles the construction of training and validation datasets for NER, configures a Longformer-based model, and orchestrates both baseline and final evaluations. It begins by loading and merging JSON files from the DocIE challenge and OntoNotes datasets, then creates label mappings and splits data into training and validation sets. After tokenization and annotation with BIO tagging, a Longformer model is initialized, chosen for its efficiency on long documents and a baseline evaluation is performed on the validation split. Following that, the Hugging Face Trainer is configured to train the model, and finally, a full evaluation on the validation set is run using the trained weights.
 
 **Key Steps**
 
@@ -90,11 +90,11 @@ Next, the notebook loads a pretrained Longformer model from Hugging Face’s mod
 
 **3. Tokenization and Annotation Alignment**
 
-In order to create a Hugging Face–compatible dataset, each document is manually tokenized using the Longformer tokenizer. As tokens are produced, the code aligns the original character‐level entity spans with token indices, mapping each character-based annotation into token-based labels. During this process, the existing entity labels (e.g., `PERSON`, `ORG`, `GPE`) are extended using the BIO prefix scheme—`B-`, `I-`, and `O`—so that each token is assigned a tag reflecting whether it begins or continues an entity, or lies outside any entity.
+In order to create a Hugging Face–compatible dataset, each document is manually tokenized using the Longformer tokenizer. As tokens are produced, the code aligns the original character‐level entity spans with token indices, mapping each character-based annotation into token-based labels. During this process, the existing entity labels (e.g., `PERSON`, `ORG`, `GPE`) are extended using the BIO prefix scheme `B-`, `I-`, and `O` so that each token is assigned a tag reflecting whether it begins or continues an entity, or lies outside any entity.
 
 **4. Baseline Evaluation on Validation Data**
 
-Before any training occurs, a baseline evaluation is performed using the untrained Longformer model (with randomly initialized classification heads). This baseline step computes standard NER metrics—precision, recall, and F1—on the validation set, offering a point of comparison to gauge the benefit of subsequent training. Because the model has not yet seen any data, baseline scores typically reflect how well the pretrained encoder alone can distinguish entity patterns without supervised fine-tuning.
+Before any training occurs, a baseline evaluation is performed using the untrained Longformer model (with randomly initialized classification heads). This baseline step computes standard NER metrics-precision, recall, and F1 on the validation set, offering a point of comparison to gauge the benefit of subsequent training. Because the model has not yet seen any data, baseline scores typically reflect how well the pretrained encoder alone can distinguish entity patterns without supervised fine-tuning.
 
 **5. Configuring Trainer and Starting Training**
 
@@ -102,7 +102,7 @@ Once the dataset and model are prepared, the notebook defines training arguments
 
 **6. Final Evaluation on Validation Set**
 
-After training completes, the notebook uses the best saved checkpoint to perform a final evaluation on the validation split. It applies the trained model to the held‐out documents, converts predicted logits into BIO-tag sequences, and compares these predictions to the ground-truth annotations. The results—precision, recall, and F1 for each entity type and overall—are then reported, demonstrating the improvement achieved through fine-tuning.
+After training completes, the notebook uses the best saved checkpoint to perform a final evaluation on the validation split. It applies the trained model to the held‐out documents, converts predicted logits into BIO-tag sequences, and compares these predictions to the ground-truth annotations. The results precision, recall, and F1 for each entity type and overall are then reported, demonstrating the improvement achieved through fine-tuning.
 
 ### 4. **Relation Extraction (Task 2 - RE)**
 The notebook `3b_RE_Training.ipynb` implements the end‐to‐end workflow for training a supervised Relation Extraction (RE) model. It begins by loading and transforming the raw JSON files from the RE dataset, constructing a tabular representation of sentence‐level examples with entity pairs and their relation labels. The examples are split into training, validation, and test subsets, and then tokenized and encoded for a SpanBERT‐based sequence‐classification model. A baseline evaluation using the pretrained model is conducted on held‐out splits before fine‐tuning. Finally, the model is trained via Hugging Face’s Trainer API and evaluated again to report final metrics on validation (and test) sets.
@@ -111,7 +111,7 @@ The notebook `3b_RE_Training.ipynb` implements the end‐to‐end workflow for t
 
 **1. Loading and Structuring Raw Data**
 
-The notebook first navigates through all JSON files in the designated RE data directory (e.g., `Datasets_RE/train`). For each JSON, it extracts sentences and their annotated entity pairs—typically a “head” entity and a “tail” entity—along with the labeled relation between them. Each row in a temporary list captures `"entity1"`, `"entity2"`, `"text"`, and `"relation"`. Once all files have been processed, this list is converted into a Pandas DataFrame (`relation_dataset.csv`), in which each row corresponds to one candidate sentence containing both entities. This CSV makes it easier to inspect label distributions and to perform a stratified split.
+The notebook first navigates through all JSON files in the designated RE data directory (e.g., `Datasets_RE/train`). For each JSON, it extracts sentences and their annotated entity pairs, which is typically a “head” entity and a “tail” entity, along with the labeled relation between them. Each row in a temporary list captures `"entity1"`, `"entity2"`, `"text"`, and `"relation"`. Once all files have been processed, this list is converted into a Pandas DataFrame (`relation_dataset.csv`), in which each row corresponds to one candidate sentence containing both entities. This CSV makes it easier to inspect label distributions and to perform a stratified split.
 
 **2. Splitting into Training, Validation, and Test Sets**
 
@@ -119,7 +119,7 @@ Next, the script reads the consolidated `relation_dataset.csv` into a DataFrame 
 
 **3. Tokenization and Example Preparation**
 
-With the three splits defined as Pandas DataFrames, the notebook constructs Hugging Face `Dataset` objects from them. A tokenizer (SpanBERT’s tokenizer in this case) is loaded using `AutoTokenizer.from_pretrained(MODEL_NAME)`. A custom function—`make_example`—is applied to each example: it inserts special markers or context windows around the two entities in the sentence, tokenizes the text into input IDs and attention masks, and assigns a `relation_label` string to an intermediate field. After tokenization, the example retains only the tokenized inputs plus the original `relation_label`. This mapping is performed in batched mode on the Hugging Face `DatasetDict` to produce `token_input_datasets`.
+With the three splits defined as Pandas DataFrames, the notebook constructs Hugging Face `Dataset` objects from them. A tokenizer (SpanBERT’s tokenizer in this case) is loaded using `AutoTokenizer.from_pretrained(MODEL_NAME)`. A custom function `make_example` is applied to each example: it inserts special markers or context windows around the two entities in the sentence, tokenizes the text into input IDs and attention masks, and assigns a `relation_label` string to an intermediate field. After tokenization, the example retains only the tokenized inputs plus the original `relation_label`. This mapping is performed in batched mode on the Hugging Face `DatasetDict` to produce `token_input_datasets`.
 
 **4. Constructing Label Mappings**
 
@@ -127,7 +127,7 @@ Once all tokenized splits are in memory, the notebook collects every unique `rel
 
 **5. Baseline Evaluation on Held‐out Splits**
 
-Before any gradient updates, the notebook instantiates a pretrained SpanBERT (or similar) sequence‐classification model via `AutoModelForSequenceClassification.from_pretrained(MODEL_NAME, num_labels=…)`. This “baseline model” uses the pretrained weights of the encoder with a randomly initialized classification head. Using the same `Trainer` configuration that will later be used for training, the baseline is evaluated on both the validation and test splits. Metrics—cross‐entropy loss, precision, recall, F1‐score, and accuracy—are computed and logged (e.g., to Weights & Biases). This untrained baseline helps gauge how well the pretrained encoder already captures relation cues.
+Before any gradient updates, the notebook instantiates a pretrained SpanBERT (or similar) sequence‐classification model via `AutoModelForSequenceClassification.from_pretrained(MODEL_NAME, num_labels=…)`. This “baseline model” uses the pretrained weights of the encoder with a randomly initialized classification head. Using the same `Trainer` configuration that will later be used for training, the baseline is evaluated on both the validation and test splits. Cross‐entropy loss, precision, recall, F1‐score, and accuracy are computed and logged (e.g., to Weights & Biases). This untrained baseline helps gauge how well the pretrained encoder already captures relation cues.
 
 **6. Configuring the Trainer and Fine‐tuning**
 
@@ -135,11 +135,11 @@ After recording baseline metrics, the notebook defines `TrainingArguments` (lear
 
 **7. Final Evaluation with the Trained Model**
 
-Upon training completion (or early stopping), `Trainer` auto‐loads the best checkpoint (i.e., lowest validation loss or highest F1). The notebook then runs `trainer.evaluate()` on the validation split one final time to compute updated metrics. Optionally, it also does `trainer.predict()` on the held‐out test split to report test‐set performance. The results—per‐relation precision, recall, F1, and overall accuracy—are logged and saved (e.g., as CSV or via Weights & Biases tables) for later analysis or reporting.
+Upon training completion (or early stopping), `Trainer` auto‐loads the best checkpoint (i.e., lowest validation loss or highest F1). The notebook then runs `trainer.evaluate()` on the validation split one final time to compute updated metrics. Optionally, it also does `trainer.predict()` on the held‐out test split to report test‐set performance. The results are logged and saved (e.g., as CSV or via Weights & Biases tables) for later analysis or reporting.
 
 
 ### 5. **Complete Pipeline**
-The notebook `5_Complete_Pipeline.ipynb` stitches together the separately trained Named Entity Recognition (NER) and Relation Extraction (RE) models into a single end‐to‐end inference pipeline. Given a raw document, the pipeline first runs the NER module to identify entities and their spans. The detected entities—formatted as JSON with fields like `entity_group`, `word`, and character offsets—are then passed to the RE model, which predicts relational triples (head entity, tail entity, and relation type). The final output is a JSON list of document‐level relation triples.
+The notebook `5_Complete_Pipeline.ipynb` stitches together the separately trained Named Entity Recognition (NER) and Relation Extraction (RE) models into a single end‐to‐end inference pipeline. Given a raw document, the pipeline first runs the NER module to identify entities and their spans. The detected entities are then passed to the RE model, which predicts relational triples (head entity, tail entity, and relation type). The final output is a JSON list of document‐level relation triples.
 
 **Key Steps**
 
@@ -248,7 +248,4 @@ With this setup, the final RE model achieved a precision of 0.83, recall of 0.87
 
 When applying the full pipeline, NER followed by RE to new documents, the NER model was able to extract entities with reasonably high confidence for frequent labels, aligning with its validation performance. However, since the RE model failed to generalize, it was not able to produce any meaningful relation triples from the extracted entities. As a result, the overall pipeline output consisted of isolated entities without any detected relationships, limiting its utility for downstream information extraction tasks.
 
-
-- [Briefly summarize your evaluation metrics, improvements from baseline, and insights drawn from experiments.]
-- All detailed results are documented in `metrics/firstResults.json`.
 
