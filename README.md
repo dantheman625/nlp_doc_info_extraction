@@ -210,39 +210,56 @@ To evaluate the performance of the LLaMA-3-8B-Instruct baseline for named entity
 
 Building up on this insight, we started with the fine-tuning of the Longerformer model. Initial training was conducted on a small subset of 1,000 documents using only the default parameters of Hugging Face Trainer API. Only the learning rate was adjusted. A value of `1e-5` yielded the most stable training and evaluation curves and resulted in an F1 score of 0.6. Below the comparison of the F1 and the evaluation loss is visible between different learning rates.
 
-![NER F1 score on small dataset](media/small_f1.png)
-![Evaluation loss on small dataset](media/small_eval.png)
+<img src="media/small_f1.png" alt="NER F1 score on small dataset" width="50%" /> 
+<img src="media/small_eval.png" alt="Evaluation loss on small dataset" width="50%" />
 
 Building on this, the full dataset of 50,000 documents was used, which immediately improved the F1 to 0.8. After further tuning, a final F1 score of 0.89 on the validation set was achieved. The best-performing configuration used the following hyperparameters:
 
 `train_batch_size=32`, `eval_batch_size=64`, `gradient_accumulation_steps=2`, `num_epochs=12`, `learning_rate=1e-5`, `warmup_ratio=0.1`, and `weight_decay=0.01`
 
 
-![NER F1 score on full dataset](media/full_f1.png)
+<img src="media/full_f1.png" alt="NER F1 score on full dataset" width="50%" />
 
 **Limitations & Challenges**
 
 However, when this trained model was applied to unseen documents outside the validation set, the F1 score dropped significantly to 0.3. After a thorogh analysis, it became clear that this drop was due to imbalanced label distribution in the training data. Some entity labels occurred frequently, while others were underrepresented. The graph belows displays the frequency of all entity labels in our dataset. 
 
-![Entity label frequency](media/entities_full_ds.png)
+<img src="media/entities_full_ds.png" alt="Entity label frequency" width="50%" />
 
 Per-label F1 analysis showed strong performance (0.78 to 0.5) for common entities, but very low or zero F1 for rare ones. A similar trend was observed in model confidence: predictions for common labels had high certainty (0.8–0.99), whereas rare-label predictions were uncertain and resembled random guesses. The following graphs show the frequency of prediction confidence for one of the most and one of the least appearing entites. 
 
-![Prediction confidence for DATE](media/predictions_DATE.png)
-![Prediction confidence for LAW](media/predictions_LAW.png)
+<p float="left">
+  <img src="media/predictions_DATE.png" alt="Prediction confidence for DATE" width="25%" /> 
+  <img src="media/predictions_LAW.png" alt="Prediction confidence for LAW" width="25%" />
+</p>
 
 In conclusion, we are confident to say that we have evidence that the NER training has worked. However the outcome was limiteded due to the insufficiently diverse training data. 
 
 ### RE Results
+We first finetuned SpanBERT on the challenge dataset for 20 epochs with a learning rate of 2e-5 and batch size 16. Training loss decreased steadily, but validation accuracy peaked at approximately 0.7143 before settling around 0.6667 after about eleven epochs. Validation F1 peaked near 0.3879 after five epochs, then fell and stabilized around 0.30 after eleven epochs. These moderate results led us to create and use a larger custom RE dataset.
 
-We experimented with finetuning the SpanBERT model for the Relationship Extraction task, starting with the annotated subset of the challenge dataset. Although training loss decreased steadily, the F1 score plateaued around 0.3, prompting us to develop and switch to a larger custom dataset.
+<img src="media/REChallengeDatasetTrainingLoss.png" alt="Training loss curve on challenge dataset" width="50%" /> 
+<img src="media/REChallengeDatasetEvalAccuracy.png" alt="Accuracy on challange dataset" width="50%" />
 
-On the custom dataset, we conducted a series of hyperparameter tuning experiments. For learning rate, 2e-5 consistently delivered the best results across 50 epochs, achieving an F1 score of 0.84 and accuracy of 0.86. We validated this configuration in a long-run training of 200 epochs, which confirmed model stability and showed that performance peaked early, around 20 epochs.
+On the custom RE dataset, we began by evaluating SpanBERT without finetuning on the validation set. We then performed hyperparameter optimization in three stages. First, we tested learning rates of 1e-5, 2e-5, 3e-5, and 5e-5 over 50 epochs (batch size = 16). The model with lr = 2e-5 consistently outperformed the others, achieving an F1 near 0.841 and accuracy near 0.862, whereas lr = 5e-5 failed (F1 = 0.000, accuracy = 0.011). We therefore fixed lr = 2e-5 for later experiments.
 
-We also tested different batch sizes (8, 16, 24) and found that while batch size 8 yielded slightly better F1, batch size 16 was nearly as effective and offered more efficient training. Based on these findings, we selected the final configuration: learning rate 2e-5, batch size 16, and 20 training epochs.
+<img src="media/RELearningRateF1.png" alt="F1 between different learning rates" width="50%" /> 
+<img src="media/RELearningRateAccuracy.png" alt="Accuracy between different learning rates" width="50%" />
 
-With this setup, the final RE model achieved a precision of 0.83, recall of 0.87, F1 score of 0.85, and accuracy of 0.87 on the validation set. This model was saved and used for all evaluations of the finetuned RE model throughout the project.
+Next, with lr = 2e-5 and batch size = 16, we ran a 200‐epoch stability check to ensure performance did not collapse late and to find when peak performance occurred. After 200 epochs, the model achieved precision = 0.812, recall = 0.862, F1 = 0.828, and accuracy = 0.862. The highest metrics appeared around epochs 20–30, so we chose 20 epochs for final training to maximize efficiency without sacrificing performance.
 
+<img src="media/RE200EpochF1.png" alt="F1 in 200-epoch stability check" width="50%" /> 
+<img src="media/RE200EpochAccuracy.png" alt="Accuracy in 200-epoch stability check" width="50%" />
+
+Finally, we tested batch sizes of 8, 16, and 24 over 50 epochs (lr = 2e-5). Batch = 8 yielded slightly higher F1 and accuracy than batch = 16, but the difference was small. We selected batch = 16 for faster training and comparable performance.
+
+<img src="media/REBatchSizeF1.png" alt="F1 for different batch sizes" width="50%" /> 
+<img src="media/REBatchSizeAccuracy.png" alt="Accuracy for different batch sizes" width="50%" />
+
+In the final training run (lr = 2e-5, 20 epochs, batch = 16), the model reached precision = 0.833, recall = 0.874, F1 = 0.847, and accuracy = 0.874 on the validation set. Performance plateaued well before 20 epochs, confirming our hyperparameter choices. The resulting finetuned model checkpoint is included in this repository for downstream RE evaluations.
+
+<img src="media/REFinalTrainF1.png" alt="F1 in final run" width="50%" /> 
+<img src="media/REFinalTrainAccuracy.png" alt="Accuracy in final run" width="50%" />
 
 ### Combined NER + RE Pipeline
 
